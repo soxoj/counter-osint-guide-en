@@ -1,7 +1,7 @@
 # Counter-OSINT & privacy guide: how to protect your personal data
 
-![GitHub last commit](https://img.shields.io/github/last-commit/soxoj/counter-osint-guide-ru?label=Last%20update)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/soxoj/counter-osint-guide-ru?color=yellow&label=Update%20frequency)
+![GitHub last commit](https://img.shields.io/github/last-commit/soxoj/counter-osint-guide-en?label=Last%20update)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/soxoj/counter-osint-guide-en?color=yellow&label=Update%20frequency)
 
 **[Russian version](https://github.com/soxoj/counter-osint-guide-ru)**
 
