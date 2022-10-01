@@ -1,4 +1,4 @@
-# Адрес и местоположение
+# Physical address and geolocation
 
 *Раздел будет дополняться*
 

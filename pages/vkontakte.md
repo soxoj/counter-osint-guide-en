@@ -1,6 +1,6 @@
-# ВКонтакте
+# VKontakte
 
-*Раздел будет дополняться*
+*The section will be updated*
 
 ## Настройки
 
@@ -77,8 +77,8 @@
 
 ### Настройки приложений
 
-*Раздел будет дополняться*
+*The section will be updated*
 
 ---
 
-[⬅️ Назад](./facebook.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./2fa.md)
+[⬅️ Back](./facebook.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./2fa.md)

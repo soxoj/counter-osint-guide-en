@@ -1,4 +1,4 @@
-# Телефонный номер
+# Phone number
 
 Ранее мы говорили, что телефонный номер - это **вторичный** идентификатор.
 С точки зрения здравого смысла это так: вы можете избавиться от телефона, разорвать контракт с оператором,
@@ -60,11 +60,11 @@
 <img width="766" alt="image" src="https://user-images.githubusercontent.com/31013580/181388851-8fb6b8b7-dee6-43b8-8d9a-dd2311fccf4a.png">
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/31013580/181388894-fefbd50d-8a30-43ad-86f0-57a5451744f7.png">
 
-_Раздел будет дополняться_
+_The section will be updated_
 
 ### Сервисы постоянных виртуальных номеров телефонов
 
-_Раздел будет дополняться_
+_The section will be updated_
 
 ---
 

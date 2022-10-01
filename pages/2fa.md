@@ -1,4 +1,4 @@
-# Привязывать телефон к аккаунту - не всегда хорошая идея
+# Linking a phone number to an account
 
 **Не используйте подтверждение через номер телефона там, где это необязательно.**
 
@@ -25,4 +25,4 @@
 
 ---
 
-[⬅️ Назад](./development.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./deleteme.md)
+[⬅️ Back](./development.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./deleteme.md)
