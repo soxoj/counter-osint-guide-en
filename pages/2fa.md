@@ -1,27 +1,26 @@
 # Linking a phone number to an account
 
-**Не используйте подтверждение через номер телефона там, где это необязательно.**
+**Don't use phone number verification where it's not required.**
 
-2FA используется для усиления безопасности. Используйте дополнительный фактор для входа в сайт, когда вы осознаете,
-что аккаунт на конкретном сайте для вас важен (переписки, покупки, финансы), и что вы сознательно будете подтверждать вход каждый раз.
+2FA is used to enhance security. Use an additional authentification factor to log into the site when you realize
+that the account on a particular site is important to you (correspondence, purchases, finances), and that you will consciously confirm the entry every time.
 
-Однако, если есть выбор, что именно использовать для подтверждения, - номер телефона либо _что-то другое_ - то используйте другое.
-Компании заинтересованы в том, чтобы знать ваш номер: рассылать сообщения, проверять вашу личность, связывать её с другими сайтами.
-Так же легко они выдадут часть вашего номера при попытке входа в ваш аккаунт или когда ваш друг даст приложению доступ к своим контактам.
+However, if there is a choice of what to use for confirmation - a phone number or _something else_ - then use something else.
+Companies are interested in knowing your number: send you SMS, verify your identity and link it with other sites accounts.
+They easily will give out part of your number when somebody try to log into your account or when your friend gives the application access to their contacts.
 
-Также плохой идеей будет привязывать чужой телефон. Например, привязать телефон бабушки к своему аккаунту в Google, потому что Google зачем-то потребовал от вас добавить телефон.
-Зная ваш аккаунт, будет возможно получить часть номера телефона бабушки через, например, восстановление доступа.
+It's also a bad idea to use someone else's phone. For example, linking your grandmother's phone to your Google account if Google for some reason required you to add a phone.
+Knowing your account, it will be possible to get part of the grandmother's phone number through access recovery, for example.
 
-#### Где вообще возможны утечки информации о ваших учётных записях?
+#### Where is information about your accounts likely to be leaked?
 
-* Форма входа. Например, сервис может отвечать сообщениями "пользователь с таким email не существует" и "вы ввели неправильный пароль", что однозначно 
-подтверждает использование вашего почтового ящика.
+* Login form. For example, the site may respond with the messages "The user with this email does not exist" and "Wrong password", which is unambiguous confirms the existence of your account.
 
-* Форма регистрации. Пользователь определённо не даст вам зарегистрировать аккаунт на телефон, которые уже есть в системе: "этот телефон уже используется". А если его там нет, то на телефон скорей всего отправится уведомление.
+* Registration form. A site will definitely not let you register an account on a phone that is already used: "This phone is already registered.". But if it is not used, then a notification will most likely be sent to the phone.
 
-* Форма восстановления доступа. Чаще всего вводятся одни данные, например, никнейм аккаунта, а сервис отвечает что-то вроде "новый пароль отослан на ящик iva*****ov.mail.com" или "мы отослали СМС на номер, оканчивающийся на 93". Или просит ввести email, а потом пишет "если такой аккаунт существует, то мы отправили уведомление". А Facebook достаточно знать только ID аккаунта.
+* Recovery form. Most often, one data is entered, for example, the account nickname, and the service responds with something like "a new password was sent to the iva*****ov@mail.com mailbox" or "We sent an SMS to a number ending in 93". Or the service asks to enter email, and then writes "If such an account exists, then we sent a notification.". Some sites like Meta only needs to know the account ID.
 
-Во всех этих местах возможна утечка второго фактора, который вы привязываете к профилю.
+In all these places, the 2nd factor (phone number) that you bind to the account can leak.
 
 ---
 
