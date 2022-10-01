@@ -3,6 +3,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/soxoj/counter-osint-guide-ru?label=Last%20update)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/soxoj/counter-osint-guide-ru?color=yellow&label=Update%20frequency)
 
+**[Russian version](https://github.com/soxoj/counter-osint-guide-ru)**
+
 *The guide hasn't been finalized yet. Subscribe to updates ("Watch" button) or check the badges above!*
 
 **For personal advice on protecting your data and checking what information about you
