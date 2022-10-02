@@ -68,4 +68,4 @@ _The section will be updated_
 
 ---
 
-[⬅️ Назад](./hygiene.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./email.md)
+[⬅️ Back](./hygiene.md) | [⏫ Table of contents](../README.md) | [➡️ Вперёд](./email.md)

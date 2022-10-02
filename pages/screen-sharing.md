@@ -22,4 +22,4 @@
 
 ---
 
-[⬅️ Назад](./deleteme.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./russia.md)
+[⬅️ Back](./deleteme.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./russia.md)

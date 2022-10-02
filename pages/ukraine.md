@@ -18,7 +18,7 @@
 
 *The section will be updated*
 
-## Утечки данных в публичный доступ
+## Public data breaches
 
 В январе 2022 года появилась информация об утечке базы сервиса Дія. Несмотря на
 заверения властей о том, что утечка фальшивая, энтузиастами
@@ -28,4 +28,4 @@
 
 ---
 
-[⬅️ Back](./russia.md) | [⏫ Table of contents](../README.md) | [➡️ Вперёд](./kazakhstan.md)
+[⬅️ Back](./russia.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./kazakhstan.md)

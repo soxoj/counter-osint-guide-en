@@ -1,50 +1,46 @@
 # Introduction
 
-🚫 Это руководство **не про анонимность**. 
+🚫 This guide is **not about anonymity**.
 
-*Анонимность* - это полное скрытие информации о себе, вплоть до личности. Чтобы было невозможно понять, кто вы.
-Поддерживать анонимность в Сети трудно даже людям из организованных хакерских группировок. 
-Начинать следует с *приватности* - скрытии информации о вашей личной жизни. Поддерживать приватность проще, это как гигиена.
+*Anonymity* is the complete concealment of information about you, down to your identity. It becomes impossible to understand who you are.
+It is difficult to maintain anonymity on the Web, even for people from organized hacker groups and APTs.
+You should start with *privacy* - hiding information about your personal life. Maintaining privacy is easier, it's like hygiene.
 
-🚫 Это руководство **не про сопротивление большому брату и корпорациям**.
+🚫 This guide is **not about resisting Big Brother and corporations**.
 
-У меня нет цели рассказать вам, как стать неуловимым и не дать заработать на себе большим компаниям.
-Вы уже в системе, вас уже используют, вы уже товар. А если вы уверенно возражаете и считаете себя анонимным - 
-вероятно, вы находитесь в другой системе, может даже криминальной, и вряд ли почерпнёте здесь что-то новое.
+It is not my purpose to tell you how to become elusive and keep big companies from making money on you.
+You are already in the system, you are already being used, you are already a commodity. But if you confidently consider yourself anonymous - you are probably in a different system, maybe even a criminal one, and you are unlikely to learn anything new here.
 
-✅ Это руководство **про ценность личной информации**.
+✅ This guide is about **the value of personal information**.
 
-Каждый волен сам решать, что ему скрывать. Мне лишь хочется показать, как используются данные,
-которые вы не скрыли, и как пресечь это использование. Как понять, насколько ценна информация, которую вы собираетесь 
-ввести в окошко и нажать кнопку "Сохранить". Как не продать свои персональные данные по цене шавермы.
+Everyone is free to decide what to hide. I just want to show how the unhidden data is used, how to stop this usage, and how to understand how valuable the information you give to somebody entering symbols in the box and clicking the "Save" button. It's guide tell how not to sell your personal data for the price of a doner kebab.
 
-✅ Это руководство **про приватность и counter-OSINT**.
+✅ This guide is about **privacy and Counter OSINT**.
 
-Вы узнаете о том, как мыслят люди, которые собирают информацию о вас. Чем они пользуются и руководствуются, какие
-данные для них важны. Что они с этой информацией могут сделать (и делают!).
+You will learn about how people, who collect information about you, think. What do they use and are guided by, what
+data is important to them. What can they do with this information and what they acually do.
 
-И, конечно же, вы получите инструкции по тому, как свести риски потери вашей приватности к нулю. Фактически,
-это путеводитель для новичков в мир персональной контрразведки.
+Of course, you will receive instructions on how to reduce the risk of losing your privacy. Actually,
+is a beginner's guide to the world of personal counterintelligence.
 
-**Добро пожаловать!**
+**Welcome!**
 
 ---
 
 <details>
-  <summary>🥷 Продвинутый уровень</summary>
+  <summary>🥷 Advanced level</summary>
   </br>
-  На страницах руководства вам также будут встречаться разделы "🥷 Продвинутый уровень".
+  On the guide pages, you will also see "🥷 Advanced level" sections.
 
-  Они описывают защиту от более серьёзных угроз, но и требуют больших сил и затрат.
+  They describe protection against more serious threats, but also require more effort and expense.
 
-  Если вы посчитаете эти разделы более полезными для себя, то вам наверняка будет интересно великолепное руководство по анонимности в Сети
-  ["Автостопом по анонимности в Интернете"](https://whiteprime.github.io/thgtoa/).
+  If you find these sections more useful to you, then you will surely be interested in a great guide to online anonymity
+  ["The Hitchhiker's Guide to Online Anonymity"](https://whiteprime.github.io/thgtoa/).
 
-  Следовать ему довольно сложно (в реалиях России практически невозможно), но оно содержит много дополнительной информации, рекомендаций
-  и ссылок, которые осознанно не включены в это руководство.
+  It is quite difficult to follow it (in the realities of Russia it is almost impossible), but it contains a lot of additional information, recommendations and references not knowingly included in this guide.
 
 </details>
 
 ---
 
-[⏫ Оглавление](../README.md) | [➡️ Вперёд](./importance.md)
+[⏫ Table of contents](../README.md) | [➡️ Next](./importance.md)
