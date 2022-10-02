@@ -1,21 +1,20 @@
 # Privacy of social networks and messengers
 
-В этом разделе приведены описания настроек приватности для всех популярных сайтов и платформ
-на территории бывшего СНГ.
+This section contains descriptions of privacy settings for the most popular sites and platforms of CIS (ex-USSR).
 
-Напоминаю, что это руководство направлено на **скрытие** вашей информации от чужих глаз в Сети.
-К сожалению, практически всё, что вы пишете в соцсетях и мессенджерах, доступно самим платформам.
-То есть, большому количеству сотрудников этой компании, правоохранительным и другим органам, имеющим
-право эту информацию запрашивать, а также иногда большому количеству других лиц, полулегально
-поддерживающих деятельность сайта.
+I remind you that this guide is aimed at **hiding** your information from prying eyes in the Internet.
+Unfortunately, almost everything you write in social networks and messengers is available to the platforms themselves.
+That is, a large number of employees of this company, law enforcement and other agencies that have
+the right to request this information, as well as sometimes a large number of other persons who semi-legally support
+platforms processes.
 
-Полностью защититься от утечки своей личной информации - не пользоваться никакими платформами,
-не гарантирующими end-to-end шифрование и абсолютную безопасность ваших данных, но таких сайтов
-чрезвычайно мало, и их распространённость среди ваших друзей и знакомых наверняка близка у нулю.
+To fully protect yourself from the leakage of your personal information you should not use any platforms
+that don't guarantee end-to-end encryption and absolute security of your data, but there are extremely few such sites,
+and their prevalence among your friends and relatives is probably close to zero.
 
-В текущий момент оставим в стороне размышления о том, использовать или нет большие сайты, зарабатывающие
-на вас деньги и готовые продать ваши данные. Примем как факт, что вам приходится их использовать,
-и займёмся их настройкой.
+At the moment, let's leave aside thinking about whether or not to use big sites that earn
+money from you and are ready to sell your data. Let's take it as a fact that you have to use them,
+and let's set them up.
 
 *The section will be updated*
 
