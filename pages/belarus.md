@@ -6,14 +6,14 @@
 
 Все приведённые ниже идентификаторы можно использовать для поиска владельца.
 
-### Физические лица
+### Individuals
 - УНП - *учётный номер плательщика*
 
 ## Probiv
 
 *The section will be updated*
 
-## Утечки данных в публичный доступ
+## Public data breaches
 
 В 2021 было хакеры [заявили о получении доступа](https://meduza.io/feature/2021/08/27/belorusskie-kiberpartizany-kazhetsya-vzlomali-bazy-dannyh-mvd-i-uzhe-mesyats-publikuyut-komprometiruyuschuyu-silovikov-informatsiyu)
 к АИС "ГАИ-Центр", АИС "Паспорт", к базе УСБ и "Беспорядки" МВД Беларуси, а также
@@ -29,4 +29,4 @@ _полный адрес доставки клиента и комментари
 
 ---
 
-[⬅️ Назад](./ukraine.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./kazakhstan.md)
+[⬅️ Back](./ukraine.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./kazakhstan.md)

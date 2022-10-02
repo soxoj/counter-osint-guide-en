@@ -1,6 +1,6 @@
 # Physical address and geolocation
 
-*Раздел будет дополняться*
+*The section will be updated*
 
 ## Как предотвратить утечки
 
@@ -9,4 +9,4 @@
 
 ---
 
-[⬅️ Назад](./fio-birthday.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./password.md)
+[⬅️ Back](./fio-birthday.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./password.md)

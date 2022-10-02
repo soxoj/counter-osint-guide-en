@@ -31,4 +31,4 @@ _полный адрес доставки клиента и комментари
 
 ---
 
-[⬅️ Назад](./password.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./breach-detection.md)
+[⬅️ Back](./password.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./breach-detection.md)

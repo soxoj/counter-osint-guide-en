@@ -57,4 +57,4 @@
 
 ---
 
-[Назад](./breach-detection.md) | [Оглавление](../README.md) | [Вперёд](./platforms.md)
+[Back](./breach-detection.md) | [Table of contents](../README.md) | [Next](./platforms.md)

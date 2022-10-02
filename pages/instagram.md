@@ -1,7 +1,7 @@
 # Instagram
 
-*Раздел будет дополняться*
+*The section will be updated*
 
 ---
 
-[⬅️ Назад](./vkontakte.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./development.md)
+[⬅️ Back](./vkontakte.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./development.md)

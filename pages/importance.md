@@ -1,16 +1,16 @@
 # Why is it important
 
-Трудно оставаться вне зоны доступа в наше цифровое время. Отшельник может иметь телефон для экстренной связи, а собака, хоть и не каждая, — аккаунт в Инстаграме.
+It's difficult to stay out of reach in our digital time. A hermit may have an emergency phone, and a dog, although not every dog, may have an Instagram account.
 
-Проникновение социальных сетей и средств связи могло бы быть исключительно позитивным, если бы не приводило к массе печальных последствий. От звонков фальшивых сотрудников Сбербанка с просьбой продиктовать пароль из СМС, и до коллекторов, внезапно требующих вернуть кредит, взятый на ваш паспорт.
+The development of social networks and means of communication could be extremely positive if it did not lead to a lot of sad consequences. For example, calls from fake bank employees asking them to dictate a one-time code from SMS or collectors suddenly demanding to pay back the loan taken on your passport.
 
-В последние годы появился тренд на приватность и защиту информации о пользователях: GDPR, CCPA, LGBD. Компании обязали заботиться о сохранности персональных данных и о предотвращении их утечек. Но стали они собирать о нас меньше информации? Никак нет. Для них наши данные — источник прибыли. 
+In recent years, there has been a trend towards privacy and protection of user information: GDPR, CPA, LGBD. The companies were obliged to take care of the safety of personal data and to prevent their leaks. But did they start collecting less information about us? Absolutely not. For them, our data is a source of profit.
 
-Но и ужесточения правовых норм для компаний недостаточно. Вы наверняка оставили много "хлебных крошек", потому что уже не первый год в Интернете. Старые аккаунты, объявления, публичные переписки, фотографии. По этим следам можно вплотную подойти к вам и использовать это в любых целях.  
+But the tightening of legal norms for companies is not enough. You probably left a lot of "breadcrumbs" to your identity, because you have been living in the Internet for years: old accounts, ads, forums, photos. Following these traces, it's possible come close to you and use your personal information for any purpose.
 
 ---
 
-*Интересный факт: в 2017 году журналистка [нашла анонимные аккаунты директора ФБР](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641) всего за пару часов. Достаточно было наводки о его существовании, информации о сыне и о дипломной работе по теологии.*
+*Interesting fact: in 2017, a journalist [found the anonymous accounts of the FBI director](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641) in just a couple of hours. It was enough to get a tip about his existence, information about his son and about his thesis in theology.*
 
 ---
 
@@ -31,7 +31,7 @@
 
 Напомню, что OSINT — это сбор информации из открытых источников. Но, к сожалению, часто в Сеть попадают такие чувствительные данные как базы номеров телефонов, паспортных данных и так далее.
 
-Мало того — в РФ через "пробив" можно получить подробные сведения о владельце номера телефона, машины, квартиры из официальных государственных реестров и баз данных. К сожалению, многие люди готовы за деньги предоставить доступ к тому, что должно быть тщательно защищено.
+Мало того — в РФ через "probiv" можно получить подробные сведения о владельце номера телефона, машины, квартиры из официальных государственных реестров и баз данных. К сожалению, многие люди готовы за деньги предоставить доступ к тому, что должно быть тщательно защищено.
 
 Будем считаться с этим: невозможно обеспечить полную анонимность и удалиться из всех реестров, но возможно усложнить процесс поиска настолько, что злоумышленник не сможет зацепиться за информацию.
 
@@ -92,5 +92,5 @@
 
 ---
 
-[⬅️ Назад](./intro.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./hygiene.md)
+[⬅️ Back](./intro.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./hygiene.md)
 

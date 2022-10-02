@@ -30,4 +30,4 @@ since the probability of coincidence of all these data in two people is very low
 
 ---
 
-[⬅️ Назад](./phone.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./location.md)
+[⬅️ Back](./phone.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./location.md)

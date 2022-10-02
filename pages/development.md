@@ -20,4 +20,4 @@ GitHub предоставляет возможность скрывать ваш
 
 ---
 
-[⬅️ Назад](./instagram.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./2fa.md)
+[⬅️ Back](./instagram.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./2fa.md)

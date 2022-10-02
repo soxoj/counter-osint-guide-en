@@ -79,4 +79,4 @@
 
 ---
 
-[⬅️ Назад](./breaches.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./canary-tokens.md)
+[⬅️ Back](./breaches.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./canary-tokens.md)

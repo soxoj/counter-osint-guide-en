@@ -54,10 +54,10 @@
 
 Эта настройка включена по умолчанию и разрешает индексацию вашего профиля. Выключаем и тема самым запрещаем находить наш профиль в результатах поиска по имени Google, Yandex и т.д.
 
-## Используемые материалы и полезные ссылки
+## Used materials and useful links
 
 - [Хабр - Настройки приватности Facebook VS OSINT](https://habr.com/ru/company/tomhunter/blog/530460/)
 
 ---
 
-[⬅️ Назад](./mobile-apps-privacy.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./telegram.md)
+[⬅️ Back](./mobile-apps-privacy.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./telegram.md)

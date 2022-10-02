@@ -21,4 +21,4 @@
 
 ---
 
-[⬅️ Назад](./password.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./breaches.md)
+[⬅️ Back](./password.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./breaches.md)

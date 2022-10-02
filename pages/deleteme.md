@@ -50,4 +50,4 @@ _The section will be updated_
 
 ---
 
-[⬅️ Назад](./2fa.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./screen-sharing.md)
+[⬅️ Back](./2fa.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./screen-sharing.md)
