@@ -1,33 +1,32 @@
 # Email address
 
-Адрес электронный почты был и остаётся самым распространённым идентификатором для аккаунта в Сети. У вас может не быть телефонного номера,
-но у вас должен быть ящик - это неписанное правило.
+The email address was and remains the most common identifier for an account in the Internet.
+You may not have a phone number, but you must have a mailbox - this is an unwritten rule.
 
-Наличие электронной почты само по себе раскрывает о вас некоторую информацию. Прежде всего, это **алиас**, имя ящика, слева от символа
-собаки "@". Первый и очевиднейший совет -- не стоит выбирать именем ваши инициалы, фамилию и год рождения, если это не сугубо личный
-или рабочий ящик.
+The email that you have reveals some information about you in itself. First of all, this is **alias**, the name of the mailbox, from the address start to the symbol @.
+The first and most obvious advice is not to choose your initials, surname and date of birth as an alias, unless it is a purely personal
+or work mailbox.
 
-Второй, но немаловажный совет -- внимательно изучите провайдера электронной почты. Наиболее известные бесплатные сервисы почты "вдогонку" к email дают
-вам аккаунты в других продуктах. Это относится прежде всего к Google и Яндекс, так как эти компании ведут свой бизнес в большом количестве
-других сфер, и предоставить вам бесплатный ящик за то, что вы станете пассивным потребителем десятка других сервисов -- их хлеб.
+The second, but important tip is to carefully study the email provider. The most well-known free mail services in pursuit of email give
+you accounts in other products. This is especially true of Google and Yandex, as these companies conduct their business in a large number of other areas, and they provide you a free box with a dozen other services, where you will become passive consumer and the source of personal information.
 
-## Разделение личностей
-
-*The section will be updated*
-
-## Долой ящики для подписок, мусора и спама
+## Separation of personalities
 
 *The section will be updated*
 
-## Одноразовые ящики электронной почты
+## Get rid of emails for subscriptions, garbage and spam
 
 *The section will be updated*
 
-## Общедоступные ящики электронной почты
+## Disposable mailboxes
 
 *The section will be updated*
 
-## Пересылка писем с внешних ящиков
+## Public mailboxes
+
+*The section will be updated*
+
+## Forwarding emails from external mailboxes
 
 *The section will be updated*
 
@@ -37,7 +36,7 @@
   <summary>🥷 Advanced level</summary>
 
 
-## Использование личного домена для создания почт под каждый сервис
+## Using a personal domain to create email addresses for different service
 
 *The section will be updated*
 

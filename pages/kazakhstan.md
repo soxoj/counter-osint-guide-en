@@ -4,7 +4,7 @@
 
 ## Documents
 
-Все приведённые ниже идентификаторы можно использовать для поиска владельца.
+All the identifiers listed below can be used to search for a person.
 
 ### Individuals
 - ИИН - *индивидуальный идентификационный номер*

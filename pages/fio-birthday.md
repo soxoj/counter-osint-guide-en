@@ -19,7 +19,7 @@ since the probability of coincidence of all these data in two people is very low
 
 *The section will be updated*
 
-## Вход через другой сайт (Single sign-on)
+## Login via another site (Single sign-on)
 
 Современная архитектура авторизации и регистрации в онлайн-сервисах предполагает активное использование сторонних "проверенных" учётных
 записей. Например, почти везде в зарубежном сегменте интернета есть возможность входа через Facebook, в то время как в России всё больше

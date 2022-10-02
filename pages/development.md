@@ -1,20 +1,20 @@
 # Privacy for software developers
 
-## Раскрытие своего почтового ящика
+## Exposure of your personal/working email address
 
-При работе с программным кодом и такими системами контроля версий как git существует риск раскрытия
-своего персонального почтового ящика. Часто это происходит при одновременной работе с личными/рабочими проектами
-на одном устройстве.
+When working with program code and version control systems such as git, there is a risk of exposure
+your personal mailbox. This often happens when working with personal/work projects
+on the same device at the same time.
 
-Чтобы избежать этого, проверяйте корректность настроек локального пользователя:
+To avoid this, check that the global git settings are correct or the settings in the directory of the specific repository are set:
 ```
 git config --global user.name
 git config --global user.email
 ``` 
 
-GitHub предоставляет возможность скрывать ваш email из интерфейса и блокировать "утечку" основного ящика, привязанного к аккаунту:
+GitHub provides the ability to hide your email from the interface and block the "leakage" of the main mailbox associated with the account:
 
-![Настройки приватности почтовых ящиков в GitHub](../img/gh_emails.png)
+![Email adresses privacy settings in GitHub](../img/gh_emails.png)
 
 *The section will be updated*
 
