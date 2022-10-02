@@ -14,30 +14,30 @@ But the tightening of legal norms for companies is not enough. You probably left
 
 ---
 
-Огромные массив данных о людях, который возможно легко собрать подручными средствами, привёл к популярности OSINT — методологии сбора данных из открытых источников. Часто под этим термином сейчас подразумевают средства слежки за людьми, хотя изначально это методология разведки. Любое средство можно использовать как в благих, так и в плохих целях — об этом следует не забывать.
+A huge amount of data about people, which can be easily collected by improvised means, has led to the popularity of OSINT, a methodology for collecting data from open sources. Often, this term is using as "spying on people" or "deanonymization", although initially it is a general intelligence methodology. Any tool can be used for both good and bad purposes — this should not be forgotten.
 
 
-Поэтому важно иметь средства **Counter-OSINT** — инструменты для защиты своих данных и обеспечения приватности.
+Therefore, it is important to have **Counter-OSINT** tools to protect your data and ensure privacy.
 
-## Что будет в следующих главах
+## What will happen in the next sections
 
-Разберём простые, но эффективные шаги, которые сильно затруднят сбор информации о вас стороннему наблюдателю. С конкретными пунктами и действиями.
+We will study simple but effective actions that make it very difficult for an external observer to collect information about you.
 
-Руководство будет полезно самому широкому кругу заинтересованных — не только тем, кто что-то слышал про OSINT, но и друзьям, знакомым, родителям. Инвестиция в полчаса на вдумчивое чтение и осознанные действия принесёт спокойствие и защиту от мошенничества, слежки, преследования, шантажа.
+The guide will be useful to a wide range of interested people — not only those who have heard something about OSINT, but also friends, acquaintances, relatives. An investment of half an hour for thoughtful reading and conscious actions will bring peace of mind and protection from fraud, surveillance, harassment, blackmail.
 
-При этом не будем пренебрегать удобством. Многие руководства концентрируются на том, чтобы обезопасить себя по максимуму (даже если это не оправданно). Мы же будем исходить из необходимости соблюдения **баланса между приватностью и удобством**, при котором пользование Интернетом не будет осложнено.
+At the same time, we will not ignore the comfort. Many guides concentrate on protecting to the maximum (even if it is unjustified). We will start from the need to maintain **a balance between privacy and comfort**, so the use of the Internet will not be complicated.
 
 ---
 
-Напомню, что OSINT — это сбор информации из открытых источников. Но, к сожалению, часто в Сеть попадают такие чувствительные данные как базы номеров телефонов, паспортных данных и так далее.
+Let me remind you that OSINT is about collection of information from open sources. Unfortunately, such sensitive data as phone numbers, passports and so on often get into the Network, to the public domain.
 
-Мало того — в РФ через "probiv" можно получить подробные сведения о владельце номера телефона, машины, квартиры из официальных государственных реестров и баз данных. К сожалению, многие люди готовы за деньги предоставить доступ к тому, что должно быть тщательно защищено.
+Moreover, in Russia, through "probiv", you can get detailed information about the owner of a phone number, car, apartment from official state registers and databases. Many people are providing access for money to what should be carefully protected.
 
-Будем считаться с этим: невозможно обеспечить полную анонимность и удалиться из всех реестров, но возможно усложнить процесс поиска настолько, что злоумышленник не сможет зацепиться за информацию.
+We will take this into account: it is impossible to ensure complete anonymity and remove yourself from all registries, but it is possible to complicate the search process so much that an attacker will not be able to cling to the some information about you.
 
-Таким образом, цель руководства — научить защищать общедоступные сведения и усложнять процесса поиска других сведений про вас.
+Thus, the purpose of the guide is to teach how to protect publicly available information and complicate the process of finding other information about you.
 
-### Определяем важную информацию
+### Defining important information
 
 Чтобы понять, какие данные важнее и что следует больше защищать, необходимо знать современные реалии с поправкой на Рунет. Это мы и разберём далее, и чтобы попытаться быть объективными, используем OPSEC.
 
