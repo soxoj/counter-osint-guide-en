@@ -37,6 +37,7 @@ you accounts in other products. This is especially true of Google and Yandex, as
 
 
 ## Using a personal domain to create email addresses for different service
+## Email address aliases with dots in Gmail
 
 *The section will be updated*
 
