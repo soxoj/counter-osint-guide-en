@@ -29,10 +29,13 @@
 - https://leakcheck.io/
 - https://checkleaked.cc/
 
-#### Боты в Telegram
+#### Telegram bots
 
-- https://t.me/EmailPhoneOSINT_bot - поиск непосредственно утёкших данных
-- https://t.me/PhoneLeaks_bot - поиск только источников утечки (от тех же авторов)
+- https://t.me/PhoneLeaks_bot - search only for leaks sources
+
+Most bots do not indicate the source from which the information was obtained. List of some resources:
+[Google Spreadsheet](https://docs.google.com/spreadsheets/d/1XerMPGwaDz1FG1gBumBp6jzOgSqhWcQWgZmhxoT60WA/edit#gid=0).
+
 
 #### Уведомления
 
