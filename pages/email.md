@@ -24,9 +24,16 @@ you accounts in other products. This is especially true of Google and Yandex, as
 
 ## Public mailboxes
 
+- Yopmail
+
 *The section will be updated*
 
 ## Forwarding emails from external mailboxes
+
+- SimpleLogin
+- AnonAddy
+- Firefox Relay
+- Fastmail
 
 *The section will be updated*
 
@@ -36,8 +43,20 @@ you accounts in other products. This is especially true of Google and Yandex, as
   <summary>🥷 Advanced level</summary>
 
 
-## Using a personal domain to create email addresses for different service
+## Using a personal domain to create catch-all mailboxes
+
+*The section will be updated*
+
 ## Email address aliases with dots in Gmail
+
+*The section will be updated*
+
+## Использование BitWarden для генерации алиасов электронной почты
+
+Парольный менеджер BitWarden позволяет генерировать случайные алиасы почты с плюсом,
+а также адреса catch-all почтовых ящиков и даже почтовые ящики для пересылки.
+
+![image](bitwarden_ru.png)
 
 *The section will be updated*
 

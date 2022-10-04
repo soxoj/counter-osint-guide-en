@@ -18,10 +18,26 @@ Knowing your account, it will be possible to get part of the grandmother's phone
 
 * Registration form. A site will definitely not let you register an account on a phone that is already used: "This phone is already registered.". But if it is not used, then a notification will most likely be sent to the phone.
 
-* Recovery form. Most often, one data is entered, for example, the account nickname, and the service responds with something like "a new password was sent to the iva*****ov@mail.com mailbox" or "We sent an SMS to a number ending in 93". Or the service asks to enter email, and then writes "If such an account exists, then we sent a notification.". Some sites like Meta only needs to know the account ID.
+* Recovery form. Most often, one data is entered, for example, the account nickname, and the service responds with something like `A new password was sent to the iva*****ov@mail.com mailbox` or `We sent an SMS to a number ending in 93`. Or the service asks to enter email, and then writes "If such an account exists, then we sent a notification.". Some sites like Meta only needs to know the account ID.
 
 In all these places, the 2nd factor (phone number) that you bind to the account can leak.
 
 ---
+
+<details>
+  <summary>🥷 Продвинутый уровень</summary>
+  </br>
+
+### Использование BitWarden для генерации алиасов электронной почты
+
+Парольный менеджер BitWarden позволяет генерировать случайные алиасы почты с плюсом,
+а также адреса catch-all почтовых ящиков и даже почтовые ящики для пересылки.
+
+Подробнее про эти возможности читайте в разделе "🥷 Продвинутый уровень" секции [Почтовый ящик](./email.md).
+
+![image](bitwarden_ru.png)
+
+</details>
+
 
 [⬅️ Back](./development.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./deleteme.md)
