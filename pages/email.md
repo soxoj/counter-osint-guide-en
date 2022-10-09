@@ -53,8 +53,8 @@ you accounts in other products. This is especially true of Google and Yandex, as
 
 ## Использование BitWarden для генерации алиасов электронной почты
 
-Парольный менеджер BitWarden позволяет генерировать случайные алиасы почты с плюсом,
-а также адреса catch-all почтовых ящиков и даже почтовые ящики для пересылки.
+The BitWarden password manager allows you to generate random "plus" aliases,
+as well as catch-all mailbox addresses and even forwarding mailboxes.
 
 ![image](bitwarden_ru.png)
 

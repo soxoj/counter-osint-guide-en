@@ -1,18 +1,17 @@
 # Canary tokens
 
-Канарейки очень чувствительны к примесям опасных газов в воздухе.
-Поэтому долгое время шахтёры брали их с собой в шахты: если птица
-переставала петь, то это значило, что дышать воздухом становится
-опасно.
+Canaries are very sensitive to impurities of dangerous gases in the air.
+Therefore, for a long time the miners took them with them to the mines:
+if the bird stopped singing, it meant that it became dangerous to breathe air.
 
-Подобный же принцип используется и в информационной сфере. Многие
-компании используют [уведомление пользователей](https://ru.wikipedia.org/wiki/Свидетельство_канарейки)
-о том, что за ними никто не следит, чтобы при получении судебного
-ордера *убрать* эту фразу. Тем самым компания даёт сигнал пользователям,
-что отсутствие слежки больше не гарантируется.
+A similar principle is used in the Internet. Many
+companies use [warrant canary](https://en.wikipedia.org/wiki/Warrant_canary):
+a notification for users that there were no subpoenas; receiving a subpoena
+lead to removing this notification. Thus, the company gives a signal to users
+that the absence of surveillance is no longer guaranteed.
 
-Но мы собираемся скрываться не от корпораций, а от любопытных лиц.
-Что мы можем предпринять?
+We are not going to hide from corporations, but from curious people.
+What can we do?
 
 ## What are canary tokens
 

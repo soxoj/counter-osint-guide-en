@@ -1,26 +1,25 @@
 # Phone privacy
 
-Тема приватности на мобильных устройствах заслуживает отдельного большого путеводителя. Данные пользователя представляют слишком большой финансовый интерес для всех вендоров. И если на западном рынке наблюдаются подвижки в сторону приватности (например, Apple урезает возможность сбора данных всем сторонним приложениям, а Google с каждой версией Android улучшает работу с доступами приложений), то на азиатском рынке (Samsung, Xiaomi и масса мелких вендоров) пользовательские данные оседают в больших количествах и бесконтрольно.
+The topic of privacy on mobile devices deserves a separate large guide. User data is of too great financial interest for all vendors. And if there are moves towards privacy in the Western market (for example, Apple reduces the ability to collect data for all third-party applications, and Google improves access management to applications every version of Android), then in the Asian market (Samsung, Xiaomi and a lot of small vendors) user data settles in large quantities and uncontrollably.
 
-Что с этим можно сделать за короткое время и без сложных манипуляций вроде получения root или jailbreak? К сожалению, самый минимум - следить за тем, какие приложения вы ставите и какие разрешения им даёте. Разберём самые очевидные случаи.
+What can be done with this in a short time and without complex manipulations like getting root or jailbreak? Unfortunately, we can do only the minimum: to keep track of which applications you install and what permissions you give them. Let's analyze the most obvious cases.
 
-## Контакты из телефонной книги
+## Phone contacts
 
-Многие приложения сделали свой бизнес только лишь на доступе к телефонной книге пользователя. Самое нашумевшее - GetContact, которое прошлось волной и по российским пользователям. Принцип прост -- связка из имени контакта и телефонного номера из вашей книги утекают на сервера, там объединяются в одну базу данных. После чего становится возможным узнать ФИО по номеру телефона, запросив напрямую в базе. А иногда и профессию, и возраст, и вообще что угодно. Для примера: "Иван ФСБ", "Александр Клиент", "Валерия Хрущёва 42", "Машка Петрова Якобы Модель". Сейчас все эти данные можно легко получить через Telegram-ботов.
+Many applications have done their business only on access to the user's phone book. The most known is GetContact, which was popular with Russian users. The mechanism is simple - a bunch of the contact's name and phone number from your phone transfer to the GetContact servers, where they are combined into one database. After that, it becomes possible to find out full name by phone number by requesting directly in the database (also a profession, and age, and anything at all). For example: "Ivan FSB", "Alexander Client", "Valeria Khrushchev 42", "Masha Petrova Model". Now all this data can be easily obtained through Telegram bots.
 
-Некоторые другие приложения (например, вполне официальные вроде Сбербанка) запрашивают доступ к телефонной книге, чтобы сократить телодвижения для переводам по номеру телефона на пару кликов. При этом, очевидно, контакты в любом случае загрузятся к ним на сервер, и что там с ними произойдёт - неизвестно.
+Some other applications (for example, quite official ones like Sberbank) request access to the phone book in order to shorten the movements for bank transfers by phone number by a couple of clicks. At the same time, obviously, the contacts will be uploaded to their server anyway, and what will happen to them there is unknown.
 
-Поэтому первым и очевидным шагом в сторону приватности (как себя, так и своих близких и знакомых) будет ограничение доступа к телефонной книге -- не даём его приложениям по запросу, т.к. они должны функционировать без него (Сбербанк прекрасно обходится и без этого). В противном случае внимательно изучаем приложение и ищем альтернативы, если оно безоговорочно требует дать ваши номера.
+Therefore, the first and obvious step towards privacy (both yourself and your familiars) will be to restrict access to the phone book totally - we do not give it to applications on request, because they must function without it (Sberbank does fine without it). Otherwise, we carefully study the application and look for alternatives if it unconditionally requires you to give your phone numbers.
 
-## Устанавливаемые приложения
+## Installed applications
 
-Продолжая тему из предыдущего абзаца: приложения для сбора контактов работали не только явно, но скрыто, внедряясь за деньги в другие, бесплатные приложения.
-Таким образом, большое количество невнимательных людей сами сливали свои данные, не обращая внимание на то, что очередная игра из Google Play запрашивает
-слишком много расширений. А лицензионные соглашения в наше время мало кто читает, увы.
+Continuing the topic from the previous paragraph: applications for collecting contacts worked not only explicitly, but covertly, being introduced for money into other, free applications.
+Thus, a large number of inattentive people themselves leaked their data, not paying attention to the fact that the next game from Google Play requests too many extensions. And few people read license agreements nowadays, unfortunately.
 
 ## Used materials and useful links
 
-- [Список сервисов и приложений-альтернатив, нацеленных на приватность](https://github.com/pluja/awesome-privacy)
+- [List of free, open source and privacy respecting services and alternatives to privative services](https://github.com/pluja/awesome-privacy)
 
 ---
 
