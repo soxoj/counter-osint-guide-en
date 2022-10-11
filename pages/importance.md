@@ -1,12 +1,12 @@
-# Why is it important
+# Why it is important
 
-It's difficult to stay out of reach in our digital time. A hermit may have an emergency phone, and a dog, although not every dog, may have an Instagram account.
+It's hard to stay off the grid in these digital times. A hermit may have an emergency phone, and a dog, though not every dog, may have an Instagram account.
 
-The development of social networks and means of communication could be extremely positive if it did not lead to a lot of sad consequences. For example, calls from fake bank employees asking them to dictate a one-time code from SMS or collectors suddenly demanding to pay back the loan taken on your passport.
+The pervasiveness of social media and communications could be highly positive if it didn't lead to many unfortunate consequences. For example, fake Sberbank employees calling to ask you to dictate your password from a text message to debt collectors suddenly demanding the return of a loan taken out on the information extracted from your passport.
 
-In recent years, there has been a trend towards privacy and protection of user information: GDPR, CPA, LGBD. The companies were obliged to take care of the safety of personal data and to prevent their leaks. But did they start collecting less information about us? Absolutely not. For them, our data is a source of profit.
+In recent years, there has been a trend towards privacy and protection of user information: GDPR, CCPA, and LGBD. Companies have been obliged to secure personal data and prevent leaks. But are they collecting less information about us? No. Our data is a source of profit for them.
 
-But the tightening of legal norms for companies is not enough. You probably left a lot of "breadcrumbs" to your identity, because you have been living in the Internet for years: old accounts, ads, forums, photos. Following these traces, it's possible come close to you and use your personal information for any purpose.
+But the tightening of regulations is not enough for companies. You probably left a lot of "breadcrumbs" because you've been on the Internet for years: Old accounts, advertisements, public correspondence, and photos. These traces can be used to get close to you and exploit it for whatever purpose.
 
 ---
 
