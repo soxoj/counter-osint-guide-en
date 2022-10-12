@@ -46,11 +46,11 @@ What can we do?
 
 Пример уведомления на почту:
 
-<img width="550" alt="Выключение автозаполнения в поисковой строке" src="../img/canary_token_example.png">
+<img width="550" alt="Example of canary token report" src="../img/canary_token_example.png">
 
 *The section will be updated*
 
-## Отличие от фишинга и ссылок-логгеров
+## Difference between canary tokens and phishing tools
 
 *The section will be updated*
 
