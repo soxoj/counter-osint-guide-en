@@ -54,4 +54,4 @@ Thus, a large number of inattentive people themselves leaked their data, not pay
 
 ---
 
-[⬅️ Back](./breaches.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./platforms.md)
+[⬅️ Back](./making-breaches-useless.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./platforms.md)

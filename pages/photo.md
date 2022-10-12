@@ -11,14 +11,6 @@ Now recognition tools can be easily created independently or you can use sharewa
 
 *The section will be updated*
 
-## Face photos as biometrics
-
-*The section will be updated*
-
-## Photo metadata
-
-*The section will be updated*
-
 ## How to check yourself
 
 In the post-Soviet states, you surely can use [Yandex](https://images.yandex.ru/) for search by photo with your face.
@@ -31,6 +23,18 @@ it is extremely difficult to delete such photos, so if you don't want them to po
 competently [delete account](./deleteme.md).
 
 <img width="1123" alt="image" src="https://user-images.githubusercontent.com/31013580/193446993-ae071840-49f2-45f3-b517-6b1e2a97a510.png">
+
+## Face photos as biometrics
+
+*The section will be updated*
+
+### Cloaking
+
+*The section will be updated*
+
+## Photo metadata
+
+*The section will be updated*
 
 ---
 

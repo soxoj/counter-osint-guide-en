@@ -22,6 +22,7 @@ is available in open sources, DM me in Telegram: [@soxoj](https://t.me/soxoj).**
  1. [💧 Data leaks and breaches, "probiv"](./pages/breaches.md)
      1. [🔎 Determining the source of a leak](./pages/breach-detection.md)
      1. [🐦 Canary tokens](./pages/canary-tokens.md)
+     1. [Making breaches useless](./pages/making-breaches-useless.md)
  1. [📱 Phone privacy](./pages/mobile-apps-privacy.md)
  1. [🌐 Privacy of social networks and messengers](./pages/platforms.md)
      1. [Facebook](./pages/facebook.md)

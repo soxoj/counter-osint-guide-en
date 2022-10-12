@@ -56,4 +56,4 @@ What can we do?
 
 ---
 
-[Back](./breach-detection.md) | [Table of contents](../README.md) | [Next](./platforms.md)
+[⬅️ Back](./breach-detection.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./making-breaches-useless.md)
