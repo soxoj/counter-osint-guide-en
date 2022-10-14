@@ -14,52 +14,51 @@ But the tightening of regulations is not enough for companies. You probably left
 
 ---
 
-A huge amount of data about people, which can be easily collected by improvised means, has led to the popularity of OSINT, a methodology for collecting data from open sources. Often, this term is using as "spying on people" or "deanonymization", although initially it is a general intelligence methodology. Any tool can be used for both good and bad purposes — this should not be forgotten.
+The enormous amount of data about people that can easily be collected by improvised means has led to the popularity of OSINT, a methodology for collecting and analysing data from open sources. The term is now often used to refer to "spying on people" or "deanonymisation" techniques, even though it was initially an intelligence methodology. Any tool can be used for good and bad - this is something to keep in mind.
 
-
-Therefore, it is important to have **Counter-OSINT** tools to protect your data and ensure privacy.
+It is, therefore, essential to have "**Counter-OSINT**" means and tools to protect your data and ensure your privacy.
 
 ## What will happen in the next sections
 
-We will study simple but effective actions that make it very difficult for an external observer to collect information about you.
+We will study simple but effective steps that will make it very difficult for an outsider observer to gather information about you.
 
-The guide will be useful to a wide range of interested people — not only those who have heard something about OSINT, but also friends, acquaintances, relatives. An investment of half an hour for thoughtful reading and conscious actions will bring peace of mind and protection from fraud, surveillance, harassment, blackmail.
+The guide will be helpful to the broadest range of people interested - not just those who have heard something about OSINT but also friends, acquaintances and parents. An investment of half an hour for thoughtful reading and deliberate actions will bring peace of mind and protection against fraud, surveillance, harassment, and blackmail.
 
-At the same time, we will not ignore the comfort. Many guides concentrate on protecting to the maximum (even if it is unjustified). We will start from the need to maintain **a balance between privacy and comfort**, so the use of the Internet will not be complicated.
+At the same time, let's not neglect convenience. Many guides concentrate on keeping ourselves as safe as possible (even if it's not justified). On the other hand, We will start from the need to maintain **a balance between privacy and convenience**, in which Internet use is not complicated.
 
 ---
 
-Let me remind you that OSINT is about collection of information from open sources. Unfortunately, such sensitive data as phone numbers, passports and so on often get into the Network, to the public domain.
+Let me remind you that OSINT is about collecting information from open sources. Unfortunately, our most sensitive data as phone number databases, passport data, and so on, often end up on the Net.
 
-Moreover, in Russia, through "probiv", you can get detailed information about the owner of a phone number, car, apartment from official state registers and databases. Many people are providing access for money to what should be carefully protected.
+In the Russian Federation, through "probing", you can get detailed information about the owner of a phone number, car, or flat from official state registers and databases. Unfortunately, many people are willing to grant access for money to something that should be carefully protected.
 
-We will take this into account: it is impossible to ensure complete anonymity and remove yourself from all registries, but it is possible to complicate the search process so much that an attacker will not be able to cling to the some information about you.
+Let's face it: it is impossible to ensure complete anonymity and remove yourself from all registers, but it is possible to complicate the search process so much that an intruder cannot cling to some information about you.
 
-Thus, the purpose of the guide is to teach how to protect publicly available information and complicate the process of finding other information about you.
+Thus, the purpose of the manual is to teach you how to protect publicly available information and make it harder to find other information about you.
 
 ### Defining important information
 
-Чтобы понять, какие данные важнее и что следует больше защищать, необходимо знать современные реалии с поправкой на Рунет. Это мы и разберём далее, и чтобы попытаться быть объективными, используем OPSEC.
+To understand which data is more critical and what should be protected more, you need to know the current realities, adjusted for Runet. That is what we will look at next, and to be objective, we will adopt [Operations Security (OPSEC) measures](https://en.wikipedia.org/wiki/Operations_security).
 
-Термин OPSEC, как и OSINT, пришёл из американской разведки. Он означает процесс анализа и защиты критически важной информации.
+The term OPSEC, like OSINT, comes from US intelligence. It refers to the process that "_identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information_".
 
 ![Болтать - врагу помогать!](../img/37ddd605b06fdfb1793be.png)
 
-Для начала перечислим все **первичные данные**, которые так или иначе раскрывают нашу личность, но *существуют физически вне Интернета*. 
+First, let's list all the **primary data** that reveals our identity in one way or another that *exists physically off the Internet*. 
 
-- Фамилия, имя, отчество
-- Дата рождения
-- Паспортные данные (серия, номер и т.д.)
-- Физический адрес
-- Личные документы (водительское удостоверение и т.д.)
-- Биометрические данные
-- Прочая личная и идентифицирующая информация
+- Surname, first name, patronymic
+- Date of birth
+- Passport details (series, number, etc.)
+- Physical address
+- Personal documents (driving licence, etc.)
+- Biometric data
+- Other personal information
 
-Таких данных не так много. Но, имея хотя бы часть, можно притвориться вами и обмануть третих лиц. Например, разослать знакомым сообщение с просьбой срочно перевести деньги из-за трудной ситуации.
+There is not much data like that. But with at least some of it, a hostile actor could pretend to be you and deceive a third party. For example, he could send a message to someone you know asking them to wire you money urgently because of a problematic situation.
 
-При этом мошенники не обязательно будут заинтересованы конкретно в вашей личности. Например, они могут купить базу и сотни "свежих" паспортов, чтобы привязывать паспортные данные к электронным кошелькам QIWI для увеличения лимитов по выводу денег.
+In doing so, fraudsters will not necessarily be interested in your identity. For example, they can buy a database containing hundreds of "fresh" passports to link passport details to [QIWI e-wallets](https://qiwi.com/) to increase withdrawal limits.
 
-Любые личные данные могут быть использованы. Например, восстановление доступа к аккаунтам социальных сетей часто требует ответить на контрольный вопрос. Таким образом, знание девичьей фамилии матери или любимого музыканта повышает шансы взломать вас.
+Any personal data can be exploited. For example, restoring access to social media accounts often requires answering a security question. Thus, knowing your mother's maiden name or your favourite musician will increase the chances that your profile will be hacked by a hostile actor.
 
 ---
 
