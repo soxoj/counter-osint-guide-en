@@ -1,39 +1,50 @@
 # Email address
 
-The email address was and remains the most common identifier for an account in the Internet.
-You may not have a phone number, but you must have a mailbox - this is an unwritten rule.
+An email address was, and still is, the most common identifier for an account on the Internet. You may not have a phone number, but you should have an email account - it's an unwritten rule.
 
-The email that you have reveals some information about you in itself. First of all, this is **alias**, the name of the mailbox, from the address start to the symbol @.
-The first and most obvious advice is not to choose your initials, surname and date of birth as an alias, unless it is a purely personal
-or work mailbox.
+Having an email in itself reveals some information about you. First, it's the alias, the email account's name, to the left of the '@' symbol. The first and most obvious piece of advice is not to give your initials, last name and year of birth unless it is a strictly personal or business box.
 
-The second, but important tip is to carefully study the email provider. The most well-known free mail services in pursuit of email give
-you accounts in other products. This is especially true of Google and Yandex, as these companies conduct their business in a large number of other areas, and they provide you a free box with a dozen other services, where you will become passive consumer and the source of personal information.
+The second, but not the least, important piece of advice is to look carefully at your email provider. Most well-known free email services will give you accounts in other products on top of the email. This is especially true of Google and Yandex because they do business in so many other areas. They provide you with a free box in exchange for your personal data, and being a passive consumer of a dozen other services is their bread and butter.
 
-## Separation of personalities
+## Separation of identities
 
 *The section will be updated*
 
 ## Get rid of emails for subscriptions, garbage and spam
 
-*The section will be updated*
+Separately, it is worth noting the habit of many people using a separate 'junk' mailbox for non-critical services and a variety of spam subscriptions. Separating mailboxes is helpful in itself, but only if it is conscious (see above).
+
+If you don't check it, and thousands of messages are sitting there unread, or even more, that's an important signal: make sure you really need that drawer. If not, unsubscribe from all newsletters and delete the associated accounts to minimise the likelihood of this email address being used to collect information about you.
 
 ## Disposable mailboxes
 
-*The section will be updated*
+There are a large number of services that provide one-time mailboxes for 10-15 minutes. They are suitable for one-time registrations on sites you go to for the first time and are unlikely to use again. Let's look at those services set up on random domains with entirely random names.
+
+Examples of such services are:
+- [TemporaryMail](https://temporarymail.com/)
+- [10minutemail](https://10minutemail.net)
+- [TEMPMAIL](https://temp-mail.org/ru/)
+- [Mohmal](https://www.mohmal.com/en)
 
 ## Public mailboxes
 
-- Yopmail
+You can also find services on the Internet that allow you to use an alias for a temporary mailbox. Such email addresses are helpful for services where the email has to look plausible.
 
-*The section will be updated*
+Examples of such services are:
+
+- [Maildrop](https://maildrop.cc/)
+- [Mailsac](https://mailsac.com/)
+- [templail+](https://tempmail.plus)
+- [Yopmail](https://yopmail.com/) - It can also support forwarding (see below)
 
 ## Forwarding emails from external mailboxes
 
-- SimpleLogin
-- AnonAddy
-- Firefox Relay
-- Fastmail
+Examples of such services are:
+
+- [SimpleLogin](https://simplelogin.io/)
+- [AnonAddy]()https://anonaddy.com/ - generates addresses according to a template `*@ivanov.anonaddy.com`
+- [Firefox Relay](https://relay.firefox.com/) - generates random addresses on the domain `mozmail.com`
+- [erine.email](https://erine.email/) - makes addresses according to a template `*.ivanov@erine.email`
 
 *The section will be updated*
 
@@ -47,16 +58,16 @@ you accounts in other products. This is especially true of Google and Yandex, as
 
 *The section will be updated*
 
-## Email address aliases with dots in Gmail
+## Using dots in Gmail addresses
 
 *The section will be updated*
 
-## Использование BitWarden для генерации алиасов электронной почты
+## Using BitWarden to generate email aliases
 
 The BitWarden password manager allows you to generate random "plus" aliases,
 as well as catch-all mailbox addresses and even forwarding mailboxes.
 
-![image](bitwarden_ru.png)
+[bitwarden_ru.png](https://github.com/soxoj/counter-osint-guide-en/blob/main/img/bitwarden_ru.png)
 
 *The section will be updated*
 
