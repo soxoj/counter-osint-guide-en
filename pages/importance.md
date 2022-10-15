@@ -63,32 +63,31 @@ Thus, the purpose of the guide is to teach how to protect publicly available inf
 
 ---
 
-*Интересный факт: [в 2012 произошел громкий случай](https://habr.com/ru/post/149179/) захвата сразу 4 аккаунтов человека при знании только лишь адреса, имени и email. Элегантная цепочка восстановления доступа — сначала использовать известные данные, потом привязать фальшивые — позволяла сначала завладеть доступом в Amazon, GMail, Apple, Twitter, а потом и вовсе удалённо стереть данные с устройств человека.*
+*Interesting case study: [in 2012, there was a high-profile case](https://habr.com/ru/post/149179/) of hijacking 4 accounts of a person with only address, name and email. An elaborate access recovery chain - first using available data, then linking fake data - allowed one to first gain access to Amazon, Gmail, Apple, and Twitter, and later even remotely erase data from a person's devices.*
 
 ---
 
-Возможно, вас смутил пункт "биометрические данные", но, увы, их использование уже давно вошло в нашу жизнь. Уже давно распространены средства поиска по лицу, которые используют те же технологии, что и для разблокировки личного телефона через переднюю камеру, а также обширные базы данных из социальных сетей. Когда вы оставляете свою фотографию в Сети, вы оставляете возможность найти себя.
+You may have been confused by the "biometric data" point, but alas, its exploitation has long been part of our lives. Face searches, which use the same technology as that used to unlock a personal phone through the front camera, and extensive databases from social media have long been widespread. When you leave your photos on the Web, you leave the opportunity to a hostile threat actor to find you.
 
-### Анализируем угрозы
+### Analyzing threats
 
-В соответствии с процессом OPSEC проанализируем, кто может быть заинтересован в подобных действиях и как может использовать информацию о нас. Давайте рассмотрим популярные случаи использования первичных данных на схеме ниже и попробуем сделать выводы. 
+According to the OPSEC process, let's analyse who might be interested in such actions and how information about us might be exploited. In the diagram below, let's look at popular uses of primary data and try to draw conclusions. 
 
-![Что можно сделать с нашими данными?](../img/0869d0a1e60173af48378.png)
+![What can be done with our data?](../img/0869d0a1e60173af48378.png)
 
-Что можно сделать с нашими данными?
-Наверняка вы обратили внимание, что большинство пунктов связано с **получением денег**. Думаю, финансовая мотивация мошенников не требует объяснения. Единственное, что следует отметить — деньги могут быть похищены не только у вас, но и у других лиц. В этом случае критичным для нас становится участие в уголовном процессе, куда могут привлечь как свидетелем, так и обвиняемым. 
+What can be done with our data?
+You have probably noticed that most entries are related to **gaining money**. I think the financial motivation of the scammers is self-explanatory. The only issue to note is that money can be stolen from you and others. В этом случае критичным для нас становится участие в уголовном процессе, куда могут привлечь как свидетелем, так и обвиняемым. 
 
-Выгода от сбора полной информации о вас, включая доступ к перепискам, менее определена. Это может быть как бытовое преследование, так и шпионаж, шантаж и прочее. Ясно только, что в большинстве случаев это **причинение личного вреда и вторжение в частную жизнь**.
+The benefits of harvesting comprehensive information about you, including access to correspondence, are less certain. It can be domestic harassment, espionage, blackmail, and so on. In most cases, it is clearly a **personal harm and invasion of privacy**..
 
-Эти угрозы понятны и объяснимы, а во многих случаях регулируются законом. Статьи, связанные с финансовыми потерями, перечислять нет смысла, настолько их много; а сбор личных данных — это 137 УК РФ. Однако, давайте взглянем правде в лицо: требуется серьёзная причина, чтобы идти и самостоятельно форсировать возбуждение дела, а участие в таких процессах — стресс. Поэтому вернёмся к уже озвученной выше позиции: наша цель в том, чтобы защитить свои данные и избежать угроз.
+These threats are clear and explainable and, in many cases, regulated by law. There is no point in listing the articles related to financial loss. There are so many of them, and the collection of personal data is 137 of the Criminal Code. However, let's face it: it takes a severe reason to go and force the case yourself, and getting involved in such processes is stressful. So back to the position already voiced above: our goal is to keep our data safe and avoid threats.
 
 ---
+Obviously, the knowledge of the primary data is not enough to carry out fraud schemes. Such schemes are usually based on social engineering and involve remote interaction via phone calls or messages. We implicitly assume that the perpetrators already have our **secondary data, virtual identifiers** - phone numbers, emails, and social network accounts details. Thus, obtaining information about this data carries just as high a threat.
 
-Очевидно, что знания первичных данных недостаточно для проведения мошеннических схем. Таковые обычного основаны на социальной инженерии и предполагают дистанционное взаимодействие через звонок или сообщения. То есть, мы неявно подразумеваем, что у недоброжелателям уже известны наши **вторичные данные, виртуальные идентификаторы** — номер телефона, электронная почта, адрес аккаунта социальной сети. Таким образом, получение информации об этих данных несет в себе не меньшую угрозу.
+Each type of personal data will be explained in more detail later on. In the meantime, the more data that falls into the wrong hands, the more serious the outcome can be. Hence the conclusion - the amounts of personal data about you need to be under control, not scattered where they shouldn't be, and their use needs to be monitored.
 
-Про каждый из типов данных дальше будет рассказано подробнее. А пока оставим своё внимание на том, что чем больше данных попадает в чужие руки, тем серьёзнее может быть исход. Отсюда вывод — количество данных о вас необходимо контролировать, не разбрасывать их где не следует и следить за их использованием.
-
-Поговорим о **цифровой гигиене**.
+Let's talk about **digital hygiene**.
 
 ---
 
