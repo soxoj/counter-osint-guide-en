@@ -67,7 +67,7 @@ Examples of such services are:
 The BitWarden password manager allows you to generate random "plus" aliases,
 as well as catch-all mailbox addresses and even forwarding mailboxes.
 
-[bitwarden_ru.png](https://github.com/soxoj/counter-osint-guide-en/blob/main/img/bitwarden_ru.png)
+![bitwarden_ru.png](https://github.com/soxoj/counter-osint-guide-en/blob/main/img/bitwarden_ru.png)
 
 *The section will be updated*
 
