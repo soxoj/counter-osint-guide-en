@@ -76,9 +76,9 @@ According to the OPSEC process, let's analyse who might be interested in such ac
 ![What can be done with our data?](../img/0869d0a1e60173af48378.png)
 
 What can be done with our data?
-You have probably noticed that most entries are related to **gaining money**. I think the financial motivation of the scammers is self-explanatory. The only issue to note is that money can be stolen from you and others. В этом случае критичным для нас становится участие в уголовном процессе, куда могут привлечь как свидетелем, так и обвиняемым. 
+You have probably noticed that most entries are related to **gaining money**. I think the financial motivation of the scammers is self-explanatory. The only issue to note is that money can be stolen from you and others. It is critical for us to not participate in a court case because we can be both a witness and an accused. 
 
-The benefits of harvesting comprehensive information about you, including access to correspondence, are less certain. It can be domestic harassment, espionage, blackmail, and so on. In most cases, it is clearly a **personal harm and invasion of privacy**..
+The benefits of harvesting comprehensive information about you, including access to correspondence, are less certain. It can be domestic harassment, espionage, blackmail, and so on. In most cases, it is clearly a **personal harm and privacy violation**.
 
 These threats are clear and explainable and, in many cases, regulated by law. There is no point in listing the articles related to financial loss. There are so many of them, and the collection of personal data is 137 of the Criminal Code. However, let's face it: it takes a severe reason to go and force the case yourself, and getting involved in such processes is stressful. So back to the position already voiced above: our goal is to keep our data safe and avoid threats.
 
