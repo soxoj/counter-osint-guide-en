@@ -30,11 +30,11 @@ is available in open sources, DM me in Telegram: [@soxoj](https://t.me/soxoj).**
      1. [VKontakte](./pages/vkontakte.md)
      1. [Instagram](./pages/instagram.md)
  1. [Privacy for software developers](./pages/development.md)
- 1. [⚠️ Last but not least](./pages/other.md)
+ 1. ⚠️ Last but not least
      1. [Linking a phone number to an account](./pages/2fa.md)
      1. [Removing information about yourself](./pages/deleteme.md)
      1. [Screen sharing](./pages/screen-sharing.md)
- 1. [ex-USSR specifics](./pages/country-notes.md)
+ 1. ex-USSR specifics
      1. [🇷🇺 Russia](./pages/russia.md)
      1. [🇺🇦 Ukraine](./pages/ukraine.md)
      1. [🇧🇾 Belarus](./pages/belarus.md)
