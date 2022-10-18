@@ -30,7 +30,7 @@ At the same time, let's not neglect convenience. Many guides concentrate on keep
 
 Let me remind you that OSINT is about collecting information from open sources. Unfortunately, our most sensitive data as phone number databases, passport data, and so on, often end up on the Net.
 
-In the Russian Federation, through "probing", you can get detailed information about the owner of a phone number, car, or flat from official state registers and databases. Unfortunately, many people are willing to grant access for money to something that should be carefully protected.
+In the Russian Federation, through "probiv", you can get detailed information about the owner of a phone number, car, or flat from official state registers and databases. Unfortunately, many people are willing to grant access for money to something that should be carefully protected.
 
 Let's face it: it is impossible to ensure complete anonymity and remove yourself from all registers, but it is possible to complicate the search process so much that an intruder cannot cling to some information about you.
 
