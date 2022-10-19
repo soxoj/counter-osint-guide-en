@@ -1,79 +1,77 @@
-# Password
+# Passwords
 
-Главный принцип: **Никогда не используйте одинаковые или похожие пароли**
+Main principle: **Never use the same or similar passwords**
 
-По двум причинам:
-- Имея вашу почту и пароль от сайта 1, кто-нибудь обязательно попробует зайти с ними на сайт 2 - и дело не лично в вас, рынок продажи взломанных аккаунтов очень большой, а это товар.
-- Если данные о ваших аккаунтах вместе с паролями всплыли в [утечках](./breaches.md), то получится сопоставить между собой даже совершенно разные почты и номера телефонов ([хороший пример](https://meduza.io/feature/2022/02/07/eto-pohozhe-na-krik-dushi-no-ya-ne-znayu-o-chem-on-krichit)).
+There are two reasons for this:
+- If someone has your email address and password from one site, they will definitely try to go to a second site with those details. It's not personal, the market for selling hacked accounts is very large, and this is a valuable commodity.
+- If data about your accounts, along with your passwords happened to [leak](./breaches.md), then it would be possible to compare different emails and phone numbers with one another ([a good example](https://meduza.io/feature/2022/02/07/eto-pohozhe-na-krik-dushi-no-ya-ne-znayu-o-chem-on-krichit)).
 
-Но как держать в голове много паролей? И где их брать?
-Советую не относиться ко всем паролям как к данным, которые всегда должны быть у вас в голове. Экономьте место у себя в памяти.
+But how do you manage to remember a multitude of passwords? I advise you not to treat all passwords as data that should always be in your head. Save space in your memory.
 
-Самый оптимальный способ: создание одного достаточно длинного пароля-фразы для хранилища паролей (или для учётной записи, к которой
-привязан ваш браузер, в котором хранятся все пароли).
+The best way is to create one passphrase long enough for the password store (or for the account that your browser is linked to, where all passwords are stored).
 
 *The section will be updated*
 
-## Как придумывать стойкие пароли
+## How to come up with strong passwords
 
-Стандартные рекомендации по использованию 8 символов, которые включают в себя специальные символы, буквы, цифры не работают! Ведь `P@ssw0rd` тоже подходить под эти требования, а это не самый крутой пароль, поэтому давайте разбирать методы для создания стойких паролей.
+The standard guidelines for using eight characters, which include special characters, letters, and numbers, do not work! After all, `P@ssw0rd` also meets these requirements, and this is not the coolest password. So, let's analyze the best methods for creating a strong password.
 
-### Три случайных слова
-Существует простой, но действенный метод для создания паролей - метод 3-х случайных слов.
+### Three random words
+There is a simple but effective method for creating passwords - the method of 3 random words
 
-В чем заключается данный метод? Когда мы регистрируем новый аккаунт, мы просто придумываем 3 случайных слова и ставим их как наш пароль, например: `NETWORKINGHYGIENEDEVELOPMENT`
-согласитесь, это намного легче запомнить, чем: 
-`asndjBDHJBSDhjSBADHJadbzhjF`, да и простым перебором по словарю перебрать такое будет достаточно сложно.
+What is this method? When we register a new account, we just come up with 3 random words and put them as our password, for example: `NETWORKINGHYGIENEDEVELOPMENT `
+I’m sure you would agree, this is much easier to remember than `asndjBDHJBSDhjSBADHJadbzhjF`, and it will be quite difficult to bruteforce this password by a simple dictionary attack.
 
-Такие пароли можно усилить, используя [LEET](https://ru.wikipedia.org/wiki/Leet), заменяя *некоторые* буквы на цифры, то есть наш пароль будет иметь следующий вид:
-`N3TW0RKHY6I3N3D3V3L0PM3NT`
-Таким образом наш пароль становится более стойким, приэтом его сложность для запоминания увиличивается не на много, а если вы были знакомы с [LEET](https://ru.wikipedia.org/wiki/Leet), до этого, то вам будет еще проще.
+Such passwords can be strengthened even further using [LEET](https://ru.wikipedia.org/wiki/Leet), replacing *some* letters with numbers, that is, our password will look like this: `N3TW0RKHY6I3N3D3V3L0PM3NT`
+This way, our password becomes stronger, and its complexity for memorization does not increase by much., And if you are familiar with [LEET](https://ru.wikipedia.org/wiki/Leet), this will make it even easier for you.
 
-Для еще большей стойкости можно разделять слова при помощи разных спецсимволов, например: `-`, `~`, `=`.
+For even greater durability, you can separate words using different special characters, such as: `-`, `~`, `=`.
 
-### Русские слова в английской раскладке
-Еще один простой, но действенный метод - использование случайных русских слов в английской раскладке.
+### Russian words in English layout
 
-Мы просто берем случайные слова на русском языке и пишим их в английской раскладке, например из `ехалгрекачерезреку` мы можем получить следующее `t[fkuhtrfxthtphtre`.
+Another simple but effective method is to use random Russian words in the English layout.
 
-Выглядит интересно и довольно стойко, но можно дополнять символами/цифрами в конце, например:
+Just take random words in Russian and write them in English. For example, from `ехалгрекачерезреку` (a Russian paraphrase
+ part), we can get the following:
+`t[fkuhtrfxthtphtre`.
+
+It looks interesting and is quite stable, and you can add symbols and numbers at the end. Here’s an example:
 `t[fkuhtrfxthtphtre123!`
 `t[fkuhtrfxthtphtre34345!`
 
 *The section will be updated*
 
-## Менеджеры паролей
-Это то, чем должен пользоваться каждый! Вспоминаем главный принцип из первой строки и сразу в голову приходит вопрос - "Ну, мне что теперь, запоминать 100 паролей!?!?". Нет, не нужно запоминать 100 паролей, требуется один, это пароль от менеджера паролей.
+## Password managers
 
-Менеджер паролей позволит генерировать стойкие пароли и хранить их в одном, а что главное - безопасном месте.
+This is something everyone should use! If you recall the main principle from the first line, the following question immediately comes to mind, "Well, what should I do now, remember 100 passwords?!". But don’t worry, you don't need to remember 100 passwords only one. And this is the password for the password manager.
 
-Обзор популярных менеджеров паролей можно прочитать в данной статье - [Обзор менеджеров паролей](https://habr.com/ru/company/cloud4y/blog/581916/)
+The password manager will allow you to generate strong passwords and store them in one (and most importantly) safe place.
 
-Личной рекомендацией составителей руководства будет сервис [Bitwarden](https://bitwarden.com/). Для личного использования его хватит с головой, бесплатная версия включает хранение неограниченного количества паролей, использование с неограниченного количества устройств и все основные функции менеджеров паролей. Помимо хранения паролей, также можно хранить свои номера банковских карточек и заметки. Генератор паролей позволяет сгенерировать стойкий пароль и проверить его в утечках, что несомненно является одной из "Killer Feature".
+An synopsis of popular password managers can be found in this article: [Overview of password managers](https://habr.com/ru/company/cloud4y/blog/581916/).
+
+The personal recommendation of the compilers of the guide will be the [Bitwarden](https://bitwarden.com/) service. For personal use, it's more than enough. The free version includes unlimited password storage, use of an unlimited number of devices, and all the basic functions of password managers. In addition to storing passwords, you can also store your bank card numbers and notes. The password generator allows you to generate a strong password and check it in leaks, which is undoubtedly one of the "Killer Features".
 
 ### LessPass
 
-Что если вам сложно хранить пароли и синхронизировать их между разными устройствами? На помощь приходят парольные менеджеры без необходимости что-то хранить!
+What if you find it difficult to store passwords and sync them across devices? Password managers come to the rescue without having to store anything!
 
-LessPass - не единственная подобная программа, но одна из известнейших. Её концепция в том, что генерация одноразовых паролей происходит на лету
-при помощи функции, результат которой всегда одинаков при условии одинаковых параметров.
+LessPass is not the only such program, but one of the most well-known. Its concept is that one-time passwords are generated on the fly using a function, the result of which is always the same, provided the parameters are the same.
 
-Программе надо сообщить:
-- мастер-пароль
-- логин на сайте
-- адрес сайта
+The program must be given the following details:
+- master password
+- site login
+- website address
 
-После этого она без какой-либо отправки данных или сохранения чего-либо куда либо сгенерирует ваш пароль.
-В любой момент на любом устройства вы можете запустить эту программу — и получить свой пароль для конкретного сайта.
+After that, it will generate your password without sending any data or saving anything anywhere. You can run this program at any time, on any device, and get your password for whichever particular site necessary.
 
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/31013580/194948775-cfe3987f-acde-456a-a78b-5281dd06171e.png">
 
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/31013580/194949724-dc26b60c-4607-40cf-a101-ead867dea009.png">
 
-## Полезные материалы и ссылки на источники
+## Useful materials and links to sources
 
-- [Свободный менеджер паролей LessPass работает на чистой функции](https://www.pvsm.ru/open-source/207324)
+- [The free password manager LessPass runs on pure function](https://www.pvsm.ru/open-source/207324)
 
 ---
 
-[⬅️ Назад](./location.md) | [⏫ Оглавление](../README.md) | [➡️ Вперёд](./photo.md)
+[⬅️ Back](./location.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./photo.md)
