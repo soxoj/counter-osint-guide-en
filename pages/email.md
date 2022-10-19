@@ -39,14 +39,30 @@ Examples of such services are:
 
 ## Forwarding emails from external mailboxes
 
+We can use services that allow you to forward emails external masked mailboxes that hide your real address.
+
+The principle of operation is very simple:
+- Masked "external" mailbox receives the letter
+- From address of this mailbox, a letter is being forwarded to your real mailbox
+
+Firefox Relay example:
+
+First, a mask is provided that hides the real email address.
+
+![firefoxrelay](/img/firefoxrelay.png)
+
+Now, using this mask address, we can receive emails to our mailbox without showing its address to the entire Internet.
+
+![relayedemail](/img/relayedemail.png)
+
+*The section will be updated*
+
 Examples of such services are:
 
 - [SimpleLogin](https://simplelogin.io/)
 - [AnonAddy]()https://anonaddy.com/ - generates addresses according to a template `*@ivanov.anonaddy.com`
 - [Firefox Relay](https://relay.firefox.com/) - generates random addresses on the domain `mozmail.com`
 - [erine.email](https://erine.email/) - makes addresses according to a template `*.ivanov@erine.email`
-
-*The section will be updated*
 
 ---
 
