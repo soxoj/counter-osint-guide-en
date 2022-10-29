@@ -1,68 +1,57 @@
 # Phone number
 
-Ранее мы говорили, что телефонный номер - это **вторичный** идентификатор.
-С точки зрения здравого смысла это так: вы можете избавиться от телефона, разорвать контракт с оператором,
-а может приобрести 100 номеров, и тогда любопытные погрузятся в аналитический паралич, пытаясь с этим разобраться.
+We said earlier that a telephone number is a **secondary** identifier.
+From a common-sense point of view, it is: you can get rid of the phone, terminate the contract with the operator, or you can buy 100 numbers, and then the curious will go into analytical paralysis trying to make sense of it.
 
-Но с точки зрения онлайн-платформ телефон - самое удобное средство связи с вами и подтверждения вашей личности.
-Поэтому *практически все* используют номер в качестве **первичного**, уникального идентификатора.
+But in terms of online platforms, the phone is the most convenient means of contacting you and verifying your identity.
+This is why *almost everyone* uses your number as a **primary**, unique identifier.
 
-Отсюда следует очевидный вывод. Почти любой сайт знает ваш телефонный номер и обладает своими сведениями о вас.
-Этими сведениями сайт может обмениваться (и делает это!) с другими компаниями - в рамках услуг, за деньги, бартером.
+Hence the obvious conclusion. Almost any website knows your phone number and has information about you.
+This information can (and is!) be exchanged with other companies - as part of a service, for money, or for bartering.
 
-Примеры таких сайтов и платформ:
-- Системы авторизации в публичном Wi-Fi (97-ФЗ)
-- Скидочные и дисконтные карты
-- Авторизация / верификация в социальных сетях и мессенджерах
+Examples of such sites and platforms:
+- Public Wi-Fi authorisation systems (97-ФЗ);
+- Discount and discount cards;
+- Authorisation/verification in social networks and messengers.
 
-Соединив все кусочки информации по вашему номеру телефона из разных мест, можно собрать ваш портрет.
-Что с этим делать?
+By putting together all the pieces of information related to your phone number from different places, a threat actor can put together a portrait of yourself.
+What to do with it?
 
-## Разделяем личную жизнь и работу
+## Keeping private life and work distinct
 
-Почти все мы имеем рабочие и личные дела. Поэтому начать стоит с разделения этих сфер жизни.
+Most large companies offer their employees a company connection: either you get a new SIM card from the company, or they connect your number to a work rate.
 
-Большинство крупных компаний предлагают сотрудникам корпоративную связь: или вы берёте новую сим-карту от компании,
-или на ваш личный номер подключают рабочий тариф.
+But even if this is not an option, **always** get a separate phone number. I have several reasons for this:
+- Your accounts will not be able to be linked by numbers automatically, except through a contract with the operator.
+And that's a high level of protection!
+- With a different phone number, it's much easier to think about privacy. You can choose which number to link to the texting bank and which one on the company's public website.
+- Work is work. It should be separate from leisure and your private life. And a second phone will only do you good. :)
 
-Но даже если такой возможности нет, **всегда** заводите отдельный номер телефона. У меня есть несколько аргументов:
-- Ваши аккаунты невозможно будет связать по номерам автоматически, кроме как через договор с оператором.
-А это уже высокий уровень защиты!
-- С отдельным телефоном на порядок легче мыслить в категориях приватности. У вас есть выбор, какой номер привязать
-к смс-банкингу, а какой на публичном сайте компании.
-- Работа есть работа, она должна быть отделена от отдыха и вашей личной жизни. И второй телефон пойдёт только на пользу. :)
-
-## Используем виртуальный номер
+## Using a virtual number
 
 Можно выделить 3 сегмента сервисов, которые помогают защитить ваш реальный номер телефона.
 
-### Сервисы для одноразового приёма СМС
+### One-time SMS reception services
 
-Есть общедоступные сайты, позволяющие принять СМС от любого отправителя. Список их перечислять не будем,
-потому что их достаточно просто нагуглить по фразе `receive sms online`.
 
-В них используется небольшое количество номеров телефонов одновременно, и часто на них уже заведены аккаунты на
-разных сайтах: тестировщиками, спамерами, мошенниками. Однако, их можно использовать для авторизации
-в публичных Wi-Fi сетях. Минус такого подхода только в том, что для получения доступа к публичному интернету
-вам уже нужен интернет. 🙂
+Publicly available sites allow you to receive SMS from any sender. We will not list them because you can google them using the phrase 'receive SMS online'.
+
+They use a few phone numbers at a time and often have accounts already set up on them on various sites: testers, spammers, scammers. However, they can be used for authorisation on public Wi-Fi networks. The only downside to this approach is that you need an active internet connection to use those services and access the public internet. 🙂
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/31013580/154546610-38100808-fdaa-43ba-8d06-f196fb81423e.png">
 
-Разумеется, подобные сервисы не рекомендуется использовать для получения чувствительной информации и привязывания
-к своим личным аккаунтам, так как полученные сообщения и коды доступа может увидеть кто угодно.
+Of course, such services are not recommended for obtaining sensitive information and linking to your accounts, as received messages and access codes can be seen by anyone.
 
-И небольшой совет: перед попыткой использования номера с любого из таких сайтов следует обратить внимание на
-время получения последнего СМС-сообщения (таблица на скриншоте выше). Если это время далеко в прошлом, то номер уже
-не работает, но его ещё не убрали с сайта.
+And a tip: before attempting to use a number from any of these sites, pay attention to the time of the last SMS received (the table in the screenshot above). If that time is far from the past, the number is no longer working, but it has not yet been removed from the site.
 
-### Сервисы для приёма СМС под конкретный сайт
+### SMS reception services for a specific website
 
 <img width="766" alt="image" src="https://user-images.githubusercontent.com/31013580/181388851-8fb6b8b7-dee6-43b8-8d9a-dd2311fccf4a.png">
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/31013580/181388894-fefbd50d-8a30-43ad-86f0-57a5451744f7.png">
 
 _The section will be updated_
 
-### Сервисы постоянных виртуальных номеров телефонов
+### Persistent virtual phone number services
 
 _The section will be updated_
 
