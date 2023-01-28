@@ -5,28 +5,24 @@ since the probability of coincidence of all these data in two people is very low
 
 ## Government agencies
 
-В различных областях действуют нормы, обязывающие или поощряющие публикацию документов с персональными данными. С одной стороны,
-открытость в этих областях помогает прозрачности в отрасли (например, госзакупки, списки прошедших/выпускников), но нас более волнует,
-что, однажды попав в такой документ, нам будет сложно из него удалиться.
+Regulations in various fields oblige or encourage the publication of documents containing personal data. On the one hand, openness in these areas helps transparency in the industry (e.g. public procurement, lists of pass/fail graduates), but we are more concerned that once we are in such a document, it will be difficult to get out of it.
 
-К России относятся следующее:
-- списки абитуриентов в университетах: часто выкладываются с полными ФИО, количеством баллов, из года приказа о зачислении можно сделать вывод о возрасте;
-- информация об индивидуальных предпринимателях, руководителях и учредителях компаний (ЕГРЮЛ/ЕГРИП);
-- публичные картотеки судебных дел: однажды совершив правонарушение и даже сумев оправдаться, вас можно будет найти по истории дел;
-- общедоступные телефонные базы: большей частью содержат неактуальную информацию, но с привязкой к дому и квартире; 
-- публичные реестры задолженностей и залогов;
-- и так далее.
+The following applies to Russia:
+- lists of university applicants: often posted with full names, number of points, from the year of the enrolment order one can infer the age;
+- information on individual entrepreneurs, company directors and founders (Unified State Register of Legal Entities/United State Register of Legal Entities or  ЕГРЮЛ/ЕГРИП));
+- public files of court cases: once you have committed an offence and even if you manage to acquit yourself, you can be found through your case history;
+- Public telephone databases: they contain mostly irrelevant information but are linked to the house and flat; 
+- public registries of debts and liens;
+- and so on.
 
 *The section will be updated*
 
 ## Login via another site (Single sign-on)
 
-Современная архитектура авторизации и регистрации в онлайн-сервисах предполагает активное использование сторонних "проверенных" учётных
-записей. Например, почти везде в зарубежном сегменте интернета есть возможность входа через Facebook, в то время как в России всё больше
-распространяется вход через VK. В каких-то сервисах это подразумевается неявно, например, вход в YouTube через Google-аккаунт.
+The modern architecture of authorisation and registration in online services involves using third-party "trusted" accounts. 
+For example, almost everywhere in the foreign segment of the Internet there is an option to log in via Facebook, while in Russia, logging in via VK is becoming increasingly widespread. In some services, it is implicit, for example, logging in to YouTube via a Google account.
 
-Если вы таким образом авторизуетесь на неосновном и общедоступном устройстве (например, телевизор или игровая приставка), то есть риск раскрытия
-о себе публично отображаемой информации, например, имени и фамилии. Для минимизации этого риска стоит переименовывать аккаунт с "Имя Фамилия" на что-нибудь нейтральное, например, "Аккаунт".
+If you log in in this way on a non-mainstream and publicly accessible device (such as a TV or a game console), there is a risk of disclosing publicly displayed information about yourself, such as first and last names. To minimise this risk, it's a good idea to rename your account from "First Name Last Name" to something neutral, such as "Account".
 
 ---
 
