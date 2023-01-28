@@ -7,12 +7,12 @@
 All the identifiers listed below can be used to search for a person.
 
 ### Individuals
-- **Номер паспорта**
-- РНОКПП (ІПН) - *регистрационный номер учетной карточки налогоплательщика*
-- ВУ - *водительское удостоверение*
+- **Passport number**
+- РНОКПП (ІПН) - *registration number of the taxpayer identification card*
+- ВУ - *driving licence*
 
-Государственные сервисы:
-- [Дія](https://diia.gov.ua/) - электронный сервис государственных услуг
+Government services:
+- [Дія](https://diia.gov.ua/) - v
 
 ## Probiv
 
@@ -20,11 +20,9 @@ All the identifiers listed below can be used to search for a person.
 
 ## Public data breaches
 
-В январе 2022 года появилась информация об утечке базы сервиса Дія. Несмотря на
-заверения властей о том, что утечка фальшивая, энтузиастами
-[было подтверждено](https://t.me/full_of_hatred/518) её происхождение.
+In January 2022, it was reported that the database of the Дія service had been leaked. Despite assurances by the authorities that the leak is fake, its origin was [confirmed](https://t.me/full_of_hatred/518) by enthusiasts.
 
-Проверить факт утечки ваших данных из сервиса можно [здесь](https://haveiindb.xyz/check.html).
+You can check whether your data has been leaked from the service [here](https://haveiindb.xyz/check.html).
 
 ---
 
