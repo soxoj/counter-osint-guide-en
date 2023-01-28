@@ -1,33 +1,28 @@
 # Data leaks and breaches, "probiv"
 
-*Здесь будет глава про специфику России и стран СНГ в отношении утечки всех возможных данных и возможности купить 
-любые данные через инсайдеров.*
+*There will be a chapter on the specifics of Russia and the CIS countries about leaks of all possible data and the possibility of buying any data through insiders.*
 
 ![image](https://user-images.githubusercontent.com/31013580/148645741-47de48bc-af8c-45db-bf1c-3e7004f4ff95.png)
 
-*Часть общедоступной базы на 600Gb по странам СНГ.*
+*Part of the 600Gb public database for CIS countries.*
 
 *The section will be updated*
 
-## Паспортные данные
+## Passport details
 
-⚠️ Внимательно подходите к выбору мест при оформлении сим-карт. Чем менее оно престижно, тем больше
-вероятность утечки из него сканов паспортов, которые необходимы при регистрации номера. Выбирайте официальные
-салоны операторов; места, где оказывается максимальное количество услуг и для физических, и для юридических лиц.
+⚠️ Choose your SIM card reseller carefully. The less prestigious it is, the more likely the passport scans required for number registration will be leaked. Choose official operator shops and places that provide the maximum number of services for both individuals and legal entities.
 
-## Известные большие утечки
+## Known major leaks
 
-В феврале 2022 года произошла [утечка базы доставки Яндекс.Еды](https://habr.com/ru/news/t/654039/).
-Были опубликованы _имена и фамилии клиентов, номера телефонов_,
-_полный адрес доставки клиента и комментарии к заказу_.
-Всего почти 7 миллионов уникальных номеров из России, Казахстана и Беларуси, даты с 19.06.2021 по 04.02.2022.
+In February 2022, [the Yandex.Food delivery database was leaked](https://habr.com/ru/news/t/654039/).
+The names and surnames of customers, phone numbers, complete customer delivery address and comments on the order were published online.
+The leak contains almost 7 million unique numbers from Russia, Kazakhstan and Belarus, dating from 19.06.2021 to 04.02.2022.
 
-Для проверки своих данных энтузиастами был поднят сервис https://saverudata.info/.
+A service https://saverudata.info/ was shared online by enthusiasts to check their data.
 
-## Как удалить себя из утечек?
+## How do I remove myself from the leaks?
 
-**Никак.** Вы можете попросить популярные сервисы [убрать вашу запись](./deleteme.md), но вы ничего не сделаете
-с огромным количеством копий баз данных, которые уже разошлись по рукам, частным и закрытым сервисам.
+**You can't.** You can ask popular services to [remove your record](./deleteme.md), but there is nothing you can do with the massive number of copies of the databases that have already been dispersed amongst hands, private and closed services.
 
 ---
 
