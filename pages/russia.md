@@ -7,13 +7,13 @@
 All the identifiers listed below can be used to search for a person.
 
 ### Individuals
-- **Номер паспорта**
-- **СНИЛС** - *cтраховой номер индивидуального лицевого счёта*
-- **ИНН** - *идентификационный номер налогоплательщика*
-- УИН – *уникальный идентификатор начислений*
+- **Passport number**
+- **СНИЛС/SNILS** - *Individual insurance account number*
+- **ИНН/INN** - *Tax identification number*
+- UIN – *Unique accrual identifier*
 
 ### Juridical persons
-- ОГРН - *основной государственный регистрационный номер*
+- OGRN - *primary state registration number*
 
 ### Transport
 - Номер автомобиля
