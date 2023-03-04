@@ -1,30 +1,24 @@
 # Determining the source of a leak
 
-## Поиск себя в утечках
+## Finding information about yourself in Leaked Data
 
-Существует много сайтов, которые позволяют по телефону, почте или даже ФИО
-самостоятельно найти себя в утечках информации и слитых базах. Использовать их надо
-с осторжностью, потому что за любым онлайн-поиском может стоять дополнительная цель
-в обогащении данных. Например, **сбор IP-адреса**, связывание нескольких поисков одного
-человека для **сбора информации о его окружении**. 
+Many sites allow you to search for yourself in leaked information and databases by phone, mail, or even your full name. Use them with caution because, behind any online search, there may be an additional goal in data enrichment. For example, **Collecting an IP address**, linking multiple searches for the same person to **collect information about their surroundings**. 
 
-Поэтому предпочтительным вариантом всегда остаётся *самостоятельный поиск в файлах утечек*.
-Но это может быть затруднительно: надо найти файл (или много файлов, если нужен исчерпывающий поиск),
-понять его структуру, выполнить эффективный поиск.
+Therefore, the preferred option is always to *search the leak files yourself*.
+But this can be difficult: you must find and download the leak's file (or many files if you need an exhaustive search), understand its structure, and perform an effective search.
 
-Если же вы пошли более простым путём, то рекомендую использовать такие ресурсы, по убыванию рисков:
+If you chose an easier way, then I recommend using these resources in descending order of risk:
 
-#### Общеизвестные безопасные площадки
+#### Commonly known secure sites
 
-Самая известная: [Have I Been Pwned](https://haveibeenpwned.com/), поддерживаемая известным
-безопасником и дающая гарантии приватности.
+The best-known: [Have I Been Pwned](https://haveibeenpwned.com/), it's maintained by a renowned security company and providing assurances of privacy.
 
-Другие:
+Other:
 - https://monitor.firefox.com/
 
-#### Коммерческие альтернативы
+#### Commercial alternatives
 
-Часто дают условно-бесплатный доступ, найти разные сайты можно по ключевым словам check, leak:
+Often they give conditional free access, you can find different sites by keywords check, leak:
 
 - https://leakcheck.io/
 - https://checkleaked.cc/
@@ -37,59 +31,44 @@ Most bots do not indicate the source from which the information was obtained. Li
 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1XerMPGwaDz1FG1gBumBp6jzOgSqhWcQWgZmhxoT60WA/edit#gid=0).
 
 
-#### Уведомления
+#### Notifications
 
-Некоторые из перечисленных выше сайтов также предоставляют функциональность уведомлений вам
-на почту, если произошла новая утечка с вашими данными. Если вы ведёте активную виртуальную
-жизнь, то крайне рекомендую пользоваться таким сервисом.
+Some of the sites listed above also can notify you by email if there is a new leak with your data. I highly recommend using such a service if you lead an active virtual life.
 
-## Использование алиасов/фейковых почтовых адресов
+## Using aliases/fake mail addresses
 
-Gmail и другие крупные почтовые сервисы поддерживают специальные символы для создания алиасов
-вашего почтового ящика. Почта, отправленная на алиас, придёт к вам, но в поле "Получатель" вы будете явно видеть, куда она пришла.
+Gmail and other most common mail services support special characters to create aliases for your mailbox. Mail sent to an alias will come to your primary email address, but you will clearly see where it came from in the Recipient field.
 
-То есть, `soxoj@protonmail.com` будет эквивалентен `soxoj+gitlab@protonmail.com`:
+For example, `soxoj@protonmail.com` is equivalent to `soxoj+gitlab@protonmail.com`:
 
 <img width="311" alt="Снимок экрана 2022-10-03 в 22 46 42" src="https://user-images.githubusercontent.com/31013580/193665517-c06dd5d4-1c6b-468d-8a16-34db0e0689a5.png">
 
-**Строго рекомендуется** использовать эту возможность во всех сайтах, где она поддерживается.
-Таким образом:
-1. Вы в случае утечек или рассылки спама будете точно знать, откуда была получена почта.
-2. В случае целенаправленного сбора информации по вашему email информация с нескольких сайтов
-с меньшей вероятностью будет объединена в одно досье.
+It's **Strictly recommended** use this feature on all sites where it is supported.
+Thus:
+1. In case of leaks or spam, you'll know exactly where your mail came from.
+2. In case of a targeted collection of information on your email, information from several sites will be less likely to be merged into one dossier.
 
 
-Разумеется, при сборе утечек часто используется нормализация почт: удаление подобных частей алиасов
-и очистка лишнего. Поэтому можно говорить только про снижение риска, а не стопроцентную защиту.
+Naturally, leak harvesting often uses mail normalization: removing similar parts of aliases and cleaning up the excess. So we can only talk about risk mitigation, not one hundred per cent protection.
 
-Отдельно стоит упомянуть про указание почтовых адресов **для отправки чеков** при покупках в Интернете.
+Special mention should be made of providing mailing addresses **for sending receipts** for online purchases.
 ```
-Согласно п. 2 ст.1.2 закона № 54-ФЗ, кассовый чек должен быть направлен в электронной форме,
-если покупатель сообщил свой абонентский номер или адрес электронной почты до момента расчета.
+According to paragraph 2 of Art. 1.2 of the law № 54-FZ, the receipt must be sent electronically if the buyer has provided his subscriber number or an e-mail address before the payment.
 ```
 
-Этим пользуются такие крупные Telegram-боты как Глаз Бога, сохраняя себе всю вашу платёжную информацию
-и **добавляя указанный email** к той информации, которую выдаёт бот.
+This is used by major Telegram bots like the Eye of God: they store all your payment information, **connected to the specified email**, to the information the bot gives out.
 
-Поэтому, если вы не заинтересованы в чеке, то указывайте заведомо неправильный почтовый адрес,
-указывающий на источник утечки, например, eyeofgod@receipt.com. Либо используйте упомянутые выше
-алиасы, явным образом раскрывающие, где ящик был указан.
+So, if you are not interested in the receipt, then provide a knowingly wrong mailing address pointing to the source of the leak, e.g. eyeofgod@receipt.com. Or use the aforementioned aliases, explicitly revealing where the inbox was listed.
 
 ## Использование разных имён для отслеживания
 
-Кроме непосредственно поиска себя в базах, вы можете проактивно оставить "маячки",
-по которым быстро найдёте сайт или компанию-виновника. Чаще всего в жизни это происходит
-при спам-звонках, в которых упоминают ваше имя, например, указанное на сайте с объявлениями.
+So, if you are not interested in the receipt, then provide a knowingly wrong mailing address pointing to the source of the leak, e.g. eyeofgod@receipt.com. Or use the aforementioned aliases, explicitly exposing where the email account was listed.
 
-Сайты по-разному относятся к корректности имени и фамилии аккаунтов. Кто-то требует того, чтобы
-они совпадали с паспортными данными ([например, в ВК](https://roem.ru/21-06-2009/126784/v-v-kontakte-mojno-smenit-imya-lish-na-nastoyashchee/)),
-кто-то только сверяет их с документами в случае финансовых операций, а большинство вообще не валидируют.
+Websites have different approaches to the accuracy of first and last names of accounts. Some require that they coincide with passport data ([e.g., in VK](https://roem.ru/21-06-2009/126784/v-v-kontakte-mojno-smenit-imya-lish-na-nastoyashchee/)), some only check them against documents in case of financial transactions, and most do not validate at all.
 
-В зависимости от строгости правил сервиса (ToS, Terms of Service) можно использовать трюки,
-перечисленные ниже. Но перед использованием я настоятельно советую изучить, какие санции возможны,
-если вы укажете некорректное имя, и оценить эти риски для себя.
+You can use the tricks listed below depending on the strictness of the service rules (ToS, Terms of Service). But before using them, I strongly advise you to study what sanctions are possible if you specify an invalid name and assess these risks for yourself.
 
-#### Используем имена/фамилии, созвучные либо начинающиеся с тех же букв, что и сайт/компания.
+#### Use names/surnames that are consonant or begin with the same letters as the site/company.
 Таким образом, при утечке ФИО в связке с номером или почтой вы будете знать, откуда эта информация:
 
 - Макдональдс: _Максим_
@@ -120,8 +99,7 @@ Gmail и другие крупные почтовые сервисы подде�
 
 ### Использование BitWarden для генерации алиасов электронной почты
 
-Парольный менеджер BitWarden позволяет генерировать случайные алиасы почты с плюсом,
-а также адреса catch-all почтовых ящиков и даже почтовые ящики для пересылки.
+Парольный менеджер BitWarden позволяет генерировать случайные алиасы почты с плюсом, а также адреса catch-all почтовых ящиков и даже почтовые ящики для пересылки.
 
 Подробнее про эти возможности читайте в разделе "🥷 Продвинутый уровень" секции [Почтовый ящик](./email.md).
 
