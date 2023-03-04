@@ -69,23 +69,23 @@ Websites have different approaches to the accuracy of first and last names of ac
 You can use the tricks listed below depending on the strictness of the service rules (ToS, Terms of Service). But before using them, I strongly advise you to study what sanctions are possible if you specify an invalid name and assess these risks for yourself.
 
 #### Use names/surnames that are consonant or begin with the same letters as the site/company.
-Таким образом, при утечке ФИО в связке с номером или почтой вы будете знать, откуда эта информация:
+That way, if that name will be leaked in conjunction with a number or mail, you'll know where the information came from:
 
 - Макдональдс: _Максим_
 - ВКонтакте: _Вова_
 - Одноклассники: _Олег_
 
-#### Используем вариации имени кириллицей или латиницей
-Прежде всего это относится к полной/сокращённой форме имени:
+#### Use variations of the name in Cyrillic or Latin
+First of all, this applies to the full/abbreviated form of the name:
 
 - Александр
 - Саша
 - Саня
 - Шура
 
-Но в силу различий между языками, у имени бывает по несколько "латинских" форм.
-Даже банки часто дают возможность выбора правильной транслитерации имён.
-Так, имя "Анатолий" может быть представлено как:
+But because of language differences, a name can have several "Latin" forms.
+Even banks often give the option of choosing the correct transliteration of names.
+Thus, the name "Анатолий" can be expressed as:
 
 - Anatoly
 - Anatolii
@@ -94,14 +94,14 @@ You can use the tricks listed below depending on the strictness of the service r
 ---
 
 <details>
-  <summary>🥷 Продвинутый уровень</summary>
+  <summary>🥷 Advanced level</summary>
   </br>
 
-### Использование BitWarden для генерации алиасов электронной почты
+### Using BitWarden to generate email aliases
 
-Парольный менеджер BitWarden позволяет генерировать случайные алиасы почты с плюсом, а также адреса catch-all почтовых ящиков и даже почтовые ящики для пересылки.
+The BitWarden password manager allows you to generate random email aliases with a plus, as well as catch-all mailbox addresses and even mailboxes for forwarding.
 
-Подробнее про эти возможности читайте в разделе "🥷 Продвинутый уровень" секции [Почтовый ящик](./email.md).
+Read more about these features in the "🥷 Advanced level" section of the [Mailbox](./email.md) section.
 
 ![image](../img/bitwarden_en.png)
 
