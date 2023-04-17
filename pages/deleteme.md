@@ -46,6 +46,15 @@ Google offers a number of different forms through which you can request the remo
 
 [Brief instructions for deleting your data from popular services](https://inteltechniques.com/exposure.html) - Have I Been Pwned, Leakcheck, IntelX, etc.
 
+To make requests for services that are interested in storing your data, you need to prepare a complete list of all the information that you want to clean up. It should include:
+- nicknames
+- phones
+- emails
+- addresses
+- car license plates
+- government identifiers (passport number, social security number, taxpayer identification number, full name, etc.)
+- any data from leaked database records.
+   
 ### Removing yourself from the Telegram bot Eye of God
 
 The Eye of God has implemented an automatic request to delete personal data in the menu item Account [bot](https://t.me/fandorin_search_bot):
