@@ -1,62 +1,62 @@
 # Facebook
 
-Обсудим настройки приватности в самой популярной соцсети по всём мире - в Facebook. Как и в других главах, убираем общедоступность и по возможности ставим максимальные уровни, комментируя их предназначение и сопутствующие риски.
+Let's discuss privacy settings in the most popular social network around the world - Facebook. As in other chapters, we remove accessibility and, if possible, set maximum levels, commenting on their purpose and associated risks.
 
-Для начала разберём уровни приватности, которые Facebook позволяет выставить для своей информации и публикаций.
+To begin with, let's analyze the privacy levels that Facebook allows you to set for your information and publications.
 
-- **Доступно всем / Все** - информацию будут видеть как все пользователи Facebook, так и весь Интернет - доступ будет открыт поисковикам.
-- **Друзья** - информацию будут видеть только ваши друзья.
-- **Только я** - информация будет отображаться только вам. *Максимальная приватность!*
-- **Настройки пользователя** - гибкий настраиваемый список тех, кто может и кто не может видеть информацию. Доступны как отдельные люди, так и категории "Друзья" и "Друзья друзей".
+- **Available to everyone / All** - information will be seen by all Facebook users, and all Internet access will be open to search engines.
+- **Friends** - only your friends will see the information.
+- **Only me** - the information will be displayed only to you. *Maximum privacy!*
+- **User Settings** - Flexible customizable list of who can and who can't see the information. Both individuals and categories of "Friends" and "Friends of Friends" are available.
 
-Также для "Друзей и подписок" есть дополнительные уровни видимости "Друзья, кроме..." и "Определённые друзья", которые являются вариантами последнего.
+Also for "Friends and Subscriptions" there are additional visibility levels of "Friends other than..." and "Certain Friends", which are variants of the latter.
 
-Важное замечание: уровень "Друзья" предполагает, что этой группе людей вы можете доверять больше, но не стоит недооценивать возможности социальной инженерии. Вы можете без долгих раздумий подтвердить запрос на добавление в друзья человека, похожего на вашего знакомого. Который на деле таковым не окажется, а добавится исключительно ради получения вашей приватной информации.
+Important note: The "Friends" level suggests that you can trust this group of people more, but do not underestimate the possibilities of social engineering. You can confirm the request to add a friend of a person similar to your friend without much hesitation. Which in fact will not turn out to be such, but will be added solely for the sake of obtaining your private information.
 
-Заходим в раздел "Настройки и конфиденциальность" => "Быстрые настройки конфиденциальности". Открываем первую карточку "Кто может видеть ваши публикации" и последовательно разбираем экраны с настройками.
+Go to the section "Settings and privacy" => "Quick privacy settings". We open the first card "Who can see your publications" and sequentially disassemble the screens with settings.
 
-## Кто может видеть ваши публикации
+## Who can see your posts
 
-### Информация профиля
+### Profile Information
 
-- *Электронный адрес* и *Дата рождения* - на деле эти данные нас идентифицируют, ставим *Только я*.
-- *Родной город* и *Город проживания* - если они различаются, то третьи лица могут легко связать информацию о вас в молодости/до переезда с текущей информацией. В таком случае также рекомендуется ставить *Только я*. 
-- *Образование* - аналогично предыдущему пункту (эта информация может выдавать ваш родной).
-- *Работа* - обычно не представляет тайны, если это публичная работа. Зависит от вашей ситуации. 
+- *Email address* and *Date of birth* - in fact, these data identify us, we put *Only me*.
+- *Hometown* and *City of residence* - if they differ, then third parties can easily link information about you in your youth/before moving with current information. In this case, it is also recommended to put *Only me*.
+- *Education* - similar to the previous paragraph (this information may be issued by your native).
+- *Work* - usually does not represent a secret if it is a public work. Depends on your situation.
 
-- *Кто может видеть список друзей в вашем профиле?* и *Кто может видеть людей, Страницы и списки, на которые вы подписаны?* - информация о социальном графе потенциально даёт возможность узнать про вас многое из вышеперечисленного косвенным образом. Наверняка у вас в друзьях есть и сослуживцы, и одногруппники, и одноклассники. Поэтому также ставим "Только я".
+- *Who can see the friends list in your profile?* and *Who can see the people, Pages, and lists you subscribe to?* - information about the social graph potentially makes it possible to learn a lot about you from the above indirectly. Surely you have friends and colleagues, and classmates, and classmates. Therefore, we also put "Only me".
 
-### Публикации и истории
+### Publications and stories
 
-- *Будущие публикации* - определяет, какое значение будет выставлено по умолчанию для новых постов. Позволяет избежать случайной публикации поста с неверными настройками приватности. Рекомендуется выставить "Друзья".
-- *Истории* - они видны только 24 часа, но не только в Facebook, но и в Messenger. Не пренебрегаем рисками узнать информацию о нас через ещё одну платформах, поэтому выставляем "Друзья". 
-- *Ограничить доступ к старым публикациям* - **важная настройка**, которая даёт возможность массово сменить настройки видимости для всех старых публикаций. Нажимаем "Ограничить доступ" и подтверждаем своё решение.
+- *Future posts* - determines which value will be set by default for new posts. Allows you to avoid accidentally publishing a post with incorrect privacy settings. It is recommended to set "Friends".
+- *Stories* - they are visible only 24 hours, but not only on Facebook, but also in Messenger. We do not neglect the risks of finding out information about us through another platform, so we put up "Friends".
+- *Restrict access to old publications* - **important setting**, which makes it possible to massively change the visibility settings for all old publications. Click "Restrict access" and confirm your decision.
 
-### Блокировка
+### Blocking
 
-В этом разделе можно добавлять людей в чёрный список. Нашей целью сейчас это не является, но если вы озаботились приватностью, зная о конкретном подозрительном профиле - заблокируйте его здесь. 
+In this section, you can add people to the blacklist. This is not our goal right now, but if you are concerned about privacy, knowing about a specific suspicious profile, block it here.
 
 ---
 
-## Как люди могут находить вас на Facebook
+## How people can find you on Facebook
 
-Этот раздел в "Быстрых настройках конфиденциальности" **очень важен для нас** - он позволяет "разорвать связь" между вашим телефоном и почтой и аккаунтом.
+This section in the "Quick Privacy Settings" **is very important to us** - it allows you to "break the connection" between your phone and mail and account.
 
-### Запросы на добавление в друзья
+### Friend Requests
 
-Как уже упоминалось выше, добавление может быть инициировано только лишь ради того, чтобы увидеть ваши приватные данные. 
+As mentioned above, the addition can be initiated only in order to see your private data.
 
-### Номер телефона и электронный адрес
+### Phone number and email address
 
-Обе настройки выставлены во "Все". Это означает, что номеру телефона и адресу электронной почты вас можно найти через встроенный поиск Facebook! Разумеется, ставим "Только я".
+Both settings are set to "All". This means that you can be found by phone number and email address via the built-in Facebook search! Of course, we put "Only me".
 
-### Поисковые системы
+### Search engines
 
-Эта настройка включена по умолчанию и разрешает индексацию вашего профиля. Выключаем и тема самым запрещаем находить наш профиль в результатах поиска по имени Google, Yandex и т.д.
+This setting is enabled by default and allows indexing of your profile. Turn it off and thereby prohibit finding our profile in search results by name Google, Yandex, etc.
 
 ## Used materials and useful links
 
-- [Хабр - Настройки приватности Facebook VS OSINT](https://habr.com/ru/company/tomhunter/blog/530460/)
+- [Habr - Privacy Settings Facebook VS OSINT](https://habr.com/ru/company/tomhunter/blog/530460/)
 
 ---
 

@@ -1,33 +1,35 @@
-# Determining the source of a leak
+# Determining the source of the leak
 
-## Finding information about yourself in Leaked Data
+## Finding yourself in leaks
 
-Many sites allow you to search for yourself in leaked information and databases by phone, mail, or even your full name. Use them with caution because, behind any online search, there may be an additional goal in data enrichment. For example, **Collecting an IP address**, linking multiple searches for the same person to **collect information about their surroundings**. 
+There are many sites that allow you to find yourself by phone, mail, or even full name yourself in information leaks and merged databases. They should be used with caution, because any online search may have an additional purpose in enriching data. For example, **collecting an IP address**, linking several searches of one person to **collect information about his environment**.
 
-Therefore, the preferred option is always to *search the leak files yourself*.
-But this can be difficult: you must find and download the leak's file (or many files if you need an exhaustive search), understand its structure, and perform an effective search.
+Therefore, the preferred option is always *independent search in leak files*.
 
-If you chose an easier way, then I recommend using these resources in descending order of risk:
+But it can be difficult: you need to find a file (or a lot of files if you need an exhaustive search), understand its structure, perform an effective search.
 
-#### Commonly known secure sites
+If you went the simpler way, then I recommend using such resources in descending order of risks:
 
-The best-known: [Have I Been Pwned](https://haveibeenpwned.com/), it's maintained by a renowned security company and providing assurances of privacy.
+#### Well-known safe sites
+
+The most famous: [Have I Been Pwned](https://haveibeenpwned.com/), supported by a well-known
+security guard and giving guarantees of privacy.
 
 Other:
 - https://monitor.firefox.com/
 
 #### Commercial alternatives
 
-Often they give conditional free access, you can find different sites by keywords check, leak:
+They often give shareware access, you can find different sites by the keywords check, leak:
 
 - https://leakcheck.io/
 - https://checkleaked.cc/
 
-#### Telegram bots
+#### Bots in Telegram
 
-- https://t.me/PhoneLeaks_bot - search only for leaks sources
+- https://t.me/PhoneLeaks_bot - search for sources of leakage
 
-Most bots do not indicate the source from which the information was obtained. List of some resources:
+Most bots do not indicate the source from which the information is obtained. List of some resources:
 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1XerMPGwaDz1FG1gBumBp6jzOgSqhWcQWgZmhxoT60WA/edit#gid=0).
 
 
@@ -41,7 +43,7 @@ Gmail and other most common mail services support special characters to create a
 
 For example, `soxoj@protonmail.com` is equivalent to `soxoj+gitlab@protonmail.com`:
 
-<img width="311" alt="Снимок экрана 2022-10-03 в 22 46 42" src="https://user-images.githubusercontent.com/31013580/193665517-c06dd5d4-1c6b-468d-8a16-34db0e0689a5.png">
+<img width="311" alt="Screenshot 2022-10-03 в 22 46 42" src="https://user-images.githubusercontent.com/31013580/193665517-c06dd5d4-1c6b-468d-8a16-34db0e0689a5.png">
 
 It's **Strictly recommended** use this feature on all sites where it is supported.
 Thus:
@@ -60,7 +62,7 @@ This is used by major Telegram bots like the Eye of God: they store all your pay
 
 So, if you are not interested in the receipt, then provide a knowingly wrong mailing address pointing to the source of the leak, e.g. eyeofgod@receipt.com. Or use the aforementioned aliases, explicitly revealing where the inbox was listed.
 
-## Использование разных имён для отслеживания
+## Using different names for tracking
 
 So, if you are not interested in the receipt, then provide a knowingly wrong mailing address pointing to the source of the leak, e.g. eyeofgod@receipt.com. Or use the aforementioned aliases, explicitly exposing where the email account was listed.
 
@@ -71,21 +73,21 @@ You can use the tricks listed below depending on the strictness of the service r
 #### Use names/surnames that are consonant or begin with the same letters as the site/company.
 That way, if that name will be leaked in conjunction with a number or mail, you'll know where the information came from:
 
-- Макдональдс: _Максим_
-- ВКонтакте: _Вова_
-- Одноклассники: _Олег_
+- McDonald's: _Maxim_
+- VKontakte: _Vova_
+- Odnoklassniki: _Oleg_
 
 #### Use variations of the name in Cyrillic or Latin
 First of all, this applies to the full/abbreviated form of the name:
 
-- Александр
-- Саша
-- Саня
-- Шура
+- Alexander
+- Sasha
+- Sanya
+- Shura
 
 But because of language differences, a name can have several "Latin" forms.
 Even banks often give the option of choosing the correct transliteration of names.
-Thus, the name "Анатолий" can be expressed as:
+Thus, the name "Anatoly" can be expressed as:
 
 - Anatoly
 - Anatolii

@@ -1,93 +1,93 @@
 # Removing information about yourself
 
-## Удаление собственных аккаунтов
+## Deleting your own accounts
 
-Несмотря на то, что интернет всё помнит, удаление аккаунтов остаётся одним из самых сильных средств против базовой разведки по вам.
-Кажется, что это тривиальная тема, но есть несколько важных нюансов:
+Despite the fact that the Internet remembers everything, deleting accounts remains one of the strongest means against basic intelligence on you.
+It seems that this is a trivial topic, but there are several important nuances:
 
-Перед удалением:
-1. Запросите у сервиса **выгрузку своих личных данных** по GDPR. Это поможет на следующих шагах и даст вам понимание того, что
-сервис знает о вас.
-2. **Переименуйте свой аккаунт**, удалите/поменяйте фото, выждите несколько дней. Это необходимо, чтобы сайты-индексаторы и поисковики
-успели обновить информацию про ваш аккаунт, и впоследствии вас нельза было найти по его последней копии. Также не забывайте, что
-с этого момента нельзя оставлять какие-либо комментарии и сообщения публично.
-3. Все старые комментарии/твиты/сообщения **желательно удалить**. В соцсетях и мессенджерах есть механизмы, позволяющие выйти на вас даже
-после удаления: упоминания (ссылка на ваш профиль, выглядящая как имя), пометка авторства, репосты/ретвиты. От всех подобных зацепок
-стоит избавиться.
-4. Обновите выдачу поисковиков, попросив их переиндексировать вашу **изменённую страницу** ([Google](https://developers.google.com/search/docs/advanced/crawling/ask-google-to-recrawl?hl=ru)) и подождите некоторое время, чтобы другие системы, сохраняющие информацию из соцсетей, также получили новую версию вашего аккаунта.
+Before deleting:
+1. Request the service **to upload your personal data** by GDPR. This will help in the next steps and give you an understanding of what
+the service knows about you.
+2. **Rename your account**, delete/change photos, wait a few days. This is necessary for indexer sites and search engines
+we managed to update the information about your account, and subsequently you could not be found by its latest copy. Also, do not forget that
+from now on you cannot leave any comments and messages publicly.
+3. All old comments/tweets/messages **it is advisable to delete**. There are mechanisms in social networks and messengers that allow you to reach you even
+after deletion: mentions (a link to your profile that looks like a name), a mark of authorship, reposts/retweets.
+It's worth getting rid of all such leads.
+4. Update the search results by asking them to reindex your **modified page** ([Google](https://developers.google.com/search/docs/advanced/crawling/ask-google-to-recrawl?hl=ru)) and wait for a while so that other systems that save information from social networks will also receive a new version of your account.
 
-После этого аккаунт можно удалять встроенными средствами платформы.
+After that, the account can be deleted using the platform's built-in tools.
 
-### Запрос на удаление
+### Deletion request
 
-Не во всех сервисах удаление возможно штатными средствами. Или же оно спрятано так глубоко, что найти его невозможно.
-К счастью, есть вспомогательные сайты с информацией о том, как удалиться.
+Not in all services, deletion is possible by regular means. Or it is hidden so deep that it is impossible to find it.
+Fortunately, there are auxiliary sites with information on how to retire.
 
-- [JustDeleteMe](https://justdeleteme.xyz/) - прекрасный каталог по платформам, даёт ссылки и описание нужных действий,
-показывает сложность удаления. Также у создателей есть родственные сайты [JustGetMyData](https://justgetmydata.com/) и
-[JustWhatsTheData](https://justwhatsthedata.github.io/) для выполнения пункта 1 выше.
+- [JustDeleteMe](https://justdeleteme.xyz/) - an excellent directory for platforms, gives links and a description of the necessary actions,
+shows the complexity of removal. The creators also have related sites [JustGetMyData](https://justgetmydata.com/) and
+[JustWhatsTheData](https://justwhatsthedata.github.io/) to fulfill paragraph 1 above.
 
-- [AccountKiller](https://www.accountkiller.com/en/all-sites) - инструкции по удалению для большого количества сайтов, преимущественно западных.
+- [AccountKiller](https://www.accountkiller.com/en/all-sites) - removal instructions for a large number of sites, mainly Western.
 
-Даже если вы не смогли найти инструкцию по удалению для нужного вам сайта - не отчаивайтесь. Всегда остаётся возможность написать
-в поддержку и запросить удаление вашей учётной записи согласно GDPR.
+Even if you couldn't find the removal instructions for the site you need, don't despair. There is always an opportunity to write
+to support and request the deletion of your account according to GDPR.
 
-## Удаление выдачи в поисковиках
+## Deleting search results in search engines
 
-Google предлагает целый ряд различных форм, через которых можно запросить удаление и обновление контента в поисковой выдаче.
+Google offers a number of different forms through which you can request the removal and updating of content in search results.
 
-- [Удаление устаревшего контента из поиска](https://search.google.com/search-console/remove-outdated-content) - хорошо подходит для страниц, которые нужно переиндексировать (см. выше п. 4 про удаление аккаунтов).
+- [Removing outdated content from search](http://search.google.com/search-console/remove-outdated-content) - well suited for pages that need to be reindexed (see above point 4 about deleting accounts).
 
-- [Форма запроса на удаление личных данных в Google](https://reportcontent.google.com/forms/rtbf?hl=ru)
+- [Google Personal Data Deletion Request Form](https://reportcontent.google.com/forms/rtbf?hl=ru)
 
-- [Новая форма запроса на удаление личных данных](https://support.google.com/websearch/troubleshooter/9685456)
+- [New request form for deletion of personal data](https://support.google.com/websearch/troubleshooter/9685456)
 
-## Удаление информации об утечках
+## Removing information about leaks
 
-[Краткие инструкции по удалению ваших данных из популярных сервисов](https://inteltechniques.com/exposure.html) - Have I Been Pwned, Leakcheck, IntelX и т.д.
+[Brief instructions for deleting your data from popular services](https://inteltechniques.com/exposure.html) - Have I Been Pwned, Leakcheck, IntelX, etc.
 
-### Удаления себя из Telegram-бота Глаз Бога
+### Removing yourself from the Telegram bot Eye of God
 
-В Глазе Бога реализован автоматический запрос на удаление личных данных в пункте меню Аккаунт [бота](https://t.me/fandorin_search_bot):
+The Eye of God has implemented an automatic request to delete personal data in the menu item Account [bot](https://t.me/fandorin_search_bot):
 
 <img width="358" alt="image" src="https://user-images.githubusercontent.com/31013580/193659086-ae6369c4-7fb4-4b2e-a9f3-4e62386816fc.png">
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/31013580/193659203-8293ccb8-9991-4ee3-8127-287234a92db4.png">
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/31013580/193660218-16fef90a-5eb0-414b-b405-15f60d9681fa.png">
 <img width="758" alt="image" src="https://user-images.githubusercontent.com/31013580/193660613-ffa757fc-461e-485c-8092-38356c5120fd.png">
 
-### Скрытие поиска по себе из Telegram-бота TELESINT
+### Hiding the search by itself from the Telegram bot TELESINT
 
-[TeleSINT](https://t.me/telesint_bot) [предоставляет возможность](https://telesint.xyz/2021/10/05/service/) скрывать себя от поиска, присылать оповещения,
-если вас пытаются найти через бота, а также просматривать список тех, кто вас искал. К сожалению, для этого **нужна платная подписка**.
+[TeleSINT](https://t.me/telesint_bot) [provides an opportunity](https://telesint.xyz/2021/10/05/service/) hide yourself from the search, send alerts
+if they try to find you through the bot, and also view the list of those who were looking for you. Unfortunately, this **requires a paid subscription**.
 
 <img width="487" alt="image" src="https://user-images.githubusercontent.com/31013580/193661209-f9f9430a-be3c-461a-84c5-f322865210a8.png">
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/31013580/193661708-142aaa48-0b7e-4c12-98fc-01b6b4b33ce3.png">
 
-### Telegram-бот Quick OSINT
+### Telegram bot Quick OSINT
 
-В Политике обработки персональных данных [сервиса](http://quickosint.com) сказано:
+In the Personal Data Processing Policy [of the service](http://quickosint.com) said:
 
 ```
-Срок обработки персональных данных является неограниченным. Пользователь может в любой момент отозвать свое согласие на обработку персональных данных, направив Оператору уведомление @Quick_OSINT_support с пометкой «Отзыв согласия на обработку персональных данных».
+The period of processing of personal data is unlimited. The User can withdraw his consent to the processing of personal data at any time by sending a notification to the Operator @Quick_OSINT_support marked "Withdrawal of consent to the processing of personal data".
 ```
 
-Все запросы на удаление обрабатываются вручную, необходимо заполнить заявление о блокировке данных из общедоступных источников
-с указанием полных паспортных данных, адреса бота, а также идентификаторов для блокировки, после чего отправить его фото или сканированное изображение [Оператору](https://t.me/Quick_OSINT_support). Данные удалят в течение 7 дней.
+All requests for deletion are processed manually, it is necessary to fill out an application for blocking data from publicly available sources
+with full passport data, the bot's address, as well as identifiers for blocking, and then send its photo or scanned image to [the Operator](https://t.me/Quick_OSINT_support). The data will be deleted within 7 days.
 
-### Telegram-бот Insight
+### Telegram bot Insight
 
-Для скрытия данных о себе в боте [Insight](https://t.me/eyeofbeholder_bot) необходимо:
-- чтобы было не менее ₽1000 пополнений за всё время с аккаунта
-- обратиться по адресу @tginsighter с просьбой удалить свои данные
+To hide data about yourself in the bot [Insight](https://t.me/eyeofbeholder_bot) necessary:
+- to have at least ₽1000 deposits for the entire time from the account
+- contact @tginsighter with a request to delete your data
 
 ### GetContact
 
-В GetContact возможно произвольно отключить отображение имён, которые известны по вашему номеру, либо отключить поиск совсем.
+In GetContact, it is possible to arbitrarily disable the display of names that are known by your number, or disable the search altogether.
 
-Чтобы сделать это, надо перейти по [этой ссылке](https://www.getcontact.com/en/manage/profile) и авторизоваться через мессенджер, затем выключить.
+To do this, follow [this link](https://www.getcontact.com/en/manage/profile) and log in via messenger, then turn it off.
 
-Также надо отметить, что в этом разделе сайта можно отслеживать поисковые запросы по вашему номеру. При отключении поиска эта возможность теряется
-так же как и получение нотификаций о поиске вас из приложения. Однако, при повторном входе в приложение GetContact эта возможность возвращается.
+It should also be noted that in this section of the site you can track search queries by your number. If you disable the search, this feature is lost
+as well as receiving notifications about finding you from the app. However, when you log in to the GetContact application again, this feature is returned.
 
 <img width="918" alt="Снимок экрана 2022-10-03 в 23 45 10" src="https://user-images.githubusercontent.com/31013580/193679883-e7a24933-cc95-4354-993d-b02c3b9c8a11.png">
 

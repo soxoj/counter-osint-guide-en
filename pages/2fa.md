@@ -1,39 +1,40 @@
-# Linking a phone number to an account
+# Linking a phone to an account is not always a good idea
 
-**Don't use phone number verification where it's not required.**
+**Do not use confirmation via phone number where it is not necessary.**
 
-2FA is used to enhance security. Use an additional authentification factor to log into the site when you realize
-that the account on a particular site is important to you (correspondence, purchases, finances), and that you will consciously confirm the entry every time.
+2FA is used to enhance security. Use an additional factor to log in to the site when you realize
+that an account on a particular site is important to you (correspondence, purchases, finances), and that you will consciously confirm the login every time.
 
-However, if there is a choice of what to use for confirmation - a phone number or _something else_ - then use something else.
-Companies are interested in knowing your number: send you SMS, verify your identity and link it with other sites accounts.
-They easily will give out part of your number when somebody try to log into your account or when your friend gives the application access to their contacts.
+However, if there is a choice of what exactly to use for confirmation - a phone number or something else - then use something else.
+Companies are interested in knowing your number: sending you SMS, verifying your identity, linking it with other sites.
+Just as easily, they will give out part of your number when trying to log in to your account or when your friend gives the app access to his contacts.
 
-It's also a bad idea to use someone else's phone. For example, linking your grandmother's phone to your Google account if Google for some reason required you to add a phone.
-Knowing your account, it will be possible to get part of the grandmother's phone number through access recovery, for example.
+It's also a bad idea to link someone else's phone. For example, you can link your grandmother's phone to your Google account, because Google for some reason required you to add a phone.
+Knowing your account, it will be possible to get part of your grandmother's phone number through, for example, restoring access.
 
-#### Where is information about your accounts likely to be leaked?
+#### Where are information leaks about your accounts possible at all?
 
-* Login form. For example, the site may respond with the messages "The user with this email does not exist" and "Wrong password", which is unambiguous confirms the existence of your account.
+* Login form. For example, the service may respond with the messages "a user with such an email does not exist" and "you entered the wrong password", which clearly
+confirms the presence of an account with your mailbox.
 
-* Registration form. A site will definitely not let you register an account on a phone that is already used: "This phone is already registered.". But if it is not used, then a notification will most likely be sent to the phone.
+* Registration form. The site will not allow you to register an account for a phone that is already in the system: "this phone is already in use." And if it's not there, then a notification will most likely be sent to the phone.
 
-* Recovery form. Most often, one data is entered, for example, the account nickname, and the service responds with something like `A new password was sent to the iva*****ov@mail.com mailbox` or `We sent an SMS to a number ending in 93`. Or the service asks to enter email, and then writes "If such an account exists, then we sent a notification.". Some sites like Meta only needs to know the account ID.
+* Access recovery form. Most often, some data is entered, for example, the account nickname, and the service responds with something like `A new password has been sent to the mailbox*****ov@mail.com ` or `We sent an SMS to a number ending in 93`. Or asks you to enter an email, and then writes "if such an account exists, then we have sent a notification." And Meta (Facebook) only needs to know the account ID.
 
-In all these places, the 2nd factor (phone number) that you bind to the account can leak.
+In all these places, there may be a leak of the second factor (phone number) that you link to your account.
 
 ---
 
 <details>
-  <summary>🥷 Продвинутый уровень</summary>
+  <summary>🥷 Advanced level</summary>
   </br>
 
-### Использование BitWarden для генерации алиасов электронной почты
+### Using BitWarden to generate email aliases
 
-Парольный менеджер BitWarden позволяет генерировать случайные алиасы почты с плюсом,
-а также адреса catch-all почтовых ящиков и даже почтовые ящики для пересылки.
+The BitWarden password manager allows you to generate random aliases of plus mail,
+as well as catch-all mailbox addresses and even mailboxes for forwarding.
 
-Подробнее про эти возможности читайте в разделе "🥷 Продвинутый уровень" секции [Почтовый ящик](./email.md).
+Read more about these features in the section "🥷 Advanced level" of [Mailbox](./email.md).
 
 ![image](bitwarden_ru.png)
 

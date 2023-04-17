@@ -1,24 +1,22 @@
 # Screen sharing
 
-В постковидное время удалённая работа стала нормой. Много людей созваниваются с коллегами в специально предназначенных для этого
-приложениях: Zoom, Microsoft Teams, Google Meet и так далее. Одним из неотъемлемых атрибутов таких приложений является функция
-демонстрации вашего экрана: чтобы показать собеседнику что-то, вы делаете видимым ваш работчий стол или отдельные окна, например, браузер.
+During the post-COVID, remote work became the norm. A lot of people call up with colleagues in specially designed
+applications for this: Zoom, Microsoft Teams, Google Meet, and so on. One of the essential attributes of such applications is the function
+of showing your screen: to show the interlocutor something, you make your desktop or individual windows visible, for example, the browser.
 
-Разумеется, это несёт с собой и риски раскрытия чувствительной информации. Оставим в стороне факт целенаправленного показа вами чего-то,
-рассмотрим только случайные последствия:
+Of course, this carries with it the risks of disclosure of sensitive information. Let's leave aside the fact that you purposefully show something, consider only random consequences:
 
-- Переписки и сообщения в мессенджерах и соцсетях (во всплывающих окнах)
-- Открытые вкладки в браузере или закладки
-- Подсказки автодополнения во всех окнах ввода (особенно в адресной строке браузера)
+- Correspondence and messages in messengers and social networks (in pop-up windows)
+- Open browser tabs or bookmarks
+- Auto-completion hints in all input windows (especially in the browser address bar)
 
-Последняя категория может нести наибольший риск: при посимвольном вводе браузер будет пытаться предложить вам что-то из истории
-недавнего посещения, поисковых запросов или закладок, имеющее хоть какое-то совпадение с символами (даже если это похожие буквы в любом месте).
+The latter category may carry the greatest risk: when you enter a symbol by symbol, the browser will try to offer you something from the history of a recent visit, search queries or bookmarks that has at least some overlap with the characters (even if they are similar letters anywhere).
 
-Чтобы отключить это поведение, на Firefox можно снять все галочки в разделах "Поиск / Поисковые предложения" и "Приватность и Защита / Панель адреса".
+To disable this behavior, you can uncheck all the boxes in the "Search" sections on Firefox / Search Suggestions" and "Privacy and Protection / Address panel".
 
-<img width="600" alt="Выключение автозаполнения в поисковой строке" src="../img/firefox_search_suggestion.png">
+<img width="600" alt="Disabling autocomplete in the search bar" src="../img/firefox_search_suggestion.png">
 
-<img width="400" alt="Выключение автозаполнения в поисковой строке" src="../img/firefox_suggest_disable.png">
+<img width="400" alt="Disabling autocomplete in the search bar" src="../img/firefox_suggest_disable.png">
 
 ---
 

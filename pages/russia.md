@@ -4,60 +4,59 @@
 
 ## Documents
 
-All the identifiers listed below can be used to search for a person.
+All the identifiers listed below can be used to find the owner.
 
 ### Individuals
 - **Passport number**
-- **СНИЛС/SNILS** - *Individual insurance account number*
-- **ИНН/INN** - *Tax identification number*
-- UIN – *Unique accrual identifier*
+- **SNILS** - *insurance number of an individual personal account*
+- **INN** - *taxpayer identification number*
+- UIN – *unique identifier of accruals*
 
-### Juridical persons
-- OGRN - *primary state registration number*
+### Legal entities
+- OGRN - *main state registration number*
 
 ### Transport
-- Номер автомобиля
-- Номер полиса ОСАГО - *обязательное страхование гражданской ответственности*
-- Номер СТС - *свидетельство о регистрации транспортного средства*
-- ВУ - *водительское удостоверение*
+- Car number
+- OSAGO policy number - *compulsory civil liability insurance*
+- STS number - *Vehicle registration certificate*
+- WU - *driver's license*
 
-Главный государственный сервис - [Госуслуги](https://www.gosuslugi.ru/). Возможно
-[восстановление доступа](https://esia.gosuslugi.ru/recovery/)
-через любой из первых трёх документов физического лица, при этом раскроется
-часть вашего мобильного телефона или почты. Не рекомендуется
-вносить СНИЛС или ИНН в личный кабинет без явной необходимости.
+Main Public Service - [Public Services](https://www.gosuslugi.ru/). Possible
+[restoring access](https://esia.gosuslugi.ru/recovery/)
+through any of the first three documents of an individual, while revealing
+part of your mobile phone or mail. It is not recommended
+to enter SNILS or INN into your personal account without an explicit need.
 
-## Probiv
+## Background check
 
-Какие услуги по получению данных через сотрудников доступны в России?
+What services for obtaining data through employees are available in Russia?
 
-- Данные от мобильных операторов: Билайн, Мегафон, МТС. Детализация звонков, местоположение (так называемая "Вспышка").
-- ПФР (*Пенсионный фонд России*). СНИЛС, выписка с лицевого счета застрахованного лица (СЗИ-6), дата смерти,
-актуальное место работы, материнский капитал.
-- МВД (*Министерство внутренних дел*). Базы ИБД-Р, ИБД-Ф, Роспаспорт, Поток, Мигрант, Магистраль, Рубеж.
-- ГИБДД (подразделение МВД). Карточки, штрафы, ограничения, список авто, карты ТС (транспорных средств), ВУ.
-- ФНС (*Федеральная налоговая служба*). СНИЛС, счета, ЕГРН, ЕГРЮЛ, 2НДФЛ, книги покупки и продажи, архивная выписка,
-декларация, аффилированность, страховые взносы, задолженности.
+- Data from mobile operators: Beeline, Megafon, MTS. Call details, location (the so-called "Flash").
+- PFR (*Pension Fund of Russia*). SNILS, statement from the personal account of the insured person (SZI-6), date of death,
+current place of work, maternity capital.
+- MVD (*Ministry of Internal Affairs*). Databases IBD-R, IBD-F, Rospasport, Stream, Migrant, Highway, Frontier.
+- GIBDD (department of the Ministry of Internal Affairs). Cards, fines, restrictions, list of cars, vehicle cards (vehicles), VU.
+- FNS (*Federal Tax Service*). SNILS, accounts, EGRN, EGRUL, 2NDFL, purchase and sale books, archive extract,
+declaration, affiliation, insurance premiums, debts.
 
-## Public data breaches
+## Data leaks to public access
 
-В декабре 2021 года произошла [утечка программного кода
-регионального сайта](https://www.forbes.ru/tekhnologii/451375-privlec-vnimanie-k-probleme-kto-slil-ishodnyj-kod-gosuslug-i-cem-eto-grozit)
-Госуслуг. Федеральный сайт не был затронут, но вероятность
-утечки данных с него существует.
+In December 2021, there was a [leak of the program code
+of the regional website](https://www.forbes.ru/tekhnologii/451375-privlec-vnimanie-k-probleme-kto-slil-ishodnyj-kod-gosuslug-i-cem-eto-grozit)
+Public services. The federal website has not been affected, but there is a possibility
+of data leakage from it.
 
-В феврале 2022 года произошла [утечка базы доставки Яндекс.Еды](https://habr.com/ru/news/t/654039/).
-Были опубликованы _имена и фамилии клиентов, номера телефонов_,
-_полный адрес доставки клиента и комментарии к заказу_.
-Всего почти 7 миллионов уникальных номеров из РФ и Казахстана, даты с 19.06.2021 по 04.02.2022.
-Для проверки своих данных энтузиастами был поднят сервис https://saverudata.info/.
+In February 2022, there was a [leak of the Yandex.Food delivery database](https://habr.com/ru/news/t/654039/).
+The names and surnames of the clients, telephone numbers,
+the full delivery address of the client and comments on the order were published.
+There are almost 7 million unique numbers from Russia and Kazakhstan, dates from 06/19/2021 to 02/04/2022.
+To check their data, enthusiasts have raised the service https://saverudata.info/.
 
-### Другие утечки
-- ФОМС - *фонд обязательного медицинского страхования*
-- УФМС
-- ПФР
-- СНИЛСы граждан
-
+### Other leaks
+- FOMS - *compulsory medical insurance fund*
+- UFMS
+- PFR
+- SNILS of citizens
 ---
 
 [⬅️ Back](./deleteme.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./ukraine.md)

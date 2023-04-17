@@ -1,12 +1,12 @@
 # Why it is important
 
-It's hard to stay off the grid in these digital times. A hermit may have an emergency phone, and a dog, though not every dog, may have an Instagram account.
+It is difficult to stay out of the access zone in our digital time. A hermit can have an emergency phone number, and a dog, although not every one, has an Instagram account.
 
-The pervasiveness of social media and communications could be highly positive if it didn't lead to many unfortunate consequences. For example, fake Sberbank employees calling to ask you to dictate your password from a text message to debt collectors suddenly demanding the return of a loan taken out on the information extracted from your passport.
+The penetration of social networks and means of communication into our lives could be extremely positive if it did not lead to a lot of sad consequences. From calls from fake Sberbank employees with a request to dictate a password from SMS, and to collectors suddenly demanding to repay a loan issued on your passport.
 
-In recent years, there has been a trend towards privacy and protection of user information: GDPR, CCPA, and LGBD. Companies have been obliged to secure personal data and prevent leaks. But are they collecting less information about us? No. Our data is a source of profit for them.
+In recent years, there has been a trend towards privacy and protection of user information: GDPR, CCPA, LGBD. The companies were obliged to take care of the safety of personal data and to prevent their leaks. But did they start collecting less information about us? Absolutely not. For them, our data is a source of profit.
 
-But the tightening of regulations is not enough for companies. You probably left a lot of "breadcrumbs" because you've been on the Internet for years: Old accounts, advertisements, public correspondence, and photos. These traces can be used to get close to you and exploit it for whatever purpose.
+But the tightening of legal norms for companies is not enough. You probably left a lot of "bread crumbs", because it's not the first year on the Internet. Old accounts, ads, public correspondence, photos. Following these traces, you can come close to you and use it for any purpose.
 
 ---
 
@@ -14,77 +14,78 @@ But the tightening of regulations is not enough for companies. You probably left
 
 ---
 
-The enormous amount of data about people that can easily be collected by improvised means has led to the popularity of OSINT, a methodology for collecting and analysing data from open sources. The term is now often used to refer to "spying on people" or "deanonymisation" techniques, even though it was initially an intelligence methodology. Any tool can be used for good and bad - this is something to keep in mind.
+A huge array of data about people, which can be easily collected by improvised means, has led to the popularity of OSINT, a methodology for collecting data from open sources. Often, this term now means means of spying on people, although initially it is an intelligence methodology. Any means can be used for both good and bad purposes — this should not be forgotten.
 
-It is, therefore, essential to have "**Counter-OSINT**" means and tools to protect your data and ensure your privacy.
 
-## What will happen in the next sections
+Therefore, it is important to have **Counter-OSINT** tools to protect your data and ensure privacy.
 
-We will study simple but effective steps that will make it very difficult for an outsider observer to gather information about you.
+## What will happen in the next chapters
 
-The guide will be helpful to the broadest range of people interested - not just those who have heard something about OSINT but also friends, acquaintances and parents. An investment of half an hour for thoughtful reading and deliberate actions will bring peace of mind and protection against fraud, surveillance, harassment, and blackmail.
+Let's analyze simple but effective steps that will make it very difficult for an outside observer to collect information about you. With specific points and actions.
 
-At the same time, let's not neglect convenience. Many guides concentrate on keeping ourselves as safe as possible (even if it's not justified). On the other hand, We will start from the need to maintain **a balance between privacy and convenience**, in which Internet use is not complicated.
+The guide will be useful to a wide range of interested people — not only those who have heard something about OSINT, but also friends, acquaintances, parents. An investment of half an hour for thoughtful reading and conscious actions will bring peace of mind and protection from fraud, surveillance, harassment, blackmail.
 
+At the same time, we will not neglect convenience. Many managers concentrate on protecting themselves to the maximum (even if it is not justified). We will proceed from the need to maintain **a balance between privacy and convenience **, in which the use of the Internet will not be complicated.
 ---
 
-Let me remind you that OSINT is about collecting information from open sources. Unfortunately, our most sensitive data as phone number databases, passport data, and so on, often end up on the Net.
+Let me remind you that OSINT is the collection of information from open sources. But, unfortunately, such sensitive data as databases of phone numbers, passport data and so on often get into the Network.
 
-In the Russian Federation, through "probiv", you can get detailed information about the owner of a phone number, car, or flat from official state registers and databases. Unfortunately, many people are willing to grant access for money to something that should be carefully protected.
+Moreover, in the Russian Federation, through "background check", you can get detailed information about the owner of a phone number, car, apartment from official state registers and databases. Unfortunately, many people are willing to provide access to what should be carefully protected for money.
 
-Let's face it: it is impossible to ensure complete anonymity and remove yourself from all registers, but it is possible to complicate the search process so much that an intruder cannot cling to some information about you.
+We will take this into account: it is impossible to ensure complete anonymity and remove yourself from all registries, but it is possible to complicate the search process so much that an attacker will not be able to cling to the information.
 
-Thus, the purpose of the manual is to teach you how to protect publicly available information and make it harder to find other information about you.
+Thus, the purpose of the guide is to teach how to protect publicly available information and complicate the process of finding other information about you.
 
-### Defining important information
+### Identifying important information
 
-To understand which data is more critical and what should be protected more, you need to know the current realities, adjusted for Runet. That is what we will look at next, and to be objective, we will adopt [Operations Security (OPSEC) measures](https://en.wikipedia.org/wiki/Operations_security).
+To understand which data is more important and what should be protected more, it is necessary to know modern realities adjusted for Runet. We will analyze this further, and to try to be objective, we use OPSEC.
 
-The term OPSEC, like OSINT, comes from US intelligence. It refers to the process that "_identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information_".
+The term OPSEC, like OSINT, came from American intelligence. It means the process of analyzing and protecting critical information.
 
-![Болтать - врагу помогать!](../img/37ddd605b06fdfb1793be.png)
+![Chatter - help the enemy!](../img/37ddd605b06fdfb1793be.png)
 
-First, let's list all the **primary data** that reveals our identity in one way or another that *exists physically off the Internet*. 
+To begin with, let's list all the **primary data **that somehow reveal our identity, but * exist physically outside the Internet*.
 
-- Surname, first name, patronymic
+- Last name, first name, patronymic
 - Date of birth
-- Passport details (series, number, etc.)
+- Passport data (series, number, etc.)
 - Physical address
-- Personal documents (driving licence, etc.)
+- Personal documents (driver's license, etc.)
 - Biometric data
-- Other personal information
+- Other personal and identifying information
 
-There is not much data like that. But with at least some of it, a hostile actor could pretend to be you and deceive a third party. For example, he could send a message to someone you know asking them to wire you money urgently because of a problematic situation.
+There is not much such data. But, having at least a part, you can pretend to be you and deceive third parties. For example, send a message to friends asking them to urgently transfer money due to a difficult situation.
 
-In doing so, fraudsters will not necessarily be interested in your identity. For example, they can buy a database containing hundreds of "fresh" passports to link passport details to [QIWI e-wallets](https://qiwi.com/) to increase withdrawal limits.
+At the same time, scammers will not necessarily be interested specifically in your identity. For example, they can buy a database and hundreds of "fresh" passports to link passport data to QIWI e-wallets to increase the limits on money withdrawal.
 
-Any personal data can be exploited. For example, restoring access to social media accounts often requires answering a security question. Thus, knowing your mother's maiden name or your favourite musician will increase the chances that your profile will be hacked by a hostile actor.
-
----
-
-*Interesting case study: [in 2012, there was a high-profile case](https://habr.com/ru/post/149179/) of hijacking 4 accounts of a person with only address, name and email. An elaborate access recovery chain - first using available data, then linking fake data - allowed one to first gain access to Amazon, Gmail, Apple, and Twitter, and later even remotely erase data from a person's devices.*
+Any personal data may be used. For example, restoring access to social media accounts often requires answering a security question. Thus, knowing your mother's maiden name or your favorite musician increases the chances of hacking you.
 
 ---
 
-You may have been confused by the "biometric data" point, but alas, its exploitation has long been part of our lives. Face searches, which use the same technology as that used to unlock a personal phone through the front camera, and extensive databases from social media have long been widespread. When you leave your photos on the Web, you leave the opportunity to a hostile threat actor to find you.
+*Interesting fact: [a high-profile case occurred in 2012](https://habr.com/ru/post/149179/) capture 4 accounts of a person at once with knowledge of only the address, name and email. An elegant chain of restoring access — first using known data, then linking fake ones — allowed you to first get access to Amazon, GMail, Apple, Twitter, and then remotely erase data from a person's devices.*
+
+---
+
+Perhaps you were confused by the item "biometric data", but, alas, their use has long entered our lives. Face search tools have long been common, which use the same technologies as for unlocking a personal phone through the front camera, as well as extensive databases from social networks. When you post your photo online, you leave an opportunity to find yourself.
 
 ### Analyzing threats
 
-According to the OPSEC process, let's analyse who might be interested in such actions and how information about us might be exploited. In the diagram below, let's look at popular uses of primary data and try to draw conclusions. 
+In accordance with the OPSEC process, we will analyze who may be interested in such actions and how they can use information about us. Let's look at the popular cases of using primary data in the diagram below and try to draw conclusions.
 
 ![What can be done with our data?](../img/0869d0a1e60173af48378.png)
 
 What can be done with our data?
-You have probably noticed that most entries are related to **gaining money**. I think the financial motivation of the scammers is self-explanatory. The only issue to note is that money can be stolen from you and others. It is critical for us to not participate in a court case because we can be both a witness and an accused. 
+Surely you have noticed that most of the items are related to **receiving money**. I think the financial motivation of scammers does not require an explanation. The only thing to note is that money can be stolen not only from you, but also from other persons. In this case, participation in the criminal process becomes critical for us, where both the witness and the accused can be involved.
 
-The benefits of harvesting comprehensive information about you, including access to correspondence, are less certain. It can be domestic harassment, espionage, blackmail, and so on. In most cases, it is clearly a **personal harm and privacy violation**.
+The benefits of collecting complete information about you, including access to correspondence, are less defined. This can be both domestic harassment, and espionage, blackmail, and so on. It is only clear that in most cases it is **causing personal harm and invasion of privacy**.
 
-These threats are clear and explainable and, in many cases, regulated by law. There is no point in listing the articles related to financial loss. There are so many of them, and the collection of personal data is 137 of the Criminal Code. However, let's face it: it takes a severe reason to go and force the case yourself, and getting involved in such processes is stressful. So back to the position already voiced above: our goal is to keep our data safe and avoid threats.
+These threats are understandable and understandable, and in many cases regulated by law. It makes no sense to list articles related to financial losses, there are so many of them; and the collection of personal data is 137 of the Criminal Code of the Russian Federation. However, let's face it: it takes a serious reason to go and force the initiation of a case on your own, and participation in such processes is stressful. Therefore, let's return to the position already voiced above: our goal is to protect our data and avoid threats.
 
 ---
-Obviously, the knowledge of the primary data is not enough to carry out fraud schemes. Such schemes are usually based on social engineering and involve remote interaction via phone calls or messages. We implicitly assume that the perpetrators already have our **secondary data, virtual identifiers** - phone numbers, emails, and social network accounts details. Thus, obtaining information about this data carries just as high a threat.
 
-Each type of personal data will be explained in more detail later on. In the meantime, the more data that falls into the wrong hands, the more serious the outcome can be. Hence the conclusion - the amounts of personal data about you need to be under control, not scattered where they shouldn't be, and their use needs to be monitored.
+Obviously, knowledge of the primary data is not enough to conduct fraudulent schemes. These methods are based on social engineering and involve remote interaction through a call or messages. That is, we implicitly mean that our detractors already know our **secondary data, virtual identifiers** — phone number, email, social network account address. Thus, getting information about this data carries no less threat.
+
+Each of the data types will be described in more detail later. In the meantime, let's leave our attention on the fact that the more data falls into the wrong hands, the more serious the outcome may be. Hence the conclusion — the amount of data about you must be controlled, do not scatter them where it should not be and monitor their use.
 
 Let's talk about **digital hygiene**.
 

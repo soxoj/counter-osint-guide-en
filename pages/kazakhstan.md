@@ -4,34 +4,37 @@
 
 ## Documents
 
-All the identifiers listed below can be used to search for a person.
+All the identifiers listed below can be used to find the owner.
 
 ### Individuals
-- ИИН - *individual identification number*
-- РНН - *registration number of the taxpayer*
+- INN - *individual identification number*
+- RNN - *registration number of the taxpayer*
 
 ### Juridical persons
-- БИН - *business identification number*
+- BIN - *business identification number*
 
 ### Transport
-- ГРНЗ - *vehicle registration plate*
-- СРТС - *vehicle registration certificate*
+- GRNZ - *vehicle registration plate*
+- SRTS - *vehicle registration certificate*
 
-Main public service - [Электронное правительство республики Казахстан](https://egov.kz/).
+Main public service - [Electronic Government of the Republic of Kazakhstan](https://egov.kz/).
 
-## Probiv
+## Background check
 
 *The section will be updated*
 
 ## Public data breaches
 
-In the summer of 2019, the personal data of 11 million Kazakhs were [leaked](https://www.facebook.com/cyberseckz/photos/a.1721444308083307/2450405611853836) from the CEC (Central Election Commission) during the presidential election.
+In the summer of 2019 , during the presidential elections , there was
+[leak](https://www.facebook.com/cyberseckz/photos/a.1721444308083307/2450405611853836)
+personal data of 11 million Kazakhstanis from the CEC (Central Election Commission).
 
-In February 2022, [the Yandex.Food delivery database was leaked](https://habr.com/ru/news/t/654039/).
-The names and surnames of customers, phone numbers, complete customer delivery address and comments on the order were published online.
-The leak contains almost 7 million unique numbers from Russia, Kazakhstan and Belarus, dating from 19.06.2021 to 04.02.2022.
+In February 2022, there was a [leak of the Yandex.Food delivery database](https://habr.com/ru/news/t/654039/).
+The names and surnames of the clients, telephone numbers,
+the full delivery address of the client and comments on the order were published.
+There are almost 7 million unique numbers from Russia and Kazakhstan, dates from 06/19/2021 to 02/04/2022.
+To check their data, enthusiasts have raised the service https://saverudata.info/.
 
-A service https://saverudata.info/ was shared online by enthusiasts to check their data.
 ---
 
 [⬅️ Back](./ukraine.md) | [⏫ Table of contents](../README.md)
