@@ -4,26 +4,29 @@
 
 ## Documents
 
-All the identifiers listed below can be used to search for a person.
+All the identifiers listed below can be used to find the owner.
 
 ### Individuals
 - **Passport number**
-- РНОКПП (ІПН) - *registration number of the taxpayer identification card*
-- ВУ - *driving licence*
+- DRFO - *identification number of an individual*
+- RNOCPP (IPN) - *registration number of the taxpayer's registration card*
+- WU - *driver's license*
 
 Government services:
-- [Дія](https://diia.gov.ua/) - v
+- [Diya](https://data.gov.ua/) - electronic service of public services
 
-## Probiv
+### Legal entities
+- EDRPO - number in the unified State Register of enterprises and organizations of Ukraine
+
+## Background check
 
 *The section will be updated*
 
-## Public data breaches
+## Data leaks to public access
 
-In January 2022, it was reported that the database of the Дія service had been leaked. Despite assurances by the authorities that the leak is fake, its origin was [confirmed](https://t.me/full_of_hatred/518) by enthusiasts.
+In January 2022, information appeared about a leak in the database of the Diya service. Despite the assurances of the authorities that the leak is fake, enthusiasts [has been confirmed](https://t.me/full_of_hatred/518) its origin.
 
-You can check whether your data has been leaked from the service [here](https://haveiindb.xyz/check.html).
-
+You can check the fact of leakage of your data from the service [here](https://haveiindb.xyz/check.html).
 ---
 
 [⬅️ Back](./russia.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./kazakhstan.md)

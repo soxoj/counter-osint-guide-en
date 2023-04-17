@@ -5,52 +5,52 @@ Therefore, for a long time the miners took them with them to the mines:
 if the bird stopped singing, it meant that it became dangerous to breathe air.
 
 A similar principle is used in the Internet. Many
-companies use [warrant canary](https://en.wikipedia.org/wiki/Warrant_canary):
-a notification for users that there were no subpoenas; receiving a subpoena
-lead to removing this notification. Thus, the company gives a signal to users
+companies use [user notification](https://en.wikipedia.org/wiki/Warrant_canary):
+that no one is watching them, so that when receiving a court
+order *to remove* this phrase. Thus, the company gives a signal to users
 that the absence of surveillance is no longer guaranteed.
 
 We are not going to hide from corporations, but from curious people.
 What can we do?
 
-## What are canary tokens
+## Canary tokens
 
-Возможно, вы видели ссылки в биографии на странице ВК, которые никуда
-не ведут (либо ведут в приложение "Узнай, кто за тобой шпионит" или
-вроде того). Это простейшая форма канарейки.
+You may have seen links in the biography on the VK page that
+lead nowhere (or lead to the application "Find out who is spying on you" or
+something like that). This is the simplest form of a canary.
 
-Существует замечательный онлайн-сервис - [Canary Tokens](https://canarytokens.org/generate), который позволяет создавать своих собственных канареек.
+There is a wonderful online service - [Canary Tokens](https://canarytokens.org/generate), which allows you to create your own canaries.
 
-Он позволяет создать различного рода канарейки, которые мы можем использовать для детектирования любопытных сотрудников вашей организации или обнаружить компрометацию ваших систем еще до того как злоумышленник сможет выполнить некоторые деструктивные действия.
+It allows you to create various kinds of canaries that we can use to detect curious employees of your organization or detect the compromise of your systems even before an attacker can perform some destructive actions.
 
-<img width="550" alt="Выключение автозаполнения в поисковой строке" src="../img/canary_token_flow.png">
+<img width="550" alt="Disabling autofill in the search bar" src="../img/canary_token_flow.png">
 
-Какие виды можно сгенерировать и при каких условиях будет получено уведомление:
--  URL-токен. При переходе по ссылке.
--  DNS-токен. При разрешение доменного имени.
--  AWS-ключи. При использовании ключа AWS.
--  Microsoft Word/Excel Document. При открытии файла.
--  Kubeconfing. При использовании Kubeconfig.
--  WireGuard VPN. При использовании конфига.
--  Cloned Website. При клонировании веб-сайта.
--  MySQL Dump. При загрузке дампа MySQL.
--  Windows Folder. При попытке открыть папку.
--  Fast Redirect. При попытке посетить сайт, с последующим перенаправлением.
--  Slow Redirect. При попытке посетить сайт, с последующим медленным перенаправлением, для получения большей информации.
--  Custom Image Web Bug. При просмотре вашей картинки.
--  Acrobat Reader PDF Document. При открытии PDF документа в Adobe Reader.
--  Custom exe / binary. При запуске исполняемых файлов.
--  SQL Server. При загрузке базы данных SQL Server.
--  SVN. При открытии папки SVN.
--  Unique email address. При отправке почты на электронный адрес.
+What types can be generated and under what conditions will the notification be received:
+- URL token. When clicking on the link.
+- DNS token. When the domain name is resolved.
+- AWS keys. When using an AWS key.
+-  Microsoft Word/Excel Document. When opening the file.
+-  Kubeconfing. When using Kubeconfig.
+-  WireGuard VPN. When using the config.
+-  Cloned Website. When cloning a website.
+-  MySQL Dump. When loading a MySQL dump.
+-  Windows Folder. When trying to open a folder.
+-  Fast Redirect. When trying to visit the site, followed by redirection.
+-  Slow Redirect. When trying to visit the site, followed by a slow redirect, to get more information.
+-  Custom Image Web Bug. When viewing your picture.
+-  Acrobat Reader PDF Document. When opening a PDF document in Adobe Reader.
+-  Custom exe / binary. When running executable files.
+-  SQL Server. When loading the SQL Server database.
+-  SVN. When opening the SVN folder.
+-  Unique email address. When sending mail to an email address.
 
-Пример уведомления на почту:
+Example of an email notification:
 
 <img width="550" alt="Example of canary token report" src="../img/canary_token_example.png">
 
 *The section will be updated*
 
-## Difference between canary tokens and phishing tools
+## Difference from phishing and logger links
 
 *The section will be updated*
 

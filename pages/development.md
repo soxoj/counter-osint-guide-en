@@ -1,20 +1,20 @@
-# Privacy for software developers
+# Privacy for developers
 
-## Exposure of your personal/working email address
+## Opening your mailbox
 
-When working with program code and version control systems such as git, there is a risk of exposure
+When working with program code and version control systems such as git, there is a risk of revealing
 your personal mailbox. This often happens when working with personal/work projects
 on the same device at the same time.
 
-To avoid this, check that the global git settings are correct or the settings in the directory of the specific repository are set:
+To avoid this, check the correctness of global settings or settings in the directory of a specific repository:
 ```
 git config --global user.name
 git config --global user.email
-``` 
+```
 
-GitHub provides the ability to hide your email from the interface and block the "leakage" of the main mailbox associated with the account:
+GitHub provides the ability to hide your email from the interface and block the "leak" of the main mailbox linked to the account:
 
-![Email adresses privacy settings in GitHub](../img/gh_emails.png)
+![Mailbox Privacy Settings in GitHub](../img/gh_emails.png)
 
 *The section will be updated*
 

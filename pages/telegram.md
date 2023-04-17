@@ -1,51 +1,51 @@
 # Telegram
 
-Перейдём к настройкам приватности в мессенджере, который считается одним из самых приватных - в Telegram. Как и в других главах, убираем общедоступность и по возможности ставим максимальные уровни, комментируя их предназначение и сопутствующие риски.
+Let's move on to the privacy settings in the messenger, which is considered one of the most private - in Telegram. As in other chapters, we remove accessibility and, if possible, set maximum levels, commenting on their purpose and associated risks.
 
-Заходим в настройки, раздел "Конфиденциальность". Начнём с одноимённого подраздела.
+Go to the settings, the "Privacy" section. Let's start with the subsection of the same name.
 
-## Конфиденциальность
+## Privacy
 
-Telegram даёт возможность гибко управлять белыми и чёрными списками по доступу к вашим данным. Для пунктов в этом подразделе можно скрыть информацию от всех или показать всем либо использовать список ваших контактов. Также возможно добавлять точечно исключения в виде отдельных аккаунтов или всех людей, состоящих в определённых группах.
+Telegram makes it possible to flexibly manage whitelists and blacklists for access to your data. For items in this subsection, you can hide information from everyone or show it to everyone, or use your contacts list. It is also possible to add point-by-point exceptions in the form of individual accounts or all people belonging to certain groups.
 
-Контактами в данный момент в Telegram считаются не только те аккаунты, для которых вам известен телефон (так было ранее), но и аккаунты, вручную добавленные в контакты приложения. Поэтому полагаться на список контактов в настройках сильно не следует -- как минимум, в вашей телефонной книге уже могут быть посторонние номера, а контакты внутри приложения легко добавить по ошибке. Поэтому рекомендуется сделать ревизию телефонной книги либо вообще не расшаривать к ней доступ. Подробнее смотрите в разделе (доступов для мобильных приложений)(./mobile-apps-privacy.md). 
+Contacts at the moment in Telegram are considered not only those accounts for which you know the phone (as it was earlier), but also accounts manually added to the contacts of the application. Therefore, you should not rely too much on the contact list in the settings - at least, there may already be extraneous numbers in your phone book, and it is easy to add contacts inside the application by mistake. Therefore, it is recommended to make an audit of the phone book or not share access to it at all. For more information, see the section [accesses for mobile applications](./mobile-apps-privacy.md).
 
-### Номер телефона
+### Phone number
 
-Ставим опцию "Кто видит мой номер телефона" в значение "Никто", иначе любой аккаунт в Telegram в любом чате сможет видеть ваш номер телефона.
+We set the option "Who sees my phone number" to "Nobody", otherwise any Telegram account in any chat will be able to see your phone number.
 
-Также видим, что есть опция "Кто может найти меня по номеру". Это одна из наиболее ценных настроек приватности Telegram. Она была добавлена исключительно из-за массовых протестов в Гонкконге и недовольства протестующих из-за той лёгкости, с которой [полиция могла раскрывать их номера](https://habr.com/ru/news/t/464855/).
+We also see that there is an option "Who can find me by number". This is one of Telegram's most valuable privacy settings. It was added solely because of the mass protests in Hong Kong and the discontent of the protesters because of the ease with which [the police could disclose their numbers](https://habr.com/ru/news/t/464855/).
 
-К сожалению, до сих пор эта опция не имеет значения "Никто". Ставим эту опцию в "Мои контакты", и теперь только аккаунты из ваших контактов смогут добавить вас по номеру телефона. Помним при этом ограниченное доверие к группе контактов (см. выше).
+Unfortunately, so far this option has no "Nobody" value. We put this option in "My contacts", and now only accounts from your contacts will be able to add you by phone number. At the same time, we remember the limited trust in the contact group (see above).
 
-### Последняя активность
+### Last activity
 
-В платформе есть особенность -- ограничения на время последней активности (был N минут назад в сети) действует в две стороны. Ставим в значение "Никто", но помним, что при этом и вы не сможете видеть активность других аккаунтов. К счастью, конкретных людей при необходимости можно добавить в исключения и удалить после проверки.
+There is a feature in the platform - restrictions on the time of the last activity (was N minutes ago on the network) act in two directions. We set the value to "Nobody", but remember that at the same time you will not be able to see the activity of other accounts. Fortunately, specific people can be added to exceptions if necessary and removed after verification.
 
-### Группы и каналы
+### Groups and channels
 
-Разрешение на добавление вас в группы и каналы имеет ограничение -- нельзя запретить всем, но можно разрешить только своим контактам. Также для опции действуют отдельные точечные запреты.
+Permission to add you to groups and channels has a limitation - you can't ban everyone, but you can only allow your contacts. There are also separate point bans for the option.
 
-Ставим опцию в значение "Мои контакты". Помним при этом ограниченное доверие к группе контактов (см. выше).
+We set the option to "My contacts". At the same time, we remember the limited trust in the contact group (see above).
 
-### Звонки
+### Calls
 
-Антиспам в Telegram работает хорошо, поэтому звонки от спамеров довольно редки. Также, к счастью, сам звонок не раскрывает о вас никакой информации, если не включён режим Peer-to-peer. В этом режиме Telegram устанавливает прямое соединение от вашего устройства к устройству собеседника, и становится возможным определить IP-адрес.
+Anti-spam in Telegram works well, so calls from spammers are quite rare. Also, fortunately, the call itself does not disclose any information about you if Peer-to-peer mode is not enabled. In this mode, Telegram establishes a direct connection from your device to the interlocutor's device, and it becomes possible to determine the IP address.
 
-Ставим "Кто может мне звонить" в значение "Мои контакты", если вы готовы добавлять вручную аккаунты в контакты и следить за их "чистотой".
-Ставим опцию "Peer To Peer" в значение "Никто".
+We set "Who can call me" to "My contacts" if you are ready to manually add accounts to contacts and monitor their "cleanliness".
+We set the "Peer To Peer" option to "Nobody".
 
-### Фотография профиля
+### Profile Picture
 
-При включённой опции другие аккаунты теряют возможность видеть ваш аватар. Эта довольно полезная опция тоже ограничена уровнем доступа контактов, но также может быть включена вручную для конкретных аккаунтов. 
+When this option is enabled, other accounts lose the ability to see your avatar. This rather useful option is also limited by the access level of contacts, but can also be enabled manually for specific accounts.
 
-Ставим опцию в значение "Мои контакты". Помним при этом ограниченное доверие к группе контактов (см. выше).
+We set the option to "My contacts". At the same time, we remember the limited trust in the contact group (see above).
 
-### Пересылка сообщений
+### Forwarding messages
 
-С определённой версии Telegram научился для пересланных (forward) сообщений убирать ссылку на автора. Таким образом, даже если ваше сообщение скопируют в другой чат, через него невозможно будет выйти на ваш профиль. Ранее это позволяло отслеживать аккаунты, которые оставили хотя бы одно сообщение в любом чате.
+From a certain version of Telegram, I learned to remove the link to the author for forwarded (forward) messages. Thus, even if your message is copied to another chat, it will be impossible to access your profile through it. Previously, this allowed tracking accounts that left at least one message in any chat.
 
-Ставим опцию "Кто может ссылаться на мой аккаунт при пересылке сообщений" в значение "Никто".
+We set the option "Who can link to my account when forwarding messages" to the value "Nobody".
 
 ---
 

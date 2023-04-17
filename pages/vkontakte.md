@@ -6,76 +6,74 @@
 
 ### General
 
-Блок "Настройки профиля". Включаем опцию "Скрывать блок подарков".
+The "Profile Settings" block. Turn on the "Hide gift block" option.
 
 ### Privacy
 
-Для **всех настроек** в списках ниже сначала выставляем "Только я", при необходимости добавляем людей через опции
-"Только друзья", Некоторые друзья" или "Все друзья, кроме...".
+For **all settings** in the lists below, we first set "Only me", if necessary, add people through the options "Only friends", Some friends" or "All friends except...".
 
-#### Моя страница
+#### My page
 
-- Кто видит основную информацию моей страницы
-- Кто видит мои сохранённые фотографии
-- Кто видит список моих групп
-- Кто видит список моих аудиозапией
-- Кто видит список моих подарков
-- Кто видит моих скрытых друзей
+- Who sees the basic information of my page
+- Who sees my saved photos
+- Who sees the list of my groups
+- Who sees the list of my audio recordings
+- Who sees the list of my gifts
+- Who sees my hidden friends
 
-В блоке "Кого видно в списке моих друзей и подписок" выбираем всех друзей и все подписки.
+In the "Who is visible in the list of my friends and subscriptions" block, select all friends and all subscriptions.
 
-#### Записи на странице
+#### Entries on the page
 
-- Кто видит чужие записи на моей странице
-- Кто может оставлять записи на моей странице
-- Кто видит комментарии к записям
-- Кто может комментировать мои записи
+- Who sees other people's posts on my page
+- Who can leave entries on my page
+- Who sees comments on posts
+- Who can comment on my records
 
-#### Фотографии
+#### Photos
 
-- Кто может отмечать меня на фотографиях
-- Кто видит фотографии, на которых меня отметили
-- Кто видит местоположение моих фотографий
+- Who can tag me in photos
+- Who sees the photos in which I was marked
+- Who sees the location of my photos
 
-Заходим в панель управления "Отметки на фото" и снимаем все галочки:
-- Распознавать меня на фото. Алгоритмы ВКонтакте [будут предлагать вам фотографии](https://vk.com/@vk-ai-photo-tags)
-, на которых вы сможете отметить себя
-- Показывать друзьям распознанные фото со мной. Друзья увидят в ленте фотографии с вами и смогут отметить вас.
-Подтвердить отметку можете только вы.
-- Распознавать друзей на моих фото. Алгоритмы будут предлагать вам отметить друзей на ваших фотографиях
-- Показывать блок «Это вы на фотографии?» в ленте. В ленте появится блок, где вы сможете подтвердить или удалить отметку
-- Показывать блок «Это друг на фото?» в ленте. Искусственный интеллект найдёт на фотографиях ваших друзей и предложит их отметить
+Go to the control panel "Marks on the photo" and remove all the ticks:
+- Recognize me in the photo. VKontakte algorithms [will offer you photos](https://vk.com/@vk-ai-photo-tags), where you can mark yourself
+- Show your friends recognized photos with me. Friends will see photos of you in the feed and will be able to tag you.
+Only you can confirm the mark.
+- Recognize friends in my photos. Algorithms will prompt you to tag friends in your photos
+- Show the block "Is that you in the photo?" in the feed. A block will appear in the feed where you can confirm or delete the mark
+- Show the block "Is this a friend in the photo?" in the feed. Artificial intelligence will find your friends in the photos and offer to mark them
 
-#### Связь со мной
+#### Contact me
 
-"С кем устанавливать прямое соединение в звонках" - выбираем "Только друзья"
+"With whom to establish a direct connection in calls" - select "Friends only"
 
-"Кто может найти мой профиль при импорте контактов" - выбираем "Никто"
+"Who can find my profile when importing contacts" - select "Nobody"
 
-"Что видно вместо моего фото при импорте контактов" - выбираем "Картинку с буквой"
+"What is visible instead of my photo when importing contacts" - select "Picture with a letter"
 
-#### Истории
+#### Stories
 
-- Кто может видеть мои истории
-- Кто может отвечать историями на мои истории
-- Кто может отправлять мнения к моим историям
-- Кто может видеть поздравления для меня в историях
+- Who can see my stories
+- Who can answer my stories with stories
+- Who can send opinions to my stories
+- Who can see congratulations for me in the stories
 
-#### Прочее
+#### Other
 
-"Кому в интернете видна моя страница" - выбираем "Только пользователям ВКонтакте"
+"Who can see my page on the Internet" - select "VKontakte users only"
 
-"Какие обновления видят в новостях мои друзья" - снимаем все отметки
+"What updates do my friends see in the news" - we remove all marks
 
-**"Тип профиля" - "Закрытый"**
+**"Profile type" - "Closed"**
 
-"Кто видит количество моих шагов в Шагах ВКонтакте" - выбираем "Только я"
+"Who sees the number of my steps in VKontakte Steps" - choose "Only me"
 
-"Кто может видеть мою активность в играх" - выбираем "Никто"
+"Who can see my activity in games" - choose "Nobody"
 
-"Кто может видеть мою активность в мини-приложениях" - выбираем "Никто"
+"Who can see my activity in mini-apps" - select "Nobody"
 
-### Настройки приложений
+### Application Settings
 
 *The section will be updated*
 

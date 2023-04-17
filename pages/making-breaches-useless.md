@@ -1,19 +1,19 @@
-# Making breaches useless
+# How to make leaks useless
 
-Можно ли сделать утечки менее полезными при сборе информации о вас?
-Да, хоть это и не гарантированно поможет, а лишь усложнит жизнь тем, кто собирает про вас данные.
+Is it possible to make leaks less useful when collecting information about you?
+Yes, although this is not guaranteed to help, it will only complicate the lives of those who collect data about you.
 
-Разберём некоторые стратегии сопротивления, подходящие для случаев, когда данные о вас уже попали в Интернет.
+Let's look at some resistance strategies that are suitable for cases when data about you has already got on the Internet.
 
-## Создание нового фейкового аккаунта
+## Creating a new fake account
 
-Создаём аккаунт с идентификаторами, которые используются в активном поиске по данным из утечек.
+We create an account with identifiers that are used in active search based on data from leaks.
 
-*Раздел будет дополняться*
+*The section will be updated*
 
-## Фальшивые связи с общеиспользуемыми идентификаторами
+## Fake links with commonly used identifiers
 
-Почты:
+Mail:
 ```
 a@mail.ru
 test@example.com
@@ -23,15 +23,22 @@ work@mail.ru
 work@bk.ru
 work@list.ru
 1234@mail.ru
+test@test.ru
 ```
 
-Номера телефонов:
+Phone numbers:
 ```
 +79123456789
 +79111111111
 ```
 
-*Раздел будет дополняться*
+## Sites for generating plausible data
+
+- https://randomuser.me/
+- https://www.fakenamegenerator.com/
+- https://www.behindthename.com/random/
+
+*The section will be updated*
 
 ---
 
