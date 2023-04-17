@@ -18,7 +18,7 @@ Government services:
 ### Legal entities
 - EDRPO - number in the unified State Register of enterprises and organizations of Ukraine
 
-## Hacking
+## Background check
 
 *The section will be updated*
 
