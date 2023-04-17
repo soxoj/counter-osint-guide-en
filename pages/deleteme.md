@@ -80,6 +80,17 @@ To hide data about yourself in the bot [Insight](https://t.me/eyeofbeholder_bot)
 - to have at least ₽1000 deposits for the entire time from the account
 - contact @tginsighter with a request to delete your data
 
+### Telegram bot Zernenda
+
+To hide data about yourself in the bot [Zernenda](https://t.me/Zernerda_bot) necessary:
+- press button "Remove your data"
+- send your contact for verification of account in the bot
+- send requests with details what information about you from which databases could be found
+
+<img width="723" alt="Zernenda1" src="https://user-images.githubusercontent.com/31013580/232611267-a475b6f6-c35c-41ca-8a80-0922aea2e9a6.png">
+
+<img width="723"  alt="Zernenda2" src="https://user-images.githubusercontent.com/31013580/232612754-f8b72557-12ef-4acc-b610-dc8def5d54c2.jpg">
+
 ### GetContact
 
 In GetContact, it is possible to arbitrarily disable the display of names that are known by your number, or disable the search altogether.
