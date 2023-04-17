@@ -89,9 +89,9 @@ To do this, follow [this link](https://www.getcontact.com/en/manage/profile) and
 It should also be noted that in this section of the site you can track search queries by your number. If you disable the search, this feature is lost
 as well as receiving notifications about finding you from the app. However, when you log in to the GetContact application again, this feature is returned.
 
-<img width="918" alt="Снимок экрана 2022-10-03 в 23 45 10" src="https://user-images.githubusercontent.com/31013580/193679883-e7a24933-cc95-4354-993d-b02c3b9c8a11.png">
+<img width="918" alt="GetContact1" src="https://user-images.githubusercontent.com/31013580/193679883-e7a24933-cc95-4354-993d-b02c3b9c8a11.png">
 
-<img width="471" alt="Снимок экрана 2022-10-03 в 23 45 31" src="https://user-images.githubusercontent.com/31013580/193679897-e84664b5-8bc1-4f77-a5b1-ee39e5eac965.png">
+<img width="471" alt="GetContact1" src="https://user-images.githubusercontent.com/31013580/193679897-e84664b5-8bc1-4f77-a5b1-ee39e5eac965.png">
 
 _The section will be updated_
 

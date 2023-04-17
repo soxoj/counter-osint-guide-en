@@ -78,7 +78,7 @@ that function in the same way. They look like this: `1v5zvsmkp6@privaterelay.app
 Examples of services:
 
 - [SimpleLogin](https://simplelogin.io/)
-- [AnonAddy]()https://anonaddy.com/ - generates addresses according to a template `*@ivanov.anonaddy.com`
+- [AnonAddy](https://anonaddy.com/) - generates addresses according to a template `*@ivanov.anonaddy.com`
 - [Firefox Relay](https://relay.firefox.com/) - generates random addresses on the domain `mozmail.com`
 - [erine.email](https://erine.email/) - makes addresses according to a template `*.ivanov@erine.email`
 

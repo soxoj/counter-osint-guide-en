@@ -25,7 +25,8 @@ Let's analyze simple but effective steps that will make it very difficult for an
 
 The guide will be useful to a wide range of interested people — not only those who have heard something about OSINT, but also friends, acquaintances, parents. An investment of half an hour for thoughtful reading and conscious actions will bring peace of mind and protection from fraud, surveillance, harassment, blackmail.
 
-At the same time, we will not neglect convenience. Many managers concentrate on protecting themselves to the maximum (even if it is not justified). We will proceed from the need to maintain **a balance between privacy and convenience **, in which the use of the Internet will not be complicated.
+At the same time, we will not neglect convenience. Many managers concentrate on protecting themselves to the maximum (even if it is not justified). We will proceed from the need to maintain **a balance between privacy and convenience**, in which the use of the Internet will not be complicated.
+
 ---
 
 Let me remind you that OSINT is the collection of information from open sources. But, unfortunately, such sensitive data as databases of phone numbers, passport data and so on often get into the Network.
@@ -44,7 +45,7 @@ The term OPSEC, like OSINT, came from American intelligence. It means the proces
 
 ![Chatter - help the enemy!](../img/37ddd605b06fdfb1793be.png)
 
-To begin with, let's list all the **primary data **that somehow reveal our identity, but * exist physically outside the Internet*.
+To begin with, let's list all the **primary data** that somehow reveal our identity, but *exist physically outside the Internet*.
 
 - Last name, first name, patronymic
 - Date of birth

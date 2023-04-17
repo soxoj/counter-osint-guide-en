@@ -2,7 +2,7 @@
 
 🚫 This guide **is not about anonymity**.
 
-* Anonymity* is a complete concealment of information about yourself, up to the identity. To make it impossible to understand who you are.
+*Anonymity* is a complete concealment of information about yourself, up to the identity. To make it impossible to understand who you are.
 Maintaining anonymity on the Web is difficult even for people from organized hacker groups.
 You should start with *privacy* - hiding information about your personal life. Maintaining privacy is easier, it's like hygiene.
 

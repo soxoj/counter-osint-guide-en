@@ -7,7 +7,7 @@ if the bird stopped singing, it meant that it became dangerous to breathe air.
 A similar principle is used in the Internet. Many
 companies use [user notification](https://en.wikipedia.org/wiki/Warrant_canary):
 that no one is watching them, so that when receiving a court
-order * to remove* this phrase. Thus, the company gives a signal to users
+order *to remove* this phrase. Thus, the company gives a signal to users
 that the absence of surveillance is no longer guaranteed.
 
 We are not going to hide from corporations, but from curious people.

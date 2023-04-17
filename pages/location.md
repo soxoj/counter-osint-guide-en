@@ -22,7 +22,7 @@ In Russia there is a single state operator of the postal network: Russian Post. 
 
 For delivery, the address of the person's stay and his name are usually used, i.e., it is necessary to specify the full name, postal code, as well as the full address, including the apartment number. Ordinary letters or notices of registered letters/parcels are delivered by postmen up to the mailbox on the door of the house or in the entrance of an apartment building.
 
-However, there is a possibility of anonymous mail delivery for the sender using [subscriber ящиков](https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D1%89%D0%B8%D0%BA).
+However, there is a possibility of anonymous mail delivery for the sender using [post office boxes](https://en.wikipedia.org/wiki/Post_office_box).
 This is a dedicated mailbox for mail in a specific mail division. Each box has its own number, online you can choose any unoccupied, for example, `777`.
 Also, under the lease agreement, it can be assigned an arbitrary name - this is a paid (and relatively expensive) service.
 The only disadvantage from the point of view of privacy is that to rent a mailbox, you need to create an account on abox.pochta.ru by specifying your phone number and passport details.

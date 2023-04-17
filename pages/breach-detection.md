@@ -43,7 +43,7 @@ Gmail and other most common mail services support special characters to create a
 
 For example, `soxoj@protonmail.com` is equivalent to `soxoj+gitlab@protonmail.com`:
 
-<img width="311" alt="Screenshot 2022-10-03 в 22 46 42" src="https://user-images.githubusercontent.com/31013580/193665517-c06dd5d4-1c6b-468d-8a16-34db0e0689a5.png">
+<img width="311" alt="Email aliases" src="https://user-images.githubusercontent.com/31013580/193665517-c06dd5d4-1c6b-468d-8a16-34db0e0689a5.png">
 
 It's **Strictly recommended** use this feature on all sites where it is supported.
 Thus:

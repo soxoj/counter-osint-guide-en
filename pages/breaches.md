@@ -2,7 +2,7 @@
 
 *There will be a chapter about the specifics of Russia and the CIS countries regarding the leakage of all possible data and the possibility of buying any data through insiders.*
 
-![![image](https://user-images.githubusercontent.com/31013580/148645741-47de48bc-af8c-45db-bf1c-3e7004f4ff95.png)
+![image](https://user-images.githubusercontent.com/31013580/148645741-47de48bc-af8c-45db-bf1c-3e7004f4ff95.png)
 
 *Part of the 600Gb public database for CIS countries.*
 
@@ -14,10 +14,10 @@
 
 ## Known big leaks
 
-In February 2022, the Yandex delivery database was leaked.Food (https://habr.com/ru/news/t/654039/).
+In February 2022, there was a [leak of the Yandex.Food delivery database](https://habr.com/ru/news/t/654039/).
 The names and surnames of the clients, telephone numbers,
 the full delivery address of the client and comments on the order were published.
-There are almost 7 million unique numbers from Russia, Kazakhstan and Belarus, dates from 06/19/2021 to 02/04/2022.
+There are almost 7 million unique numbers from Russia and Kazakhstan, dates from 06/19/2021 to 02/04/2022.
 
 To check their data, enthusiasts have raised the service https://saverudata.info/.
 

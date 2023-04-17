@@ -21,7 +21,7 @@ You use the services of a company that collects the data of its customers to off
 To do this, they send out advertisements using the services of another company. This company does mailing lists all the time, and is interested in having its own customer data.
 Therefore, the second company **accumulates** databases with the data of other customers, which can then be reused for other mailings.
 
-Surely you have an objection: * is it really not controlled by the law in any way? They cannot legally use this data!*
+Surely you have an objection: *is it really not controlled by the law in any way? They cannot legally use this data!*
 
 Unfortunately, the legislation in the field of personal data processing (PD) does not keep up with the real state of affairs.
 Exchange of virtual (not physical!) data is difficult to track and stop. 
