@@ -1,5 +1,7 @@
 # Removing information about yourself
 
+_The section will be updated_
+
 ## Deleting your own accounts
 
 Despite the fact that the Internet remembers everything, deleting accounts remains one of the strongest means against basic intelligence on you.
@@ -112,8 +114,6 @@ as well as receiving notifications about finding you from the app. However, when
 <img width="918" alt="GetContact1" src="https://user-images.githubusercontent.com/31013580/193679883-e7a24933-cc95-4354-993d-b02c3b9c8a11.png">
 
 <img width="471" alt="GetContact1" src="https://user-images.githubusercontent.com/31013580/193679897-e84664b5-8bc1-4f77-a5b1-ee39e5eac965.png">
-
-_The section will be updated_
 
 ---
 
