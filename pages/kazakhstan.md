@@ -1,6 +1,6 @@
 # Kazakhstan
 
-*The section will be updated*
+_The section will be updated_
 
 ## Documents
 
