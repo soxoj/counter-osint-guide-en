@@ -7,8 +7,8 @@
 
 *The guide hasn't been finalized yet. Subscribe to updates ("Watch" button) or check the badges above!*
 
-**For personal advice on protecting your data and checking what information about you
-is available in open sources, DM me in Telegram: [@soxoj](https://t.me/soxoj).**
+**The guide is prepared with support of OSINT mindset community: [Telegram channel](https://t.me/osint_mindset), [YouTube](https://www.youtube.com/@osint_mindset), [Investigations Forum](https://t.me/+GMxoDCvLO0k0MWRi).**
+If you will have questions - join the links and feel free to write to us!
 
  1. [▶️ Introduction](./pages/intro.md)
  1. [❓ Why is it important](./pages/importance.md)
