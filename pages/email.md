@@ -11,9 +11,13 @@ The second, but important tip is to carefully study the email provider. The most
 you accounts in other products. This is especially true of Google and Yandex, as these companies conduct their business in a large number of
 other areas, and to provide you with a free box for what you will become passive consumer of a dozen other services -- their bread and butter.
 
-## Separation of personalities
+## Separation of accounts
 
-*The section will be updated*
+To make it more difficult to find information about you, it is recommended to use email addresses wisely, using the technical ability to create their variations. According to RFCs, after the alias and before the @ sign, you can specify an additional suffix with "+", e.g `nickname+facebook@google.com`. Emails to such an email address will be sent to the owner of `nickname@google.com`, but from the point of view of sites, it will be a completely different email address. Google, in addition, has a feature: any dots in the alias are considered optional and work as suffixes after the “+”.
+
+There are several usage schemes: a unique email address for each service, a unique email address for each “personality”, or use only for some services according to a scheme known only to you.
+
+Additional benefits of using suffixes and dots are described [here](./breach-detection.md#using-aliasesfake-mail-addresses). Also, you can check the tool [mailto_analyzer](https://github.com/soxoj/mailto_analyzer) for analyzing of your email address exposure.
 
 ## Down with subscription boxes, trash and spam
 
@@ -89,10 +93,6 @@ Examples of services:
 
 
 ## Using a personal domain to create catch-all mailboxes
-
-*The section will be updated*
-
-## Using dots in Gmail addresses
 
 *The section will be updated*
 
