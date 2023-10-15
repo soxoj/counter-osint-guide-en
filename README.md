@@ -5,6 +5,8 @@
 
 **[Russian version](https://github.com/soxoj/counter-osint-guide-ru)**
 
+**[Brasil version](https://github.com/alexandresantosal91/counter-osint-guide-pt-br) - Em Desenvolvimento**
+
 *The guide hasn't been finalized yet. Subscribe to updates ("Watch" button) or check the badges above!*
 
 **The guide is prepared with support of OSINT mindset community: [Telegram channel](https://t.me/osint_mindset), [YouTube](https://www.youtube.com/@osint_mindset), [Investigations Forum](https://t.me/+GMxoDCvLO0k0MWRi).**
@@ -39,3 +41,7 @@ If you will have questions - join the links and feel free to write to us!
      1. [🇺🇦 Ukraine](./pages/ukraine.md)
      1. [🇧🇾 Belarus](./pages/belarus.md)
      1. [🇰🇿 Kazakhstan](./pages/kazakhstan.md)
+ 1. Latin America
+     1. [🇧🇷 Brasil](https://github.com/alexandresantosal91/counter-osint-guide-pt-br)
+  
+  
