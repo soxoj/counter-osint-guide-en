@@ -87,20 +87,63 @@ with full passport data, the bot's address, as well as identifiers for blocking,
 
 ### Telegram bot Insight
 
-To hide data about yourself in the bot [Insight](https://t.me/eyeofbeholder_bot) necessary:
+To hide data about yourself in the bot [Insight](https://t.me/eyeofbeholder_bot) it's necessary:
 - to have at least ₽1000 deposits for the entire time from the account
 - contact @tginsighter with a request to delete your data
 
+### Telegram bot GTA
+
+To hide data about yourself in the bot [GTA (Global Tech Aggregator)](https://t.me/globaltechagr_bot) it's necessary:
+- to start the bot
+- "Мой аккаунт" - "Удалить информацию" - "Удалить запись"
+- individually enter the identifiers of interest
+- replenish the wallet in TON (for deletion for a year - 1 TON for 1 ID, permanently - 5 TON for 1 ID)
+
+<img width="176" alt="gta_1" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/bd243977-9a9b-48de-b820-3e6f0817ac7b">  
+
+<img width="315" alt="gta_2" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/274abf57-d2c2-43ed-8b96-bd4c0e19e40b">  
+
+<img width="371" alt="gta_3" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/54bc61eb-b6d0-4f69-bc48-c194d8095223">  
+
 ### Telegram bot Zernenda
 
-To hide data about yourself in the bot [Zernenda](https://t.me/Zernerda_bot) necessary:
-- press button "Remove your data"
-- send your contact for verification of account in the bot
-- send requests with details what information about you from which databases could be found
+To hide data about yourself in the bot [Zernenda](https://t.me/Zernerda_bot) it's necessary:
+- to start the bot, verify your account
+- check what data the bot knows about you and from what leaks (to do this, pay several requests for your phone number, full name, etc.; write out to yourself what data the bot has found)
+- "Мой аккаунт" - "Удалить данные о себе"
+- send your phone number to confirm your account
+- send a detailed request indicating which data you own
 
-<img width="723" alt="Zernenda1" src="https://user-images.githubusercontent.com/31013580/232611267-a475b6f6-c35c-41ca-8a80-0922aea2e9a6.png">
+Sample application form:
 
-<img width="723"  alt="Zernenda2" src="https://user-images.githubusercontent.com/31013580/232612754-f8b72557-12ef-4acc-b610-dc8def5d54c2.jpg">
+ФИО: Пушкин Владимир Владимирович
+Телефон: +79999999999
+Telegram: tg1569113435
+ВКонтакте: vk10419593
+Паспорт: 1234 567890
+Я подтверждаю, что приведённые выше данные принадлежат мне и прошу удалить их из поисковой выдачи бота.
+
+<img width="317" alt="Zernenda_1" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/15171573-caae-4899-90d1-023d0a227354">  
+
+<img width="380" alt="Zernenda_2" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/2b9dc6bd-d20d-4b4e-a2f4-60e29596f8fa">
+
+### Telegram-bot Angel (Архангел)
+
+To hide data about yourself in the bot [Angel (Архангел)](https://t.me/Angel_SystemBot) it's necessary:
+- to start the bot
+- "Профиль" - "Приобрести запросы"
+- buy requests (the option "800 запросов - 5760 руб." is required)
+- start the bot: https://t.me/AngelSystemSupportBot
+- write "Пополнил на 800 запросов. Прошу удалить мои данные из вашей системы (you should write what kind of data - phone, mails, social networks, documents, addresses, etc.)"
+
+<img width="317" alt="angel" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/b514f608-8d72-4b2a-9684-2b90c9b50494">  
+
+### Telegram-bot Cerberus
+
+To hide data about yourself in the bot [Cerberus](https://t.me/iscerberusbot) it's necessary:
+- to start the bot
+- "Аккаунт" - "Защитить данные" - "Создать"
+- enter the data that you are asked to enter one by one
 
 ### GetContact
 
