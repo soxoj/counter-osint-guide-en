@@ -51,7 +51,7 @@ If you will have questions - join the links and feel free to write to us!
       </a>
     </td>
     <td>
-      <a href="https://github.com/soxoj">
+      <a href="https://github.com/SOsintOps">
         <img src="https://avatars.githubusercontent.com/u/28706121?v=4" alt "Ramingo's GitHub Photo" width="150px"/>
         <br><b>Ramingo</b>
       </a>
