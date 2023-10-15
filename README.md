@@ -5,7 +5,7 @@
 
 **[Russian version](https://github.com/soxoj/counter-osint-guide-ru)**
 
-**[Brasil version](https://github.com/alexandresantosal91/counter-osint-guide-pt-br) - Em Desenvolvimento**
+**[Brasil version](https://github.com/alexandresantosal91/counter-osint-guide-pt-br) - Under development**
 
 *The guide hasn't been finalized yet. Subscribe to updates ("Watch" button) or check the badges above!*
 
