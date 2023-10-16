@@ -66,5 +66,11 @@ If you will have questions - join the links and feel free to write to us!
         <br><b>Alexandre Santos</b>
       </a>
     </td>
+   <td>
+      <a href="https://github.com/duk3r4">
+        <img src="https://avatars.githubusercontent.com/u/137871056?v=4" alt="Dukera's GitHub Photo" width="150px"/>
+        <br><b>Dukera</b>
+      </a>
+    </td>
   </tr>
 </table>
