@@ -4,8 +4,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/soxoj/counter-osint-guide-en?color=yellow&label=Update%20frequency)
 
 **[Russian version](https://github.com/soxoj/counter-osint-guide-ru)**
-
-**[Brasil version](https://github.com/alexandresantosal91/counter-osint-guide-pt-br)**
+**[Brasil version](https://github.com/alexandresantosal91/counter-osint-guide-pt-br) - Under development**
 
 *The guide hasn't been finalized yet. Subscribe to updates ("Watch" button) or check the badges above!*
 
