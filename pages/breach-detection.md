@@ -2,11 +2,11 @@
 
 ## Finding yourself in leaks
 
-There are many sites that allow you to find yourself by phone, mail, or even full name yourself in information leaks and merged databases. They should be used with caution, because any online search may have an additional purpose in enriching data. For example, **collecting an IP address**, linking several searches of one person to **collect information about his environment**.
+Many sites allow you to find yourself by phone, mail, or even full name yourself in information leaks and merged databases. They should be used with caution, because any online search may have an additional purpose in enriching data. For example, **collecting an IP address**, linking several searches of one person to **collect information about his environment**.
 
 Therefore, the preferred option is always *independent search in leak files*.
 
-But it can be difficult: you need to find a file (or a lot of files if you need an exhaustive search), understand its structure, perform an effective search.
+But it can be difficult: you need to find a file (or a lot of files if you need an exhaustive search), understand its structure, and perform an effective search.
 
 If you went the simpler way, then I recommend using such resources in descending order of risks:
 
@@ -27,7 +27,7 @@ They often give shareware access, you can find different sites by the keywords c
 
 #### Bots in Telegram
 
-- https://t.me/PhoneLeaks_bot - search for sources of leakage
+~- https://t.me/PhoneLeaks_bot - search for sources of leakage~ - no longer works
 
 Most bots do not indicate the source from which the information is obtained. List of some resources:
 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1XerMPGwaDz1FG1gBumBp6jzOgSqhWcQWgZmhxoT60WA/edit#gid=0).
