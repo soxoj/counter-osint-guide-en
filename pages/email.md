@@ -13,11 +13,11 @@ other areas, and to provide you with a free box for what you will become passive
 
 ## Separation of accounts
 
-To make it more difficult to find information about you, it is recommended to use email addresses wisely, using the technical ability to create their variations. According to RFCs, after the alias and before the @ sign, you can specify an additional suffix with "+", e.g `nickname+facebook@google.com`. Emails to such an email address will be sent to the owner of `nickname@google.com`, but from the point of view of sites, it will be a completely different email address. Google, in addition, has a feature: any dots in the alias are considered optional and work as suffixes after the “+”.
+To make it more difficult to find information about you, it is recommended to use email addresses wisely, using the technical ability to create their variations. According to official standards, after the alias and before the @ sign, you can specify an additional suffix with "+", e.g `nickname+facebook@google.com`. Emails to such an email address will be sent to the owner of `nickname@google.com`, but from the point of view of sites, it will be a completely different email address. Google, in addition, has a feature: any dots in the alias are considered optional and work as suffixes after the "+".
 
-There are several usage schemes: a unique email address for each service, a unique email address for each “personality”, or use only for some services according to a scheme known only to you.
+There are several usage schemes: a unique email address for each service, a unique email address for each "personality", or use only for some services according to a scheme known only to you.
 
-Additional benefits of using suffixes and dots are described [here](./breach-detection.md#using-aliasesfake-mail-addresses). Also, you can check the tool [mailto_analyzer](https://github.com/soxoj/mailto_analyzer) for analyzing of your email address exposure.
+Additional benefits of using suffixes and dots are described [here](./breach-detection.md#using-aliasesfake-mail-addresses). Also, you can check the tool [mailto_analyzer](https://github.com/soxoj/mailto_analyzer) for analyzing your email address exposure.
 
 ## Down with subscription boxes, trash and spam
 
@@ -54,15 +54,15 @@ Examples of such services:
 - [Maildrop](https://maildrop.cc/)
 - [Mailsac](https://mailsac.com/)
 - [templail+](https://tempmail.plus)
-- [Yopmail](https://yopmail.com/) - It can also support forwarding (see below)
+- [Yopmail](https://yopmail.com/) - It also supports forwarding (see below)
 
 ## Forwarding mail from other mailboxes
 
 Services that allow you to forward emails use so-called "masks" that allow you to hide your real email address.
 
 The principle of operation is very simple:
-- Address-Mask receives an email
-- A letter is being forwarded from this address to your real address
+- The mask address receives an email
+- The email is forwarded from this address to your real address
 
 Example based on Firefox Relay:
 
@@ -75,7 +75,7 @@ Now, using this mask address, we can receive emails to our email address without
 ![relayedemail](/img/relayedemail.png)
 
 Apple provides an opportunity for its users to use anonymized mailboxes
-that function in the same way. They look like this: `1v5zvsmkp6@privaterelay.appleid.com `.
+that function in the same way. They look like this: `1v5zvsmkp6@privaterelay.appleid.com`.
 
 *The section will be updated*
 
@@ -96,12 +96,12 @@ Examples of services:
 
 *The section will be updated*
 
-## Using BitWarden to generate email aliases
+## Using Bitwarden to generate email aliases
 
-The BitWarden password manager allows you to generate random "plus" aliases,
+The Bitwarden password manager allows you to generate random "plus" aliases,
 as well as catch-all mailbox addresses and even forwarding mailboxes.
 
-![bitwarden_ru.png](https://github.com/soxoj/counter-osint-guide-en/blob/main/img/bitwarden_ru.png)
+![bitwarden](../img/bitwarden_en.png)
 
 *The section will be updated*
 
