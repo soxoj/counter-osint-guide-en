@@ -43,7 +43,7 @@ We set the option to "My contacts". At the same time, we remember the limited tr
 
 ### Forwarding messages
 
-From a certain version of Telegram, I learned to remove the link to the author for forwarded (forward) messages. Thus, even if your message is copied to another chat, it will be impossible to access your profile through it. Previously, this allowed tracking accounts that left at least one message in any chat.
+From a certain version, Telegram learned to remove the link to the author for forwarded (forward) messages. Thus, even if your message is copied to another chat, it will be impossible to access your profile through it. Previously, this allowed tracking accounts that left at least one message in any chat.
 
 We set the option "Who can link to my account when forwarding messages" to the value "Nobody".
 
