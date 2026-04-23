@@ -1,6 +1,6 @@
 # Why it is important
 
-It is difficult to stay out of the access zone in our digital time. A hermit can have an emergency phone number, and a dog, although not every one, has an Instagram account.
+It is difficult to stay out of the access zone in our digital time. A hermit can have an emergency phone, and a dog, although not every one, has an Instagram account.
 
 The penetration of social networks and means of communication into our lives could be extremely positive if it did not lead to a lot of sad consequences. From calls from fake Sberbank employees with a request to dictate a password from SMS, and to collectors suddenly demanding to repay a loan issued on your passport.
 
@@ -14,7 +14,7 @@ But the tightening of legal norms for companies is not enough. You probably left
 
 ---
 
-A huge array of data about people, which can be easily collected by improvised means, has led to the popularity of OSINT, a methodology for collecting data from open sources. Often, this term now means means of spying on people, although initially it is an intelligence methodology. Any means can be used for both good and bad purposes — this should not be forgotten.
+A huge array of data about people, which can be easily collected by improvised means, has led to the popularity of OSINT, a methodology for collecting data from open sources. Often, this term now refers to means of spying on people, although initially it is an intelligence methodology. Any means can be used for both good and bad purposes — this should not be forgotten.
 
 
 Therefore, it is important to have **Counter-OSINT** tools to protect your data and ensure privacy.
@@ -25,13 +25,13 @@ Let's analyze simple but effective steps that will make it very difficult for an
 
 The guide will be useful to a wide range of interested people — not only those who have heard something about OSINT, but also friends, acquaintances, parents. An investment of half an hour for thoughtful reading and conscious actions will bring peace of mind and protection from fraud, surveillance, harassment, blackmail.
 
-At the same time, we will not neglect convenience. Many managers concentrate on protecting themselves to the maximum (even if it is not justified). We will proceed from the need to maintain **a balance between privacy and convenience**, in which the use of the Internet will not be complicated.
+At the same time, we will not neglect convenience. Many guides concentrate on protecting yourself to the maximum (even if it is not justified). We will proceed from the need to maintain **a balance between privacy and convenience**, in which the use of the Internet will not be complicated.
 
 ---
 
 Let me remind you that OSINT is the collection of information from open sources. But, unfortunately, such sensitive data as databases of phone numbers, passport data and so on often get into the Network.
 
-Moreover, in the Russian Federation, through "background check", you can get detailed information about the owner of a phone number, car, apartment from official state registers and databases. Unfortunately, many people are willing to provide access to what should be carefully protected for money.
+Moreover, in the Russian Federation, through "probiv" (unauthorized data lookup), you can get detailed information about the owner of a phone number, car, apartment from official state registers and databases. Unfortunately, many people are willing to provide access to what should be carefully protected for money.
 
 We will take this into account: it is impossible to ensure complete anonymity and remove yourself from all registries, but it is possible to complicate the search process so much that an attacker will not be able to cling to the information.
 
@@ -63,7 +63,7 @@ Any personal data may be used. For example, restoring access to social media acc
 
 ---
 
-*Interesting fact: [a high-profile case occurred in 2012](https://habr.com/ru/post/149179/) capture 4 accounts of a person at once with knowledge of only the address, name and email. An elegant chain of restoring access — first using known data, then linking fake ones — allowed you to first get access to Amazon, GMail, Apple, Twitter, and then remotely erase data from a person's devices.*
+*Interesting fact: [a high-profile case occurred in 2012](https://habr.com/ru/post/149179/) — the capturing of 4 accounts of a person at once with knowledge of only the address, name and email. An elegant chain of access recovery — first using known data, then linking fake ones — allowed the attacker to first gain access to Amazon, GMail, Apple, Twitter, and then remotely erase data from the person's devices.*
 
 ---
 
@@ -80,7 +80,7 @@ Surely you have noticed that most of the items are related to **receiving money*
 
 The benefits of collecting complete information about you, including access to correspondence, are less defined. This can be both domestic harassment, and espionage, blackmail, and so on. It is only clear that in most cases it is **causing personal harm and invasion of privacy**.
 
-These threats are understandable and understandable, and in many cases regulated by law. It makes no sense to list articles related to financial losses, there are so many of them; and the collection of personal data is 137 of the Criminal Code of the Russian Federation. However, let's face it: it takes a serious reason to go and force the initiation of a case on your own, and participation in such processes is stressful. Therefore, let's return to the position already voiced above: our goal is to protect our data and avoid threats.
+These threats are understandable and explainable, and in many cases regulated by law. It makes no sense to list articles related to financial losses, there are so many of them; and the collection of personal data is Article 137 of the Criminal Code of the Russian Federation. However, let's face it: it takes a serious reason to go and force the initiation of a case on your own, and participation in such processes is stressful. Therefore, let's return to the position already voiced above: our goal is to protect our data and avoid threats.
 
 ---
 
@@ -93,4 +93,3 @@ Let's talk about **digital hygiene**.
 ---
 
 [⬅️ Back](./intro.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./hygiene.md)
-
