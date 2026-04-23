@@ -4,10 +4,10 @@ Canaries are very sensitive to impurities of dangerous gases in the air.
 Therefore, for a long time the miners took them with them to the mines:
 if the bird stopped singing, it meant that it became dangerous to breathe air.
 
-A similar principle is used in the Internet. Many
-companies use [user notification](https://en.wikipedia.org/wiki/Warrant_canary):
-that no one is watching them, so that when receiving a court
-order *to remove* this phrase. Thus, the company gives a signal to users
+A similar principle is used on the Internet. Many
+companies use a [warrant canary](https://en.wikipedia.org/wiki/Warrant_canary):
+a public statement that no one is surveilling their users, so that upon receiving a court
+order they can *remove* this statement. Thus, the company signals to users
 that the absence of surveillance is no longer guaranteed.
 
 We are not going to hide from corporations, but from curious people.
@@ -23,7 +23,7 @@ There is a wonderful online service - [Canary Tokens](https://canarytokens.org/g
 
 It allows you to create various kinds of canaries that we can use to detect curious employees of your organization or detect the compromise of your systems even before an attacker can perform some destructive actions.
 
-<img width="550" alt="Disabling autofill in the search bar" src="../img/canary_token_flow.png">
+<img width="550" alt="Canary token notification flow" src="../img/canary_token_flow.png">
 
 What types can be generated and under what conditions will the notification be received:
 - URL token. When clicking on the link.
