@@ -9,7 +9,7 @@ All the identifiers listed below can be used to search for a person.
 ### Individuals
 - UNP - *Payer's Registration Number*
 
-## Background check
+## Probiv (unauthorized data lookup)
 
 *The section will be updated*
 
