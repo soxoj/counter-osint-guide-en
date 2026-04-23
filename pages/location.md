@@ -18,9 +18,9 @@ Write everything else (floor / apartment / intercom) in the additional informati
 
 ## Using subscriber boxes
 
-In Russia there is a single state operator of the postal network: Russian Post. He carries out most of the mail.
+In Russia there is a single state operator of the postal network: Russian Post. It carries out most of the mail.
 
-For delivery, the address of the person's stay and his name are usually used, i.e., it is necessary to specify the full name, postal code, as well as the full address, including the apartment number. Ordinary letters or notices of registered letters/parcels are delivered by postmen up to the mailbox on the door of the house or in the entrance of an apartment building.
+For delivery, the address of the person's residence and their name are usually used, i.e., it is necessary to specify the full name, postal code, as well as the full address, including the apartment number. Ordinary letters or notices of registered letters/parcels are delivered by postmen up to the mailbox on the door of the house or in the entrance of an apartment building.
 
 However, there is a possibility of anonymous mail delivery for the sender using [post office boxes](https://en.wikipedia.org/wiki/Post_office_box).
 This is a dedicated mailbox for mail in a specific mail division. Each box has its own number, online you can choose any unoccupied, for example, `777`.
@@ -30,9 +30,9 @@ The only disadvantage from the point of view of privacy is that to rent a mailbo
 After signing the contract, you will receive the key to the mailbox, and you can open it at any time. But it is important to understand that the boxes are located on the territory of post offices, and access to them is regulated by its working hours.
 Therefore, it is more convenient to choose the largest branches where the subscriber department works around the clock. In Moscow, for example, this is a post office on Myasnitskaya Street, index `101000`.
 
-How do I send emails now? As an address, ask your correspondents to specify only the index and the mailbox number. Let's take the examples above.
+How do I send letters now? As an address, ask your correspondents to specify only the postal code and the P.O. box number. Let's take the examples above.
 
-Canonical entry: `101000, subscriber/mailbox 777`
+Canonical entry: `101000, P.O. box 777`
 
 Or in short: `101000, 777`
 
