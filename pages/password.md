@@ -23,20 +23,20 @@ There is a simple but effective method for creating passwords - the method of 3 
 
 What is this method? When we register a new account, we just come up with 3 random words and put them as our password, for example: `NETWORKINGHYGIENEDEVELOPMENT`
 agree, it's much easier to remember than:
-`asndjBDHJBSDhjSBADHJadbzhjF`, and it will be quite difficult to sort this out by a simple dictionary search.
+`asndjBDHJBSDhjSBADHJadbzhjF`, and it will be quite difficult to crack this with a simple dictionary attack.
 
 Such passwords can be strengthened using [LEET](https://ru.wikipedia.org/wiki/Leet), replacing *some* letters with numbers, that is, our password will have the following form:
 `N3TW0RKHY6I3N3D3V3L0PM3NT`
-Thus, our password becomes more stable, and its complexity for memorization does not increase by much, and if you were familiar with [LEET](https://ru.wikipedia.org/wiki/Leet), before that, it will be even easier for you.
+Thus, our password becomes more resilient, and its complexity for memorization does not increase by much, and if you were familiar with [LEET](https://ru.wikipedia.org/wiki/Leet), before that, it will be even easier for you.
 
-For even greater durability, you can separate words using different special characters, for example: `-`, `~`, `=`.
+For even greater resilience, you can separate words using different special characters, for example: `-`, `~`, `=`.
 
 ### Russian words in English layout
 Another simple but effective method is the use of random Russian words in the English layout.
 
 We just take random words in Russian and write them in the English layout, for example, from `ехалгрекачерезреку` we can get the following `t[fkuhtrfxthtphtre`.
 
-It looks interesting and quite stable, but you can add symbols / numbers at the end, for example:
+It looks interesting and quite resilient, but you can add symbols / numbers at the end, for example:
 `t[fkuhtrfxthtphtre123!`
 `t[fkuhtrfxthtphtre34345!`
 
@@ -49,7 +49,7 @@ The password manager will allow you to generate strong passwords and store them 
 
 An overview of popular password managers can be found in this article - [Overview of password managers](https://habr.com/ru/company/cloud4y/blog/581916/)
 
-The personal recommendation of the compilers of the manual will be the service [Bitwarden](https://bitwarden.com/). For personal use, it will be enough with your head, the free version includes storing an unlimited number of passwords, using from an unlimited number of devices and all the basic functions of password managers. In addition to storing passwords, you can also store your bank card numbers and notes. The password generator allows you to generate a strong password and check it for leaks, which is undoubtedly one of the "Killer Feature".
+The personal recommendation of the compilers of the manual will be the service [Bitwarden](https://bitwarden.com/). For personal use, it will be more than enough, the free version includes storing an unlimited number of passwords, using from an unlimited number of devices and all the basic functions of password managers. In addition to storing passwords, you can also store your bank card numbers and notes. The password generator allows you to generate a strong password and check it for leaks, which is undoubtedly one of the "Killer Feature".
 
 ### LessPass
 
