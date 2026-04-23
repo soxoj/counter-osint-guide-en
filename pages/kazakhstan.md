@@ -19,7 +19,7 @@ All the identifiers listed below can be used to find the owner.
 
 Main public service - [Electronic Government of the Republic of Kazakhstan](https://egov.kz/).
 
-## Background check
+## Probiv (unauthorized data lookup)
 
 *The section will be updated*
 
