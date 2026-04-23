@@ -12,7 +12,7 @@ Of course, this carries with it the risks of disclosure of sensitive information
 
 The latter category may carry the greatest risk: when you enter a symbol by symbol, the browser will try to offer you something from the history of a recent visit, search queries or bookmarks that has at least some overlap with the characters (even if they are similar letters anywhere).
 
-To disable this behavior, you can uncheck all the boxes in the "Search" sections on Firefox / Search Suggestions" and "Privacy and Protection / Address panel".
+To disable this behavior, you can uncheck all the boxes in the Firefox sections "Search / Search Suggestions" and "Privacy and Protection / Address Bar".
 
 <img width="600" alt="Disabling autocomplete in the search bar" src="../img/firefox_search_suggestion.png">
 
