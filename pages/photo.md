@@ -7,7 +7,7 @@ networks can recognize you in an arbitrary photo and put a mark there with a lin
 But, fortunately, in recent years, the trend towards privacy has intensified, and therefore social networks are introducing reasonable restrictions
 on recognizing people. And search engines refuse to search for faces accurately at all. This reduces the likelihood of
 malicious use of such functions, but does not prevent the use of such technologies in general.
-Now recognition tools can be easily created independently or use shareware analogues.
+Now recognition tools can be easily created independently or use freemium alternatives.
 
 *The section will be updated*
 
@@ -19,7 +19,7 @@ you to search by photos from VKontakte, Odnoklassniki, TikTok, Clubhouse.
 
 If you have actively used social networks, you can find not only your account, but also photos with your face
 in the accounts of your friends, acquaintances or other people who are not even related to you. Of course,
-it is extremely difficult to delete such photos, and if you do not want them to point at you, then you should competently [delete account](./deleteme.md).
+it is extremely difficult to delete such photos, and if you do not want them to link to you, then you should competently [delete account](./deleteme.md).
 
 <img width="1123" alt="image" src="https://user-images.githubusercontent.com/31013580/193446993-ae071840-49f2-45f3-b517-6b1e2a97a510.png">
 
