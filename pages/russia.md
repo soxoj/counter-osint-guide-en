@@ -19,7 +19,7 @@ All the identifiers listed below can be used to find the owner.
 - Car number
 - OSAGO policy number - *compulsory civil liability insurance*
 - STS number - *Vehicle registration certificate*
-- WU - *driver's license*
+- VU - *driver's license*
 
 Main Public Service - [Public Services](https://www.gosuslugi.ru/). Possible
 [restoring access](https://esia.gosuslugi.ru/recovery/)
@@ -27,7 +27,7 @@ through any of the first three documents of an individual, while revealing
 part of your mobile phone or mail. It is not recommended
 to enter SNILS or INN into your personal account without an explicit need.
 
-## Background check
+## Probiv (unauthorized data lookup)
 
 What services for obtaining data through employees are available in Russia?
 
