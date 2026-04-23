@@ -35,7 +35,7 @@ not only during connection, but even when searching for "familiar" Wi-Fi network
 
 This is used by companies that organize the Internet in public spaces. They set up their devices to collect all the MAC addresses
 of people passing around. Thus, it becomes possible not only to track movements and visits, but even to monitor specific
-people to the place of residence. And if a person has connected to a "dangerous" access point, then it becomes possible to connect the phone directly with him.
+people to the place of residence. And if a person has connected to a "dangerous" access point, then it becomes possible to connect the phone directly with them.
 
 A separate note regarding the collection of MAC addresses of phones that are in network search mode. Apple devices by default support
 the creation of random MACS when searching, since iOS version 14 they also make random addresses for each Wi-Fi network when connected. Android devices
