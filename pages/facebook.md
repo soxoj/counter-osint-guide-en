@@ -24,7 +24,7 @@ Go to the section "Settings and privacy" => "Quick privacy settings". We open th
 - *Education* - similar to the previous paragraph (this information may be issued by your native).
 - *Work* - usually does not represent a secret if it is a public work. Depends on your situation.
 
-- *Who can see the friends list in your profile?* and *Who can see the people, Pages, and lists you subscribe to?* - information about the social graph potentially makes it possible to learn a lot about you from the above indirectly. Surely you have friends and colleagues, and classmates, and classmates. Therefore, we also put "Only me".
+- *Who can see the friends list in your profile?* and *Who can see the people, Pages, and lists you subscribe to?* - information about the social graph potentially makes it possible to learn a lot about you from the above indirectly. Surely you have friends and colleagues, college classmates, and school classmates. Therefore, we also put "Only me".
 
 ### Publications and stories
 
