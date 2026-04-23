@@ -6,8 +6,7 @@ in the CIS.
 I remind you that this guide is aimed at **hiding** your information from prying eyes on the Web.
 Unfortunately, almost everything you write in social networks and messengers is available to the platforms themselves.
 That is, a large number of employees of this company, law enforcement and other agencies that have
-the right to request this information, as well as sometimes a large number of other persons who semi
--legally support the site's activities.
+the right to request this information, as well as sometimes a large number of other persons who semi-legally support the site's activities.
 
 To fully protect yourself from the leakage of your personal information is not to use any platforms
 that do not guarantee end-to-end encryption and absolute security of your data, but
