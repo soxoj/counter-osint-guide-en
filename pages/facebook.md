@@ -60,4 +60,4 @@ This setting is enabled by default and allows indexing of your profile. Turn it 
 
 ---
 
-[⬅️ Back](./mobile-apps-privacy.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./telegram.md)
+[⬅️ Back](./platforms.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./telegram.md)

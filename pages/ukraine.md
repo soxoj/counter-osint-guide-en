@@ -30,4 +30,4 @@ You can check whether your data has been leaked from the service [here](https://
 
 ---
 
-[⬅️ Back](./russia.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./kazakhstan.md)
+[⬅️ Back](./russia.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./belarus.md)

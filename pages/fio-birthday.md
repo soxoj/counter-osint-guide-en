@@ -30,4 +30,4 @@ publicly displayed information about yourself, for example, first and last name.
 
 ---
 
-[⬅️ Back](./phone.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./location.md)
+[⬅️ Back](./email.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./location.md)

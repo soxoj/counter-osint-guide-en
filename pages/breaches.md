@@ -28,4 +28,4 @@ but you won't do anything about the huge number of database copies that have alr
 
 ---
 
-[⬅️ Back](./password.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./breach-detection.md)
+[⬅️ Back](./photo.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./breach-detection.md)

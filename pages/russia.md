@@ -59,4 +59,4 @@ To check their data, enthusiasts have raised the service https://saverudata.info
 - SNILS of citizens
 ---
 
-[⬅️ Back](./deleteme.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./ukraine.md)
+[⬅️ Back](./screen-sharing.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./ukraine.md)

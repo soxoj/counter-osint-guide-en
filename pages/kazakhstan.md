@@ -37,4 +37,4 @@ To check their data, enthusiasts have raised the service https://saverudata.info
 
 ---
 
-[⬅️ Back](./ukraine.md) | [⏫ Table of contents](../README.md)
+[⬅️ Back](./belarus.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./brazil.md)

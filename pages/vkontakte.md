@@ -79,4 +79,4 @@ Only you can confirm the mark.
 
 ---
 
-[⬅️ Back](./facebook.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./2fa.md)
+[⬅️ Back](./telegram.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./instagram.md)
