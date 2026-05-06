@@ -74,9 +74,6 @@ Now, using this mask address, we can receive emails to our email address without
 
 ![relayedemail](/img/relayedemail.png)
 
-Apple provides an opportunity for its users to use anonymized mailboxes
-that function in the same way. They look like this: `1v5zvsmkp6@privaterelay.appleid.com`.
-
 *The section will be updated*
 
 Examples of services:
@@ -85,6 +82,20 @@ Examples of services:
 - [AnonAddy](https://anonaddy.com/) - generates addresses according to a template `*@ivanov.anonaddy.com`
 - [Firefox Relay](https://relay.firefox.com/) - generates random addresses on the domain `mozmail.com`
 - [erine.email](https://erine.email/) - makes addresses according to a template `*.ivanov@erine.email`
+
+### Hide My Email (Apple)
+
+Apple offers **iCloud+** subscribers its own email-masking service called «Hide My Email». It is available from Apple ID settings on any Apple device and via the browser at iCloud.com, and is offered as an option in email fields when registering through Safari or via the system Passwords app.
+
+One-time addresses are generated, e.g.:
+
+```
+6g662b5nbb@privaterelay.appleid.com
+gains-unworn0x@icloud.com
+argosy-07raving@icloud.com
+```
+
+Mail sent to them is forwarded to the «real» mailbox linked to the Apple ID; you can reply, and the recipient only sees the mask, not your real address. The forwarding address can be changed at any time, and unwanted masks can be deleted: after deletion, the flow of emails and spam to that mask stops immediately.
 
 ---
 

@@ -54,7 +54,20 @@ And a little advice: before trying to use a number from any of these sites, you 
 
 ### Permanent Virtual Phone Number services
 
-*The section will be updated*
+Some carriers offer customers a **substitute number** for incoming and outgoing calls and SMS as a bonus to the main plan — without a separate SIM card. The substitute number works through the carrier's app and can be changed in a couple of taps, leaving the main number unchanged.
+
+For example, in Russia this is offered by **T-Mobile** (T-Bank's MVNO, not affiliated with Deutsche Telekom): a substitute number is included in the base plan and can be changed from the app. Similar features are available from Yota, MTS («Second Number») and a number of foreign carriers.
+
+**The main rule:** never save the substitute number anywhere — not in your address book, not in any profile. This lets you rotate it regularly without consequences: as soon as spam starts coming in, you generate a new one.
+
+Typical use cases:
+- price requests from companies with «leave a request» forms;
+- registration on one-off resources (promos, giveaways, surveys);
+- access to public Wi-Fi with SMS authorization.
+
+For a higher level of protection, the substitute number is worth combining with [Hide My Email](./email.md#hide-my-email-apple) — together they cover most everyday registrations where your primary contacts are not actually needed.
+
+⚠️ **Weak spot — the human factor.** If you give your real name during registration, the chain of accounts tied to a single substitute number can still be linked. When using this scheme, use a pseudonym.
 
 ---
 
