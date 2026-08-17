@@ -72,3 +72,10 @@ If you will have questions - join the links and feel free to write to us!
     </td>
   </tr>
 </table>
+
+<h2 style="background-color: #F5F5F5;">License</h2>
+
+The guide is distributed under the [Creative Commons Attribution-ShareAlike 4.0 International](./LICENSE) (CC BY-SA 4.0) license.
+
+You are free to copy, redistribute and adapt the material, including for commercial purposes,
+as long as you give appropriate credit and distribute your contributions under the same license.
