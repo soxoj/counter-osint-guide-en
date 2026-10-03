@@ -15,7 +15,7 @@ If you choose the simpler way, I recommend using the following resources, in des
 The most well-known is [Have I Been Pwned](https://haveibeenpwned.com/), maintained by a well-known security researcher and providing privacy guarantees.
 
 Others:
-- https://monitor.firefox.com/
+- https://monitor.mozilla.org/
 
 #### Commercial alternatives
 
@@ -64,7 +64,7 @@ Therefore, if you do not need a receipt, provide a deliberately incorrect email 
 
 Besides directly searching for yourself in databases, you can proactively leave "beacons" that will help you quickly identify the site or company responsible for a leak. Most commonly in everyday life, this happens with spam calls that mention your name — for example, a name you provided on a classifieds website.
 
-Websites have different approaches to the accuracy of account names. Some require that they match passport data ([e.g., VKontakte](https://roem.ru/21-06-2009/126784/v-v-kontakte-mojno-smenit-imya-lish-na-nastoyashchee/)), some only verify them for financial transactions, and most do not validate at all.
+Websites have different approaches to the accuracy of account names. Some require that they match passport data ([e.g., VKontakte](http://web.archive.org/web/20260209052307/https://roem.ru/21-06-2009/126784/v-v-kontakte-mojno-smenit-imya-lish-na-nastoyashchee/)), some only verify them for financial transactions, and most do not validate at all.
 
 You can use the tricks listed below depending on the strictness of the service rules (ToS, Terms of Service). But before using them, I strongly advise you to study what sanctions are possible if you provide an invalid name, and assess these risks for yourself.
 
