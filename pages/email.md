@@ -68,11 +68,11 @@ Example based on Firefox Relay:
 
 First, a mask is provided that hides the real address.
 
-![firefoxrelay](/img/firefoxrelay.png)
+![firefoxrelay](../img/firefoxrelay.png)
 
 Now, using this mask address, we can receive emails to our email address without showing it to the whole Internet.
 
-![relayedemail](/img/relayedemail.png)
+![relayedemail](../img/relayedemail.png)
 
 *The section will be updated*
 

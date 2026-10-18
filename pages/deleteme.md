@@ -77,7 +77,7 @@ Once the request is approved, the data you provided is removed from other users'
 
 ### Blocking search for yourself in the Telegram bot TELESINT
 
-[TeleSINT](https://t.me/telesint_bot) [provides the ability](https://telesint.xyz/2021/10/05/service/) to hide yourself from search, send alerts
+[TeleSINT](https://t.me/telesint_bot) provides the ability to hide yourself from search, send alerts
 if someone tries to find you through the bot, and also view the list of those who searched for you. Unfortunately, this **requires a paid subscription**.
 
 <img width="487" alt="image" src="https://user-images.githubusercontent.com/31013580/193661209-f9f9430a-be3c-461a-84c5-f322865210a8.png">
