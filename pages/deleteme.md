@@ -2,6 +2,12 @@
 
 ## Deleting your own accounts
 
+**Before deleting, find what to delete.** A single username usually turns up more accounts
+than you remember yourself: old forums, services you signed up for once, sites that
+registered you automatically through your email. For a quick self-check there is the
+[Maigret bot](https://maigret.app/co-en) — it looks up accounts by username across thousands
+of sites, with nothing to install.
+
 Despite the fact that the Internet remembers everything, deleting accounts remains one of the strongest means against basic intelligence on you.
 It seems that this is a trivial topic, but there are several important nuances:
 
