@@ -129,8 +129,6 @@ as well as receiving notifications about searches for you from the app. However,
 
 <img width="471" alt="GetContact" src="https://user-images.githubusercontent.com/31013580/193679897-e84664b5-8bc1-4f77-a5b1-ee39e5eac965.png">
 
-_This section will be updated_
-
 ---
 
 [⬅️ Back](./2fa.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./screen-sharing.md)
