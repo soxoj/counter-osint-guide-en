@@ -61,98 +61,60 @@ To make requests to services that are interested in storing your data, you need 
 - government identifiers (passport number, social security number, taxpayer identification number, full name, etc.)
 - any data from leaked database records
    
-### Removing yourself from the Telegram bot Eye of God
+### Removing yourself from people-search bots
 
-The Eye of God has implemented a personal data deletion request in the Account menu item of the [bot](https://t.me/fandorin_search_bot).
-After filling out the form with your full name, phone number, date of birth, and email, the request is reviewed within a few days.
-Once the request is approved, the data you provided is removed from other users' search results, and you receive a notification when someone attempts to search for you.
+Earlier this guide contained step-by-step instructions for deleting your data from
+specific Telegram bots. Almost none of those bots exist any more.
 
-<img width="492" alt="image" src="https://user-images.githubusercontent.com/31013580/194768074-43a7423d-8e33-41dd-8278-d2afe9f64d13.png">
+**On 9 December 2024 article 272.1 of the Russian Criminal Code came into force** — it
+criminalises the unlawful collection, storage, use and transfer of personal data, and,
+separately, the creation and maintenance of resources that distribute it. The black market
+for people-search services shrank noticeably after that, and Telegram began deleting such
+bots.
 
-<img width="358" alt="image" src="https://user-images.githubusercontent.com/31013580/193659086-ae6369c4-7fb4-4b2e-a9f3-4e62386816fc.png">
-<img width="485" alt="image" src="https://user-images.githubusercontent.com/31013580/193659203-8293ccb8-9991-4ee3-8127-287234a92db4.png">
-<img width="736" alt="image" src="https://user-images.githubusercontent.com/31013580/193660218-16fef90a-5eb0-414b-b405-15f60d9681fa.png">
-<img width="758" alt="image" src="https://user-images.githubusercontent.com/31013580/193660613-ffa757fc-461e-485c-8092-38356c5120fd.png">
-<img width="488" alt="image" src="https://user-images.githubusercontent.com/31013580/194768062-6377964b-117e-43f6-b17d-d4e58775e33f.png">
+In late February 2025 Eye of God, the best known service of this kind, suspended its work:
+its creator explained that he was waiting for the legal situation to become clear.
 
-### Blocking search for yourself in the Telegram bot TELESINT
+### How to remove yourself where it is still possible
 
-[TeleSINT](https://t.me/telesint_bot) provides the ability to hide yourself from search, send alerts
-if someone tries to find you through the bot, and also view the list of those who searched for you. Unfortunately, this **requires a paid subscription**.
+If you have found out that someone is searching for data on you, try to obtain the bot's
+message itself or its report: the report leads you both to the service's website and to the
+Telegram bot. Then look inside for the option to delete your own data — it hides in a
+section like "Account" or "Profile", and sometimes it is not there at all and the only way
+left is to write to support.
 
-<img width="487" alt="image" src="https://user-images.githubusercontent.com/31013580/193661209-f9f9430a-be3c-461a-84c5-f322865210a8.png">
-<img width="332" alt="image" src="https://user-images.githubusercontent.com/31013580/193661708-142aaa48-0b7e-4c12-98fc-01b6b4b33ce3.png">
+And the main thing — **removal can cost money, and any amount of it**. One of the large
+services charges hundreds of dollars for each type of data separately: full name with date
+of birth, phone number, email. The wording it uses to explain this is worth reading in full:
 
-### Hiding your data from the Telegram bot Quick OSINT
+> The service is expensive, because hiding data is an exception to the principle of free
+> access to information. When privacy is a luxury.
+>
+> We are obliged to provide the option — and we have provided it.
+> We are not obliged to make it affordable — and we have not.
 
-The Personal Data Processing Policy of [the service](http://quickosint.com) states:
+In other words, the removal mechanism exists in order to fulfil an obligation, and the price
+is set so that nobody uses it.
 
-```
-The period of processing of personal data is unlimited. The User can withdraw their consent to the processing of personal data at any time by sending a notification to the Operator @Quick_OSINT_support marked "Withdrawal of consent to the processing of personal data".
-```
+It happens more gently, but still not for free: another bot lets you hide only the country
+your account is registered in, and only with a paid subscription that also includes bulk
+searches and higher limits.
 
-All requests for deletion are processed manually. It is necessary to fill out an application for blocking data from publicly available sources
-with full passport data, the bot's address, as well as identifiers for blocking, and then send its photo or scanned image to [the Operator](https://t.me/Quick_OSINT_support). The data will be deleted within 7 days.
+### What to do if you are not ready to pay
 
-### Hiding your data from the Telegram bot Insight
+The legal lever appeared together with that same article 272.1: the activity of such services
+falls directly under criminal liability, and you can demand that the processing stop and the
+data be deleted by filing a complaint with Roskomnadzor — through its electronic reception
+or the public services portal.
 
-To hide data about yourself in the bot [Insight](https://t.me/eyeofbeholder_bot), you need:
-- to have at least ₽1000 in total deposits on the account
-- to contact support within the bot with a request to delete your data
+But the lever has an unpleasant property, and it is better to know about it in advance: **the
+complaint has to name the operator** — who exactly processes your data. And the surviving
+services are anonymous, so there is nothing to name.
 
-### Hiding your data from the Telegram bot GTA
-
-To hide data about yourself in the bot [GTA (Global Tech Aggregator)](https://t.me/globaltechagr_bot), you need:
-- start the bot
-- "Мой аккаунт" - "Удалить информацию" - "Удалить запись"
-- individually enter the identifiers of interest
-- top up the wallet in TON (for deletion for a year - 1 TON per identifier, permanently - 5 TON per identifier)
-
-<img width="176" alt="gta_1" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/bd243977-9a9b-48de-b820-3e6f0817ac7b">  
-
-<img width="315" alt="gta_2" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/274abf57-d2c2-43ed-8b96-bd4c0e19e40b">  
-
-<img width="371" alt="gta_3" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/54bc61eb-b6d0-4f69-bc48-c194d8095223">  
-
-### Hiding your data from the Telegram bot Zernenda
-
-To hide data about yourself in the bot [Zernenda](https://t.me/Zernerda_bot), you need:
-- start the bot, verify your account
-- check what data the bot knows about you and from what leaks (to do this, pay for several queries by phone number, full name, etc.; note down what data the bot found)
-- "Мой аккаунт" - "Удалить данные о себе"
-- send your phone number to confirm your account
-- send a detailed request indicating which data belongs to you
-
-Sample application form:
-
-ФИО: Пушкин Владимир Владимирович
-Телефон: +79999999999
-Telegram: tg1569113435
-ВКонтакте: vk10419593
-Паспорт: 1234 567890
-Я подтверждаю, что приведённые выше данные принадлежат мне и прошу удалить их из поисковой выдачи бота.
-
-<img width="317" alt="Zernenda_1" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/15171573-caae-4899-90d1-023d0a227354">  
-
-<img width="380" alt="Zernenda_2" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/2b9dc6bd-d20d-4b4e-a2f4-60e29596f8fa">
-
-### Telegram bot Angel (Архангел)
-
-To hide data about yourself in the bot [Angel (Архангел)](https://t.me/Angel_SystemBot), you need:
-- start the bot
-- "Профиль" - "Приобрести запросы"
-- buy requests (the option "800 запросов - 5760 руб." is required)
-- start the bot: https://t.me/AngelSystemSupportBot
-- write "Пополнил на 800 запросов. Прошу удалить мои данные из вашей системы (you should write what kind of data - phone, emails, social networks, documents, addresses, etc.)"
-
-<img width="317" alt="angel" src="https://github.com/soxoj/counter-osint-guide-ru/assets/137871056/b514f608-8d72-4b2a-9684-2b90c9b50494">  
-
-### Telegram bot Cerberus
-
-To hide data about yourself in the bot [Cerberus](https://t.me/iscerberusbot), you need:
-- start the bot
-- "Аккаунт" - "Защитить данные" - "Создать"
-- enter the prompted data one by one
+So the realistic order is this: remove yourself where the procedure exists and is free — from
+leak-checking services and from operators like GetContact below. For the rest, assume the data
+has already spread, and work with the [original source](./breaches.md) — the leaks these bots
+are built from.
 
 ### Disabling search for your number in GetContact
 
