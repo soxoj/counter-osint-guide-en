@@ -48,8 +48,6 @@ Example of an email notification:
 
 <img width="550" alt="Example of canary token report" src="../img/canary_token_example.png">
 
-*The section will be updated*
-
 ## Difference from phishing and logger links
 
 *The section will be updated*

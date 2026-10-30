@@ -11,8 +11,6 @@ the person, it has no dedicated "search by face" feature. This reduces the likel
 malicious use of such functions, but does not prevent the use of such technologies in general.
 Now recognition tools can be easily created independently or use freemium alternatives.
 
-*The section will be updated*
-
 ## How to test yourself
 
 In the post-Soviet space, you can still use [Yandex](https://images.yandex.ru/).
