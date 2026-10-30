@@ -74,8 +74,6 @@ Now, using this mask address, we can receive emails to our email address without
 
 ![relayedemail](../img/relayedemail.png)
 
-*The section will be updated*
-
 Examples of services:
 
 - [SimpleLogin](https://simplelogin.io/)
@@ -113,8 +111,6 @@ The Bitwarden password manager allows you to generate random "plus" aliases,
 as well as catch-all mailbox addresses and even forwarding mailboxes.
 
 ![bitwarden](../img/bitwarden_en.png)
-
-*The section will be updated*
 
 </details>
 
