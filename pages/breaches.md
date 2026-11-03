@@ -56,8 +56,11 @@ themselves removed from search results by pressuring the services that sell thos
 But only people with leverage get deleted that way — and it has an awkward side effect:
 **the deletion itself works as a marker.** If a person shows up in one service and is missing
 from another, that reveals both which services clean their results and that someone came
-looking for that particular person. And complete deletion still does not work: there are too
-many databases, and nobody can come to terms with all of them at once.
+looking for that particular person. Some services make it even more obvious: instead of an
+empty result they state outright that the data was hidden by the user. To whoever is checking up
+on you, that is a finding in itself: you knew you were in such a database, and you paid to get
+out of it. And complete deletion still does not work: there are too many databases, and nobody
+can come to terms with all of them at once.
 
 That is not a reason to do nothing — it is a reason to do something else.
 
@@ -72,10 +75,58 @@ How to set them up — [Canary tokens](./canary-tokens.md).
 - **Devalue what has already leaked.** If ten plausible but false or borrowed contacts are
 attached to your name in the databases, the price of that record drops.
 Techniques — [Making leaks useless](./making-breaches-useless.md).
-- **Remove yourself from the services that trade in these databases.** Many of them have a
-removal procedure: a form in some cases, a written application with passport details in
-others, a paid subscription in a few.
-Instructions for specific services and bots — [Removing information about leaks](./deleteme.md#removing-information-about-leaks).
+- **Remove yourself from the services that trade in these databases.** Many of them have
+a removal procedure — see the summary below. How removal works at the probiv bots, and what
+to do if you are not ready to pay — [Removing information about leaks](./deleteme.md#removing-information-about-leaks).
+
+### Which services you can remove yourself from
+
+Most of the larger services do have a removal procedure, but it looks very different from one
+to the next: a command to a bot in one place, an email to support in another, an application
+with a photo of your passport somewhere else, and a fee per row of your data in a few. Free
+routes are no rarer than paid ones, and they exist at the probiv services themselves, not just
+at the leak-checking ones.
+
+The procedures and prices were collected in the autumn of 2026 and may have changed since, so
+treat the table as a reason to go and check rather than as a ready-made instruction. We give no
+addresses or links to these services: their activity falls under criminal liability in Russia.
+The table is reference material: it tells you whether a service has a removal procedure and what
+it costs, not where to look for the service. The last column answers a separate question: does
+the service tell the person who was looking for you that the data was hidden by you, or does
+it simply find nothing?
+
+| Service | How to remove yourself | Price | Hiding is visible |
+|---|---|---|---|
+| Глаз Дурова | the `/remove_me` command | free | no data |
+| Overload | inside the bot | free | no data |
+| VK InfoApp | in the app itself | free | no data |
+| GetContact | hide your own tags in the app, one by one | free | no data |
+| Leak OSINT | switch the Telegram language to a non-CIS, non-English one, remove through the bot's menu | free | no |
+| Avinfo | write to support | free | no data |
+| vk.watch | a request by email | free | no data |
+| Top100VK | a request by email | free | no data |
+| Nebaz | a request through the feedback form | free | no data |
+| Interesnoe | a separate removal page | free | no data |
+| FIND HOMO | an email, the instructions are in the bot | free | yes |
+| LeakCheck | following the instructions in their wiki | free | unknown |
+| infotrackpeople | an application with a reason and a photo of your passport, up to 14 days | free | no data |
+| Unamer | buy coins and run the removal command; those coins cannot be spent | 400 coins | no |
+| Detectiva | only Russian numbers can be hidden | 1000 ₽ | no data |
+| Enigma | pay for the application and wait for review | 1000 ₽ | no data |
+| TG Pulse | through the service | 2000 ₽ | yes, "hidden" and "not found" are different answers |
+| Telescan | through the service | 2000 ₽ | no, but it notifies you when a hidden record is searched for |
+| Funstat | partial hiding; full hiding is auctioned once a day | 2500 ₽ | depends on the type of hiding |
+| Insight | hides itself once you top up the balance | 3000 ₽ | no |
+| void | send the list of your data and wait for review | 3000 ₽ | no data |
+| TeleSINT | buy the lifetime premium | 4000 ₽ | no data |
+| Вектор | an application, wait for review | 5000 ₽ | no data |
+| imsg | hides itself once you top up the balance | 10,000 ₽ | no |
+| Eye of TON | through the service | 150 USDT | no data |
+| Dyxless | send the list of your data and wait for review; Russia and Belarus only | $300 | yes |
+| Шерлок | an application to hide, priced per row of data | $500 | yes |
+| Chat Crawler | through support | $1000 | no data |
+| Саурон | — | $2000 to enter the service | no data |
+| Himera | the administration is against removal | — | no data |
 
 ## What usually leaks
 
