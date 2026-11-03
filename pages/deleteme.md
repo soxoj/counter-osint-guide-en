@@ -64,16 +64,20 @@ To make requests to services that are interested in storing your data, you need 
 ### Removing yourself from people-search bots
 
 Earlier this guide contained step-by-step instructions for deleting your data from
-specific Telegram bots. Almost none of those bots exist any more.
+specific Telegram bots — with their addresses and the items in their menus. We no longer give
+those: the activity of such services falls under criminal liability in Russia. What is useful
+is something else — how the removal procedure itself works, and that is below.
 
 **On 9 December 2024 article 272.1 of the Russian Criminal Code came into force** — it
 criminalises the unlawful collection, storage, use and transfer of personal data, and,
-separately, the creation and maintenance of resources that distribute it. The black market
-for people-search services shrank noticeably after that, and Telegram began deleting such
-bots.
+separately, the creation and maintenance of resources that distribute it. Telegram began
+deleting such bots, and the services began changing addresses and disappearing from search.
 
 In late February 2025 Eye of God, the best known service of this kind, suspended its work:
-its creator explained that he was waiting for the legal situation to become clear.
+its creator explained that he was waiting for the legal situation to become clear. But the
+industry did not end there: services of this kind are still running, and most of them do have
+a removal procedure — [a summary of them](./breaches.md#which-services-you-can-remove-yourself-from)
+is on the page about leaks.
 
 ### How to remove yourself where it is still possible
 
@@ -83,9 +87,12 @@ Telegram bot. Then look inside for the option to delete your own data — it hid
 section like "Account" or "Profile", and sometimes it is not there at all and the only way
 left is to write to support.
 
-And the main thing — **removal can cost money, and any amount of it**. One of the large
-services charges hundreds of dollars for each type of data separately: full name with date
-of birth, phone number, email. The wording it uses to explain this is worth reading in full:
+A free procedure is not a rarity: at some services it is simply a command to the bot or an
+email to support.
+
+But **removal often does cost money**, and the price reaches hundreds of dollars for a single
+row of your data. The wording one of the large services uses to explain this is worth reading
+in full:
 
 > The service is expensive, because hiding data is an exception to the principle of free
 > access to information. When privacy is a luxury.
@@ -111,10 +118,10 @@ But the lever has an unpleasant property, and it is better to know about it in a
 complaint has to name the operator** — who exactly processes your data. And the surviving
 services are anonymous, so there is nothing to name.
 
-So the realistic order is this: remove yourself where the procedure exists and is free — from
-leak-checking services and from operators like GetContact below. For the rest, assume the data
-has already spread, and work with the [original source](./breaches.md) — the leaks these bots
-are built from.
+So the realistic order is this: remove yourself where the procedure exists and is free — that
+happens at the people-search services themselves, at the leak-checking ones, and at operators
+like GetContact below. For the rest, assume the data has already spread, and work with the
+[original source](./breaches.md) — the leaks these bots are built from.
 
 ### Disabling search for your number in GetContact
 
