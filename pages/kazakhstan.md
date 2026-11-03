@@ -1,6 +1,9 @@
 # Kazakhstan
 
-_The section will be updated_
+In Kazakhstan the IIN is asked for almost everywhere — in government services, in banks,
+in shops — so a single number makes data about you from different places easy to join up.
+Below are the numbers you can be found by and the leaks that affected Kazakhstanis. The less
+often your IIN goes where it is not mandatory, the fewer such joins are possible.
 
 ## Documents
 

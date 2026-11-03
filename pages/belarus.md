@@ -1,6 +1,10 @@
 # Belarus
 
-*The section will be updated*
+Belarus has few public registries, but its state databases — the passport system, the
+traffic police, the Ministry of Internal Affairs — have already ended up in outsiders'
+hands after hacks. Below are the numbers you can be found by and the leaks that are known
+about. Assume that this data about you is no longer a secret, and do not use it as security
+answers when recovering access to your accounts.
 
 ## Documents
 
