@@ -1,6 +1,10 @@
 # Russia
 
-*The section will be updated*
+Everyone in Russia has a passport, a SNILS and an INN. Any of these numbers works as
+a key: it is used to link data about you held by different government agencies, and
+sometimes to restore access to an account. Below are those identifiers, the services that
+obtain data unofficially, and the leaks that affected Russians; read it not as a reference
+but as a list of what is better not to give away without need.
 
 ## Documents
 
@@ -56,6 +60,24 @@ To check their data, enthusiasts have raised the service https://saverudata.info
 - UFMS
 - PFR
 - SNILS of citizens
+
+## What to do
+
+**Keep a separate number for deliveries, classified ads and sign-ups.** Every database in
+the list above has a phone number in every row — and the number is exactly what such databases
+are joined by. A separate number does not make you anonymous: it is registered to your passport
+too. What it does is keep your orders and ads from being glued to your bank and government
+accounts through one shared field. More on this — [phone number](./phone.md#we-share-personal-life-and-work).
+
+**What the "flash" ("вспышка") from the list above is.** It is a one-off answer to where
+a phone was, based on its last activity on the network: not a route and not a point on a map,
+but an approximate radius, and only while the phone is online. It is sold not on the darknet
+but openly: detective agencies advertise it as an ordinary search service, next to call
+records. There is no hacking of your phone involved — the data comes from the operator's side,
+and shop employees are convicted for selling such printouts under articles 138 and 183 of the
+Russian Criminal Code. Your phone's settings do not protect you from such a purchase, so
+assume that your movements and your list of calls can be bought.
+
 ---
 
 [⬅️ Back](./screen-sharing.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./ukraine.md)

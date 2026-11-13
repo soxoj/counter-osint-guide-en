@@ -1,6 +1,9 @@
 # Ukraine
 
-_This section will be updated_
+Ukrainian documents and some of the government services are gathered in the Diia app,
+so access to it is access to everything kept there. Below are the numbers you can be found
+by — passport, IPN, driving licence — and the leaks that affected Ukrainians. Check whether
+you are handing these numbers out where they are not needed.
 
 ## Documents
 
