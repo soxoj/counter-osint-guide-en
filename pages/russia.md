@@ -21,8 +21,7 @@ All the identifiers listed below can be used to find the owner.
 - STS number - *Vehicle registration certificate*
 - VU - *driver's license*
 
-Main Public Service - [Public Services](https://www.gosuslugi.ru/). Possible
-[restoring access](https://esia.gosuslugi.ru/recovery/)
+The main government service is Gosuslugi. Access there can be restored
 through any of the first three documents of an individual, while revealing
 part of your mobile phone or mail. It is not recommended
 to enter SNILS or INN into your personal account without an explicit need.
