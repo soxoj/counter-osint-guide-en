@@ -26,7 +26,8 @@ _This section will be updated_
 
 In January 2022, information appeared about a leak in the database of the Diya service. Despite the assurances of the authorities that the leak was fake, enthusiasts [confirmed](https://t.me/full_of_hatred/518) its origin.
 
-You can check whether your data has been leaked from the service [here](https://haveiindb.xyz/check.html).
+To find out whether your data is in this leak or in any other, use the methods from
+["Check what has leaked about you specifically"](./breaches.md#check-what-has-leaked-about-you-specifically).
 
 ---
 
