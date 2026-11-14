@@ -1,70 +1,161 @@
 # Password
 
-The main principle: **Never use the same or similar passwords**
+The main principle: **never use the same or similar passwords.**
 
 For two reasons:
-- Having your email and password from site 1, someone will definitely try to go to site 2 with them - and it's not about you personally, the market for selling hacked accounts is very large, and this is a commodity.
-- If data about your accounts along with passwords surfaced in [leaks](./breaches.md), then it will be possible to compare even completely different mail and phone numbers ([good example](https://meduza.io/feature/2022/02/07/eto-pohozhe-na-krik-dushi-no-ya-ne-znayu-o-chem-on-krichit)).
+- Having your email and password from site 1, someone will definitely try them on site 2 — and it
+is not about you personally: the market for hacked accounts is very large, and your login is
+a commodity there.
+- If your accounts and passwords surfaced in [leaks](./breaches.md), a shared password ties
+together even completely different emails and phone numbers
+([a good example](https://meduza.io/feature/2022/02/07/eto-pohozhe-na-krik-dushi-no-ya-ne-znayu-o-chem-on-krichit)).
 
-But how to keep a lot of passwords in mind? And where to get them?
-I advise you not to treat all passwords as data that should always be in your head. Save space in your memory.
+The second reason matters more for privacy. A shared password links your accounts as firmly as
+a shared phone number: it works as one more identifier of yours.
 
-The most optimal way is to create one sufficiently long password phrase for the password store (or for the account to which
-your browser is linked, in which all passwords are stored).
-
-*The section will be updated*
+You do not have to remember all your passwords. One is enough — the one for your password manager.
+The rest are made up by the program, and you will never even see them.
 
 ## How to come up with strong passwords
 
-The standard guidelines for using 8 characters that include special characters, letters, numbers do not work! After all, `P@ssw0rd` also fits these requirements, and this is not the coolest password, so let's analyze the methods for creating strong passwords.
+"Eight characters, letters, digits and a special character" is a poor requirement: `P@ssw0rd`
+meets it.
 
-### Three random words
-There is a simple but effective method for creating passwords - the method of 3 random words.
+Passwords are not guessed character by character. A dictionary is taken — words and passwords from
+earlier leaks — and the usual rules are applied to every word: append a year, capitalise the first
+letter, replace letters with lookalike digits. The closer your password is to that pattern, the
+faster it is found.
 
-What is this method? When we register a new account, we just come up with 3 random words and put them as our password, for example: `NETWORKINGHYGIENEDEVELOPMENT`
-agree, it's much easier to remember than:
-`asndjBDHJBSDhjSBADHJadbzhjF`, and it will be quite difficult to crack this with a simple dictionary attack.
+### LEET does not help
 
-Such passwords can be strengthened using [LEET](https://ru.wikipedia.org/wiki/Leet), replacing *some* letters with numbers, that is, our password will have the following form:
-`N3TW0RKHY6I3N3D3V3L0PM3NT`
-Thus, our password becomes more resilient, and its complexity for memorization does not increase by much, and if you were familiar with [LEET](https://ru.wikipedia.org/wiki/Leet), before that, it will be even easier for you.
+Replacing letters with lookalike digits — `password` as `p@ssw0rd`, `NETWORKHYGIENE` as
+`N3TW0RKHY6I3N3` — is often recommended as a trick. Everyone knows the trick, and the programs
+that guess passwords know it first. Having taken a word from a dictionary, such a program
+immediately tries every way of writing it with digits.
 
-For even greater resilience, you can separate words using different special characters, for example: `-`, `~`, `=`.
+The list of substitutions is short, because there are few digits and signs that look like letters:
 
-### Russian words in English layout
-Another simple but effective method is the use of random Russian words in the English layout.
+| letter | replaced with |
+|---|---|
+| a | 4, @ |
+| b | 6 |
+| c | <, { |
+| e | 3 |
+| g | 9 |
+| i | 1, ! |
+| o | 0 |
+| q | 9 |
+| s | 5, $ |
+| t | 7, + |
+| x | % |
 
-We just take random words in Russian and write them in the English layout, for example, from `ехалгрекачерезреку` we can get the following `t[fkuhtrfxthtphtre`.
+This is not our example but a file that ships with hashcat, the best known password-guessing
+program. It sits there ready and is switched on with a single checkbox. So remembering the password
+got harder for you, while guessing it stayed just as easy as before.
 
-It looks interesting and quite resilient, but you can add symbols / numbers at the end, for example:
-`t[fkuhtrfxthtphtre123!`
-`t[fkuhtrfxthtphtre34345!`
+### Words typed in the wrong keyboard layout do not help either
 
-*The section will be updated*
+A Russian phrase typed on a Latin keyboard turns `ехалгрекачерезреку` into `t[fkuhtrfxthtphtre`.
+It looks like a random string, but switching the layout is just as ordinary a guessing rule. And
+the trick is so popular that layout-shifted passwords already sit in the dictionaries as ready
+strings.
 
-## Password Managers
-This is something that everyone should use! We recall the main principle from the first line and the question immediately comes to mind - "Well, what do I do now, remember 100 passwords!?!?". No, you don't need to remember 100 passwords, one is required, this is the password from the password manager.
+Kaspersky went through 231 million passwords from leaks of 2023–2026, Russian ones among them.
+The most frequent included **`gfhjkm` (the Russian for "password" typed on a Latin keyboard),
+`vfvf` ("mum"), `gfgf` ("dad"), and the reverse direction — `мдфв` from `vlad`.** The same study
+found that length alone does not save you: one in five 15-character passwords is guessed in under
+a minute if it was built from a familiar pattern.
 
-The password manager will allow you to generate strong passwords and store them in one, and most importantly - a safe place.
+### What does work: a password of random words
 
-An overview of popular password managers can be found in this article - [Overview of password managers](https://habr.com/ru/company/cloud4y/blog/581916/)
+The advice "think of three random words" breaks on the word "random". People do not invent
+randomness: the words that come to mind are from one topic, from a recent conversation, or start
+with the same letter. Such combinations are guessed quickly.
 
-The personal recommendation of the compilers of the manual will be the service [Bitwarden](https://bitwarden.com/). For personal use, it will be more than enough, the free version includes storing an unlimited number of passwords, using from an unlimited number of devices and all the basic functions of password managers. In addition to storing passwords, you can also store your bank card numbers and notes. The password generator allows you to generate a strong password and check it for leaks, which is undoubtedly one of the "Killer Feature".
+So the words have to arrive ready-made. Every password manager has a button that assembles
+a password out of random words — something like `cactus-ribbon-mellow-otter-salt-fabric`. Press,
+copy, paste. Three rules:
+
+- take six words, five is already too few;
+- keep the words that came up: replacing one with your favourite makes the password predictable;
+- separate the words with hyphens or spaces if the site allows it.
+
+If you would rather do without a program, the same words can be picked with a dice roll from
+an open [word list](https://www.eff.org/dice): the roll gives the number of the word. That is how
+the method was invented, back when password managers did not exist.
+
+A phrase of six random words cannot be guessed, even by someone who knows how you built it. And
+you only have to remember one such phrase — the one for your password manager.
+
+## Check your passwords against leaks
+
+You can check a password at [Pwned Passwords](https://haveibeenpwned.com/Passwords), a database of
+passwords from known leaks. The password itself is not sent there: the browser turns it into
+a fingerprint and sends only the beginning of that fingerprint. From such a fragment the service
+cannot tell what exactly you were checking, and the answer is compared on your side. The same
+check is built into password managers, Bitwarden among them.
+
+If your password is found, it is already in the guessing dictionaries. Change it everywhere you
+used it. For what else about you is in the leaks, see the [Data leaks](./breaches.md) chapter.
+
+## Signing in without a password
+
+A passkey replaces the password with a pair of keys. The private key stays on your phone or
+computer and is unlocked with your fingerprint, face or PIN. The site only gets the public key,
+and it cannot be used to sign in.
+
+Hence two upsides:
+
+- **if the site leaks, your password will not be in the leak** — it was never there;
+- **phishing does not work**: the key is bound to the site's address, and on a fake page the
+browser will not offer it.
+
+But there are two privacy caveats as well. The keys are stored in a Google or Apple account, or in
+a password manager. They end up with a list of the sites where you set up a sign-in, and that
+account itself becomes the key to everything else.
+
+The second caveat is about Russia. "Passwordless sign-in" in Russian services usually means not
+a passkey but a QR code, a code over SMS or biometrics. That is, a binding to your phone number or
+to your face — for privacy that is a step back.
+
+Support changes fast, so check for yourself: look for "passkey" in the service's security settings.
+
+## Password managers
+
+This is something everyone should use. Recall the main principle from the first line, and
+a question comes up straight away: "So am I supposed to remember a hundred passwords?" No, you
+need to remember one — the one for your password manager.
+
+A manager comes up with strong passwords and keeps them in one protected place. And it does one
+more thing, less noticeable: it fills in a password only on the site it was saved for. If you open
+a sign-in page and the manager does not offer the password, the address is not the one you saved.
+People rarely spot the difference between `vk.com` and `vk-com.ru` by eye, while the manager
+compares the whole address.
+
+The personal recommendation of the compilers of this guide is [Bitwarden](https://bitwarden.com/).
+For personal use it is more than enough: the free version stores any number of passwords, works on
+any number of devices, can keep card numbers and notes, generates both passwords and passphrases,
+and checks passwords against leaks.
 
 ### LessPass
 
-What if it's difficult for you to store passwords and sync them between different devices? Password managers come to the rescue without the need to store anything!
+What if it is difficult for you to store passwords and sync them between different devices?
+Password managers that do not need to store anything come to the rescue.
 
-LessPass is not the only such program, but one of the most famous. Its concept is that the generation of one-time passwords occurs on the fly
-using a function, the result of which is always the same, provided the parameters are the same.
+LessPass is not the only such program, but one of the most famous. Its concept is that passwords
+are generated on the fly by a function whose result is always the same given the same parameters.
 
-The program needs to be informed:
-- master password
-- login on the website
-- site address
+The program needs to be told:
+- the master password
+- your login on the website
+- the site address
 
-After that, it will generate your password without sending any data or saving anything anywhere.
-At any time on any device, you can run this program — and get your password for a specific site.
+After that it will generate your password without sending any data or saving anything anywhere. At
+any time on any device you can run this program — and get your password for a specific site.
+
+This approach has a downside too. The master password cannot be changed on its own: change it, and
+all your passwords change at once. And if some site demands a password change or does not accept
+the generated one, you will have to remember an exception for it.
 
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/31013580/194948775-cfe3987f-acde-456a-a78b-5281dd06171e.png">
 
@@ -73,6 +164,8 @@ At any time on any device, you can run this program — and get your password fo
 ## Useful materials and links to sources
 
 - [Free LessPass password Manager runs on pure function](https://www.pvsm.ru/open-source/207324)
+- [Overview of password managers](https://habr.com/ru/company/cloud4y/blog/581916/)
+
 ---
 
 [⬅️ Back](./location.md) | [⏫ Table of contents](../README.md) | [➡️ Next](./photo.md)
