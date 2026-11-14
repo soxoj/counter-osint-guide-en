@@ -26,47 +26,7 @@ earlier leaks — and the usual rules are applied to every word: append a year, 
 letter, replace letters with lookalike digits. The closer your password is to that pattern, the
 faster it is found.
 
-### LEET does not help
-
-Replacing letters with lookalike digits — `password` as `p@ssw0rd`, `NETWORKHYGIENE` as
-`N3TW0RKHY6I3N3` — is often recommended as a trick. Everyone knows the trick, and the programs
-that guess passwords know it first. Having taken a word from a dictionary, such a program
-immediately tries every way of writing it with digits.
-
-The list of substitutions is short, because there are few digits and signs that look like letters:
-
-| letter | replaced with |
-|---|---|
-| a | 4, @ |
-| b | 6 |
-| c | <, { |
-| e | 3 |
-| g | 9 |
-| i | 1, ! |
-| o | 0 |
-| q | 9 |
-| s | 5, $ |
-| t | 7, + |
-| x | % |
-
-This is not our example but a file that ships with hashcat, the best known password-guessing
-program. It sits there ready and is switched on with a single checkbox. So remembering the password
-got harder for you, while guessing it stayed just as easy as before.
-
-### Words typed in the wrong keyboard layout do not help either
-
-A Russian phrase typed on a Latin keyboard turns `ехалгрекачерезреку` into `t[fkuhtrfxthtphtre`.
-It looks like a random string, but switching the layout is just as ordinary a guessing rule. And
-the trick is so popular that layout-shifted passwords already sit in the dictionaries as ready
-strings.
-
-Kaspersky went through 231 million passwords from leaks of 2023–2026, Russian ones among them.
-The most frequent included **`gfhjkm` (the Russian for "password" typed on a Latin keyboard),
-`vfvf` ("mum"), `gfgf` ("dad"), and the reverse direction — `мдфв` from `vlad`.** The same study
-found that length alone does not save you: one in five 15-character passwords is guessed in under
-a minute if it was built from a familiar pattern.
-
-### What does work: a password of random words
+### What to do: a password of random words
 
 The advice "think of three random words" breaks on the word "random". People do not invent
 randomness: the words that come to mind are from one topic, from a recent conversation, or start
@@ -86,6 +46,38 @@ the method was invented, back when password managers did not exist.
 
 A phrase of six random words cannot be guessed, even by someone who knows how you built it. And
 you only have to remember one such phrase — the one for your password manager.
+
+### What not to do
+
+Two tricks are recommended most often, and neither works. The first is replacing letters with
+lookalike digits: `password` as `p@ssw0rd`, `NETWORKHYGIENE` as `N3TW0RKHY6I3N3`. Password-guessing
+programs do this by themselves: having taken a word from a dictionary, such a program immediately
+tries every way of writing it with digits. The list of substitutions is short, because there are
+few digits and signs that look like letters, and it ships as a ready-made file with hashcat, the
+best known password-guessing program:
+
+| letter | replaced with |
+|---|---|
+| a | 4, @ |
+| b | 6 |
+| c | <, { |
+| e | 3 |
+| g | 9 |
+| i | 1, ! |
+| o | 0 |
+| q | 9 |
+| s | 5, $ |
+| t | 7, + |
+| x | % |
+
+The second trick is typing a word in the wrong keyboard layout: a Russian phrase typed on a Latin
+keyboard turns `ехалгрекачерезреку` into `t[fkuhtrfxthtphtre`. Switching the layout is just as
+ordinary a guessing rule, and the trick is so popular that layout-shifted passwords already sit in
+the dictionaries as ready strings. Kaspersky went through 231 million passwords from leaks, Russian
+ones among them, and the most frequent included **`gfhjkm` (the Russian for "password" typed on
+a Latin keyboard), `vfvf` ("mum"), `gfgf` ("dad"), and the reverse direction — `мдфв` from
+`vlad`.** The same study found that length alone does not save you: one in five 15-character
+passwords is guessed in under a minute if it was built from a familiar pattern.
 
 ## Check your passwords against leaks
 
