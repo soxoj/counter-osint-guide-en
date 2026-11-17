@@ -24,13 +24,6 @@ These often provide freemium access. You can find similar sites by searching for
 - https://leakcheck.io/
 - https://checkleaked.cc/
 
-#### Bots in Telegram
-
-~- https://t.me/PhoneLeaks_bot - search for leak sources~ - no longer works
-
-Most bots do not indicate the source from which the information was obtained. A list of some resources:
-[Google Spreadsheet](https://docs.google.com/spreadsheets/d/1XerMPGwaDz1FG1gBumBp6jzOgSqhWcQWgZmhxoT60WA/edit#gid=0).
-
 #### Notifications
 
 Some of the sites listed above also provide notification by email when a new leak containing your data is detected. If you lead an active online life, this type of service is highly recommended.
